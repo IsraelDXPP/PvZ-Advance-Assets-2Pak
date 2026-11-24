@@ -1,0 +1,37 @@
+[<l>]
+Palanca izquierda
+
+[<X>]
+X
+
+[ADVICE_CLICK_SHOVEL]
+¡Situa el cursor sobre la planta que quieras quitar
+y manten pulsado B para excavar!
+
+
+[HELP_TEXT_2_LSTICK]
+Palanca izquierda          Mover el cursor
+
+[HELP_TEXT_2_B]
+Boton B                                Cavar
+
+[HELP_TEXT_2_A]
+Boton A                                 Plantar
+
+[HELP_TEXT_2_X]
+Boton X                                 Mantequilla, mazo
+
+[HELP_TEXT_PAGE_1_OF_X]
+1/2 Ayuda
+
+[HELP_TEXT_PAGE_2_OF_X]
+2/2 Controles
+
+[ADVICE_CLICK_ON_SUN]
+¡Pasa por encima del sol que cae para recogerlo!
+
+[HELP_TEXT_PAGE_1_1]
+Pasa por encima del sol que cae para recogerlo
+
+[BUY_MONEY_FORMAT]
+   Monedas V %d = %.0f Monedas de arroz

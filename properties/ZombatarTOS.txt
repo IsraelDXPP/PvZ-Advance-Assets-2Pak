@@ -1,0 +1,25 @@
+[ZOMBATAR_TOS_HEADER]
+Acuerdo de Licencia de Zombatar
+
+[ZOMBATAR_TOS]
+Términos de Licencia Suplementarios para Zombatar 
+
+ESTOS TÉRMINOS DE LICENCIA SUPLEMENTARIOS, JUNTO CON EL ACUERDO DE LICENCIA DE USUARIO FINAL, SE APLICAN A TU CREACIÓN Y USO DE UN ZOMBATAR Y JUNTOS CONSTITUYEN UN ACUERDO LEGAL VINCULANTE ENTRE POPCAP GAMES, INC. (“POPCAP”) Y TÚ Y, SI CORRESPONDE, LA EMPRESA U OTRA ENTIDAD LEGAL QUE REPRESENTES (COLECTIVAMENTE, “TÚ” Y “TU”).  
+AL CREAR Y USAR UN ZOMBATAR, RECONOCES QUE ENTIENDES Y ACEPTAS ESTAR OBLIGADO POR ESTOS TÉRMINOS SUPLEMENTARIOS.  SI NO ESTÁS DE ACUERDO CON ESTOS TÉRMINOS, NO PUEDES CREAR NI UTILIZAR UN ZOMBATAR. 
+
+PopCap te concede una licencia personal, limitada, revocable y no transferible para usar el Juego para crear tu propio zombi personalizado (un “Zombatar”). Cualquier Zombatar que crees forma parte del Juego y, por lo tanto, es propiedad de PopCap y/o sus licenciantes terceros y está protegido por las leyes y tratados de derechos de autor internacionales y de los Estados Unidos. PopCap y/o sus licenciantes terceros retienen todo derecho, título e interés sobre cualquier Zombatar que crees y se reservan todos los derechos no otorgados expresamente en estos Términos Suplementarios de Licencia.  
+
+Puedes acceder y utilizar un Zombatar que crees únicamente para tu uso personal y no comercial. No puedes modificar, vender, aplicar ingeniería inversa ni intentar de cualquier otro modo obtener acceso a un Zombatar que crees mediante el Juego. Eres libre de reproducir, distribuir, transmitir y mostrar públicamente un Zombatar que crees sujeto a las siguientes condiciones:  
+•	No puedes utilizar un Zombatar con fines comerciales, de negocios ni en publicidad de ningún tipo sin el permiso expreso por escrito de PopCap.
+•	No puedes distribuir un Zombatar con los siguientes tipos de contenido: 
+•	contenido que infrinja los derechos de terceros, incluidos, entre otros: derechos de autor (incluida música con copyright), marcas comerciales, derechos de publicidad o cualquier otro derecho de propiedad;  
+•	contenido que constituya material difamatorio, calumnioso, despectivo o agraviante; 
+•	contenido que retrate pornografía, contenido para adultos o cualquier otro material sexualmente explícito; 
+•	contenido que retrate loterías o juegos de azar; 
+•	contenido que contenga lenguaje o material excesivamente explícito u ofensivo; 
+•	contenido que promueva actividades ilegales; 
+•	contenido que retrate tabaco, alcohol o drogas; 
+•	contenido que retrate o promueva el fanatismo, racismo, odio o daño contra cualquier grupo o individuo, o promueva la discriminación por motivos de raza, sexo, religión, nacionalidad, discapacidad, orientación sexual, edad o cualquier motivo protegido por leyes, ordenanzas o normativas federales, estatales o locales; 
+•	contenido que denigre, menosprecie o refleje negativamente a PopCap, sus productos o sus empleados, o a cualquier otra persona, empresa, producto o servicio, o que desacredite a los competidores de PopCap. 
+
+Aceptas indemnizar, defender y eximir de responsabilidad a PopCap, sus filiales, subsidiarias, proveedores de servicios, distribuidores, licenciantes, funcionarios, directores y empleados de cualquier reclamación, pérdida, daño o responsabilidad, incluidos los honorarios razonables de abogados, que surjan de o estén relacionados con tu uso de un Zombatar, tu incumplimiento de estos Términos Suplementarios de Licencia o tu infracción de cualquier ley, norma, reglamento o derecho de terceros aplicable.

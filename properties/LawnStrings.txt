@@ -1,0 +1,4688 @@
+﻿[LOCALE]
+C
+
+[CURRENCY_SYMBOL]
+$
+
+[CURRENCY_STRING]
+{CURRENCY_SYMBOL}{AMOUNT}
+
+[CONNECTION_SERVER]
+Conectando al servidor...
+
+[LOGIN_FAILED_HEADER]
+PvZ 2 PAK de Luminord08
+
+[LOGIN_FAILED_MSG]
+Bienvenido a PvZ 2 PAK
+Este Mod cambia las texturas y musica de PvZ 1 al estilo de PvZ 2, con plantas y zombis hechos por la comunidad, disfruta del juego!
+Pulsa el boton <A> para continuar 
+
+[RECHARGE_SUCCEED]
+Recarga exitosa!
+
+[MONEY_NOT_ENOUGH_TO_BUY_MONEY_HEADER]
+Monedas insuficientes!
+
+[MONEY_NOT_ENOUGH_HEADER]
+Recargar V monedas
+
+[MONEY_NOT_ENOUGH_MSG]
+Vno son suficientes～亲～
+
+[BUY_MONEY_FORMAT]
+%d Moneda = %.2f Yuan
+
+[BUY_MONEY_TITLE_STRING]
+%d Moneda
+
+[MONEY_BUY_BUTTON]
+Recarga
+
+[PEASHOOTER]
+Lanzaguisantes
+
+[PEASHOOTER_TOOLTIP]
+Lanza guisantes al enemigo.
+
+[SUNFLOWER]
+Girasol
+
+[SUNFLOWER_TOOLTIP]
+Genera sol.
+
+[CHERRY_BOMB]
+Petacereza
+
+[PurchaseSecretKey]
+Por favor ingrese su contrasena de suscripcion!
+
+[PurchaseSecretKey_Failed]
+¡La contrasena de suscripcion es incorrecta!
+
+[CHERRY_BOMB_TOOLTIP]
+Explota con los zombis de un area de 3x3.
+
+[WALL_NUT]
+Nuez
+
+[WALL_NUT_TOOLTIP]
+Bloquea a los zombis y protege a tus plantas.
+
+[REPEATER]
+Repetidora
+
+[REPEATER_TOOLTIP]
+Dispara dos guisantes a la vez.
+
+[POTATO_MINE]
+Patatapum
+
+[POTATO_MINE_TOOLTIP]
+Explota cuando un zombi se acerca, pero tarda en armarse.
+
+[SNOW_PEA]
+Hielaguisantes
+
+[SNOW_PEA_TOOLTIP]
+Lanza guisantes helados que ralentizan y danan.
+
+[CHOMPER]
+Planta Carnivora
+
+[CHOMPER_TOOLTIP]
+Puede comer un zombi entero, pero es vulnerable cuando mastica.
+
+[PUFF_SHROOM]
+Seta Desesporada
+
+[PUFF_SHROOM_TOOLTIP]
+Lanza esporas a corta distancia.
+
+[SUN_SHROOM]
+Seta Solar
+
+[SUN_SHROOM_TOOLTIP]
+Da poco sol al principio y normal despues.
+
+[FUME_SHROOM]
+Humoseta
+
+[FUME_SHROOM_TOOLTIP]
+Exhala humos que traspasan puertas.
+
+[GRAVE_BUSTER]
+Comepiedras
+
+[GRAVE_BUSTER_TOOLTIP]
+Plantalo sobre una tumba para quitarla.
+
+[HYPNO_SHROOM]
+Hipnoseta
+
+[HYPNO_SHROOM_TOOLTIP]
+Hipnotiza a un zombi que se vuelve tu aliado.
+
+[SCAREDY_SHROOM]
+Seta Miedica
+
+[SCAREDY_SHROOM_TOOLTIP]
+Dispara desde lejos y se esconde si se acerca un zombi.
+
+[ICE_SHROOM]
+Seta Congelada
+
+[ICE_SHROOM_TOOLTIP]
+Paraliza a los zombis en pantalla por un tiempo.
+
+[DOOM_SHROOM]
+Petaseta
+
+[DOOM_SHROOM_TOOLTIP]
+Explota y deja un crater a su alrededor.
+
+[LILY_PAD]
+Nenufar
+
+[LILY_PAD_TOOLTIP]
+Puedes plantar sobre el plantas que no sean acuaticas.
+
+[SQUASH]
+Apisonaflor
+
+[SQUASH_TOOLTIP]
+Aplasta zombis.
+
+[THREEPEATER]
+Tripitidora
+
+[THREEPEATER_TOOLTIP]
+Dispara guisantes en tres lineas.
+
+[TANGLE_KELP]
+Zampalga
+
+[TANGLE_KELP_TOOLTIP]
+Planta acuatica. Succiona zombis bajo el agua.
+
+[JALAPENO]
+Jalapeno
+
+[JALAPENO_TOOLTIP]
+Acaba con los zombis de una linea entera.
+
+[SPIKEWEED]
+Pinchohierba
+
+[SPIKEWEED_TOOLTIP]
+Saca pinchos y dana a quien le ponga el pie encima.
+
+[TORCHWOOD]
+Plantorcha
+
+[TORCHWOOD_TOOLTIP]
+Los guisantes que la sobrevuelen se prenderan.
+
+[TALL_NUT]
+Nuez Cascara-Rabias
+
+[TALL_NUT_TOOLTIP]
+Planta muy resistente que no puede rebasarse.
+
+[SEA_SHROOM]
+Marseta
+
+[SEA_SHROOM_TOOLTIP]
+Planta acuatica que dispara esporas de cerca.
+
+[PLANTERN]
+Planterna
+
+[PLANTERN_TOOLTIP]
+Ilumina un area permitiendo ver en la niebla.
+
+[CACTUS]
+Cactus
+
+[CACTUS_TOOLTIP]
+Dispara pinchos que revientan globos.
+
+[BLOVER]
+Trebolador
+
+[BLOVER_TOOLTIP]
+Sopla y aleja los globos y la niebla.
+
+[SPLIT_PEA]
+Bipetidora
+
+[SPLIT_PEA_TOOLTIP]
+Dispara guisantes hacia delante y atras.
+
+[STARFRUIT]
+Frustrella
+
+[STARFRUIT_TOOLTIP]
+Dispara estrellas en 5 direcciones.
+
+[PUMPKIN]
+Calabaza
+
+[PUMPKIN_TOOLTIP]
+Protege a otras plantas.
+
+[MAGNET_SHROOM]
+Magnetoseta
+
+[MAGNET_SHROOM_TOOLTIP]
+Desarma de cascos y objetos metalicos a los zombis.
+
+[CABBAGE_PULT]
+Coltapulta
+
+[CABBAGE_PULT_TOOLTIP]
+Lanza coles al enemigo.
+
+[FLOWER_POT]
+Maceta
+
+[FLOWER_POT_TOOLTIP]
+Te permite plantar en el tejado.
+
+[KERNEL_PULT]
+Lanzamaiz
+
+[KERNEL_PULT_TOOLTIP]
+Arroja maiz y mantequilla a los zombis.
+
+[GARLIC]
+Ajo
+
+[GARLIC_TOOLTIP]
+Repele zombis a otras lineas.
+
+[UMBRELLA_LEAF]
+Paraplanta
+
+[UMBRELLA_LEAF_TOOLTIP]
+Protege a las plantas cercanas de objetos arrojadizos.
+
+[MARIGOLD]
+Margarita
+
+[MARIGOLD_TOOLTIP]
+Produce monedas de oro y plata.
+
+[MELON_PULT]
+Melonpulta
+
+[MELON_PULT_TOOLTIP]
+Inflige grandes danos a grupos de zombis.
+
+[GATLING_PEA]
+Guisantralladora
+
+[GATLING_PEA_TOOLTIP]
+Dispara 4 guisantes a la vez.
+(Requiere Repetidora)
+
+[TWIN_SUNFLOWER]
+Birasol
+
+[TWIN_SUNFLOWER_TOOLTIP]
+Proporciona el doble de sol que el Girasol.
+(Requiere Girasol)
+
+[GLOOM_SHROOM]
+Gasoseta
+
+[GLOOM_SHROOM_TOOLTIP]
+Exhala gases pesados a su alrededor.
+(Requiere Humoseta)
+
+[CATTAIL]
+Rabo de Gato
+
+[CATTAIL_TOOLTIP]
+Ataca en una linea y revienta los globos.
+(Requiere Nenufar)
+
+[WINTER_MELON]
+Melonpulta Congelada
+
+[WINTER_MELON_TOOLTIP]
+Causa grandes danos a grupos de zombis.
+(Requiere Melonpulta)
+
+[GOLD_MAGNET]
+Magnetoseta Dorada
+
+[GOLD_MAGNET_TOOLTIP]
+Recoge monedas y diamantes.
+(Requiere Magnoseta)
+
+[SPIKEROCK]
+Pinchorroca
+
+[SPIKEROCK_TOOLTIP]
+Saca pinchos que danan a los zombis que la pisan.
+(Requiere Pinchohierba)
+
+[COB_CANNON]
+Mazorcanon
+
+[COB_CANNON_TOOLTIP]
+Tocalo para lanzar mazorcas letales.
+(Requiere 2 Lanzamaices)
+
+[IMITATER]
+Imitadora
+
+[IMITATER_TOOLTIP]
+Duplica cualquier planta.
+
+[COFFEE_BEAN]
+Grano de Cafe
+
+[COFFEE_BEAN_TOOLTIP]
+Plantalo en una seta para despertarla.
+
+[EXPLODE_O_NUT]
+Explotonuez
+
+[EXPLODE_O_NUT_TOOLTIP]
+Explota al contacto.
+
+[GIANT_WALLNUT]
+Nuez gigante
+
+[SPROUT]
+Brote
+
+[MARIGOLD_SPROUT]
+Brote de margarita
+
+[ZOMBIE]
+Zombi
+
+[FLAG_ZOMBIE]
+Zombi Abanderado
+
+[CONEHEAD_ZOMBIE]
+Zombi Caracono
+
+[BUCKETHEAD_ZOMBIE]
+Zombi Caracubo
+
+[POLE_VAULTING_ZOMBIE]
+Saltador de Pertiga
+
+[NEWSPAPER_ZOMBIE]
+Zombi Lector
+
+[SCREEN_DOOR_ZOMBIE]
+Zombi Portero
+
+[FOOTBALL_ZOMBIE]
+Zombi Futbolista
+
+[DANCING_ZOMBIE]
+Zombi Bailon
+
+[BACKUP_DANCER]
+Zombi Extra
+
+[DUCKY_TUBE_ZOMBIE]
+Zombi Playero
+
+[SNORKEL_ZOMBIE]
+Zombie Buzo 
+
+[ZOMBONI]
+Zombictor 
+
+[ZOMBIE_BOBSLED_TEAM]
+Zombi de Bobsleigh
+
+[DOLPHIN_RIDER_ZOMBIE]
+Zombie con Delfin
+
+[JACK_IN_THE_BOX_ZOMBIE]
+Zombi con Cajita
+
+[BALLOON_ZOMBIE]
+Zombi con Globo
+
+[DIGGER_ZOMBIE]
+Zombi Picado
+
+[POGO_ZOMBIE]
+Zombi con Pogo
+
+[ZOMBIE_YETI]
+Zombi Yeti
+
+[BUNGEE_ZOMBIE]
+Zombi Colgado
+
+[LADDER_ZOMBIE]
+Zombi Escalador
+
+[CATAPULT_ZOMBIE]
+Zombipulta
+
+[GARGANTUAR]
+Zombistein
+
+[REDEYED_GARGANTUAR]
+Megazombistein
+
+[IMP]
+Zombidito
+
+[BOSS]
+Dr. Zombi
+
+[DOG_WALKING_ZOMBIE]
+Zombi paseaperros
+
+[DOG_ZOMBIE]
+Perro zombi
+
+[PROPELLER_ZOMBIE]
+Zombi a propulsion
+
+[PEASHOOTER_DESCRIPTION_HEADER]
+Los Lanzaguisantes son tu primera linea defensiva. Disparan guisantes a los zombis.
+
+[PEASHOOTER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal
+{SHORTLINE}
+{FLAVOR}¿Como puede una planta crecer y disparar guisantes tan rapido? Lanzaguisantes dice:{STAT}
+"Entrega, trabajo duro y una dieta rica en rayos de sol y saludable
+dioxido de carbono lo hacen posible".
+[SUNFLOWER_DESCRIPTION_HEADER]
+Los Girasoles son esenciales para producir sol extra. ¡Intenta plantar tantos como puedas!
+
+[SUNFLOWER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Produccion de sol:{STAT} normal
+{SHORTLINE}
+{FLAVOR}El Girasol no puede resistir moverse al son de la melodia. ¿Cual? La melodia
+de la orquesta de la vida en la Tierra, una melodia en una frecuencia que solo los Girasoles pueden oir.
+
+[WALL_NUT_DESCRIPTION_HEADER]
+La Nuez tiene una cascara muy dura. Protege con ella a tus otras plantas.
+
+[WALL_NUT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} alta
+{SHORTLINE}
+{FLAVOR}"La gente se pregunta que siento cuando me muerden los zombis", dice Nuez.
+"No tengo mucho sentido del tacto, asi que para mi es como un cosquilleo, como un buen masaje de espalda".
+
+[CHERRY_BOMB_DESCRIPTION_HEADER]
+La Petacereza hara explotar los zombis de un area. Su alcance es corto, asi que plantala en el mogollon.
+
+[CHERRY_BOMB_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} masivo
+{KEYWORD}Alcance:{STAT} zombis de un area mediana
+{KEYWORD}Uso:{STAT} unico e instantaneo
+{SHORTLINE}
+{FLAVOR}"¡Quiero explotar!", dice la Petacereza. "No, ¡mola mas detonar!", dice
+su hermanita. Tras un intenso debate llegaron a un acuerdo: '¡explonar!'.
+
+[POTATO_MINE_DESCRIPTION_HEADER]
+Patatapum asesta un buen golpe, pero necesita armarse antes. Plantala delante de los zombis para que explote al contacto.
+
+[POTATO_MINE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} masivo
+{KEYWORD}Alcance:{STAT} todos los zombis en un area pequeña
+{KEYWORD}Uso:{STAT} unico, activacion retardada
+{SHORTLINE}
+{FLAVOR}Algunos dicen que Patatapum es muy vaga, que lo deja todo para el ultimo
+minuto. Ella no dice nada; esta muy ocupada planeando estrategias.
+
+[REPEATER_DESCRIPTION_HEADER]
+La Repetidora dispara dos guisantes a la vez.
+
+[REPEATER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal (por guisante)
+{KEYWORD}Vel. de disparo:{STAT} x 2
+{SHORTLINE}
+{FLAVOR}Repetidora es muy dura; se crio en las calles. No consiente chulerias ni a plantas
+ni a zombis, y dispara guisantes para guardar las distancias. Aunque en verdad, Repetidora esta falta de carino.
+
+[SNOW_PEA_DESCRIPTION_HEADER]
+El Hielaguisantes lanza guisantes congelados. Dana y ralentiza al enemigo.
+
+[SNOW_PEA_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal, ralentiza zombis.
+{SHORTLINE}
+{FLAVOR}Siempre le dicen que es un tipo "frio", que nunca se "calienta" la cabeza.
+Y es que no hay nada que lo deje mas "helado" de lo que ya esta.
+
+[CHOMPER_DESCRIPTION_HEADER]
+La Planta Carnivora engulle zombis enteros, pero es vulnerable mientras mastica.
+
+[CHOMPER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} masivo
+{KEYWORD}Alcance:{STAT} muy corto
+{KEYWORD}Especial:{STAT} largo intervalo de masticacion
+{SHORTLINE}
+{FLAVOR}Estuvo a punto de conseguir un trabajo como especialista en Hollywood, pero su representante pidio mas, demasiado. La Planta Carnivora
+no le guarda rencor. "Asi es este mundillo".
+
+[PUFF_SHROOM_DESCRIPTION_HEADER]
+La Seta Desesporada sale barata, pero solo dispara de cerca.
+
+[PUFF_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal
+{KEYWORD}Alcance:{STAT} corto
+{NOCTURNAL}Duerme durante el dia.
+{SHORTLINE}
+{FLAVOR}"Me entere de que los zombis existian hace nada", afirma Seta desesporada. "Como muchas
+otras setas creia que solo existian en las peliculas. Asi que cuando vi que eran reales, ¡me desespore de miedo!".
+
+[SUN_SHROOM_DESCRIPTION_HEADER]
+La Seta Solar produce poco sol al principio y normal despues.
+
+[SUN_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Produccion de sol:{STAT} lenta, luego normal
+{NOCTURNAL}Duerme durante el dia.
+{SHORTLINE}
+{FLAVOR}La Seta Solar odia el sol. Lo odia tanto que cuando su cuerpo lo crea, lo escupe
+enseguida. No lo soporta. Tampoco es muy sociable: prefiere quedarse en la sombra.
+
+[FUME_SHROOM_DESCRIPTION_HEADER]
+La Humoseta exhala humos que traspasan puertas.
+
+[FUME_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal, traspasa las puertas.
+{KEYWORD}Alcance:{STAT} todo zombi que toque el humo
+{NOCTURNAL}Duerme durante el dia.
+{SHORTLINE}
+{FLAVOR}"Tenia un empleo basura haciendo esporas para levadura", declara Humoseta. 
+"La Seta Desesporada, bendita sea, me hablo de esta gran oportunidad de aniquilar zombis. Ahora se que hago algo de provecho".
+
+[GRAVE_BUSTER_DESCRIPTION_HEADER]
+Planta un Comepiedras sobre una lapida para quitarla.
+
+[GRAVE_BUSTER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Uso:{STAT} unico, sobre lapidas
+{KEYWORD}Especial:{STAT} quita lapidas.
+{SHORTLINE}
+{FLAVOR}Pese a su mal aspecto, Comepiedras quiere que todo el mundo sepa que ama
+a los gatitos y que es voluntario en un centro de rehabilitacion para zombis. "Es lo menos que puedo hacer", declara.
+
+[HYPNO_SHROOM_DESCRIPTION_HEADER]
+Si un zombi ingiere una Hipnoseta, dara media vuelta y luchara por ti.
+
+[HYPNO_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Uso:{STAT} unico, al contacto
+{KEYWORD}Especial:{STAT} el zombi luchara por ti.
+{NOCTURNAL}Duerme durante el dia.
+{SHORTLINE}
+{FLAVOR}"Los zombis son nuestros amigos", sentencia Hipnoseta. "Son unos incomprendidos
+que desempenan una importante labor en el ecosistema. Deberiamos hacer mas por acercar nuestras posturas".
+
+[SCAREDY_SHROOM_DESCRIPTION_HEADER]
+Las Setas Miedicas disparan de lejos y se esconden cuando el enemigo se acerca.
+
+[SCAREDY_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal
+{KEYWORD}Especial:{STAT} deja de disparar con el enemigo cerca.
+{NOCTURNAL}Duerme durante el dia.
+{SHORTLINE}
+{FLAVOR}"¿Quien anda ahi?", tartamudea Seta Miedica con un hilo de voz. "Vete. No quiero ver a nadie. A no ser que seas el jardinero...".
+
+[ICE_SHROOM_DESCRIPTION_HEADER]
+La Seta Congelada paraliza a todos los zombis en pantalla.
+
+[ICE_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} muy debil, paraliza a los zombis.
+{KEYWORD}Alcance:{STAT} todos los zombis en pantalla
+{KEYWORD}Uso:{STAT} unico e instantaneo
+{NOCTURNAL}Duerme durante el dia.
+{SHORTLINE}
+{FLAVOR}Seta Congelada tiene el ceno fruncido por un accidente que le paralizo los nervios faciales.
+
+[DOOM_SHROOM_DESCRIPTION_HEADER]
+Petaseta lo destruye todo en una gran area y deja un crater en el que no se puede replantar.
+
+[DOOM_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} masivo
+{KEYWORD}Alcance:{STAT} todos los zombis de una gran area
+{KEYWORD}Uso:{STAT} unico e instantaneo
+{KEYWORD}Especial:{STAT} deja un crater.
+{NOCTURNAL}Duerme durante el dia.
+{SHORTLINE}
+{FLAVOR}"Tienes suerte de tenerme en tu bando".
+
+[LILY_PAD_DESCRIPTION_HEADER]
+Puedes plantar sobre los Nenufares plantas no acuaticas.
+
+[LILY_PAD_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Especial:{STAT} plantas no acuaticas sobre ellos
+{AQUATIC}Plantar en agua.
+{SHORTLINE}
+{FLAVOR}Nenufar nunca se queja. Nenufar no quiere saber nada de lo que pasa. A Nenufar solo le ponen plantas encima y no rechista. ¿Tendra opiniones interesantes u ocultara secretos perturbadores? Nadie lo sabe. Nenufar no habla
+
+[SQUASH_DESCRIPTION_HEADER]
+La Apisonaflor aplastara al primer zombi que se le acerque.
+
+[SQUASH_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} masivo
+{KEYWORD}Alcance:{STAT} corto, aplasta a todos los zombis que pise.
+{KEYWORD}Uso:{STAT} unico
+{SHORTLINE}
+{FLAVOR}"'¡A por ellos!", grita Apisonaflor. "¡A por ellos! ¡Venga, sacame! Soy la mejor, vamos, ¿a que esperas? ¡Lo necesito!"
+
+[THREEPEATER_DESCRIPTION_HEADER]
+Las Tripitidoras disparan guisantes en tres lineas.
+
+[THREEPEATER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal (por guisante)
+{KEYWORD}Alcance:{STAT} tres lineas
+{SHORTLINE}
+{FLAVOR}A la Tripitidora le gusta la lectura, el ajedrez y pasar largos ratos el parque.
+Le gusta ir a conciertos de musica jazz. "Estoy buscando a mi alma gemela", asegura. Su numero favorito: el 5.
+
+[TANGLE_KELP_DESCRIPTION_HEADER]
+La Zampalga es una planta acuatica que succiona zombis bajo el agua.
+
+[TANGLE_KELP_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} masivo
+{KEYWORD}Uso:{STAT} unico, al contacto
+{AQUATIC}Plantar en agua.
+{SHORTLINE}
+{FLAVOR}"Soy invisible", piensa Zampalga en voz alta. "Me camuflo por la superficie y nadie me ve".
+Sus amigos le dicen que es visible, y mucho, pero ella sigue en sus trece.
+
+[JALAPENO_DESCRIPTION_HEADER]
+El Jalapeno arrasa con una linea entera de zombis.
+
+[JALAPENO_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} masivo
+{KEYWORD}Alcance:{STAT} todos los zombis de una linea
+{KEYWORD}Uso:{STAT} unico e instantaneo
+{SHORTLINE}
+{FLAVOR}"¡¡¡¡NNNNNGGGGGG!!!!", masculla Jalapeno. No va a explotar, todavia no. Pero pronto... muuuy pronto.
+Se acerca el momento. Lo sabe. Lo siente. Toda su vida ha esperado este gran momento.
+
+[SPIKEWEED_DESCRIPTION_HEADER]
+La Pinchohierba saca pinchos y hiere a quien ose pisarla.
+
+[SPIKEWEED_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal
+{KEYWORD}Alcance:{STAT} zombis que la pisen.
+{KEYWORD}Especial:{STAT} los zombis no se la comen.
+{SHORTLINE}
+{FLAVOR}El hockey es la obsesion de Pinchohierba. Tiene entradas para toda la temporada. Sigue muy de cerca a sus jugadores favoritos y siempre gana en las apuestas. Aunque hay un problema: ¡tiene panico a los discos!
+
+[TORCHWOOD_DESCRIPTION_HEADER]
+La Plantorcha prende los guisantes que la sobrevuelan y estos causan el doble de dano.
+
+[TORCHWOOD_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Especial:{STAT} Los guisantes en llamas duplican el dano, que se extiende a zombis cercanos al impacto.
+{SHORTLINE}
+{FLAVOR}Todo el mundo respeta a Plantorcha; por su integridad, por su amistad sincera, y sobre todo, por su habilidad para duplicar el dano de los guisantes. Pero Plantorcha esconde un secreto: no sabe leer.
+
+[TALL_NUT_DESCRIPTION_HEADER]
+La Nuez Cascara-Rabias es muy dura de pelar e imposible de saltar.
+
+[TALL_NUT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} muy alta
+{KEYWORD}Especial:{STAT} no se puede saltar.
+{SHORTLINE}
+{FLAVOR}La gente se pregunta si existe algun tipo de rivalidad entre Nuez y ella. A lo que responde con una sonora carcajada: "¿Como vamos a ser enemigas? ¡Si somos hermanas! Con lo que Nuez ha hecho por mi...". Su voz se apaga mientras esboza una sonrisa de reconocimiento.
+
+[SEA_SHROOM_DESCRIPTION_HEADER]
+La Marseta es una planta acuatica. Dispara esporas de cerca.
+
+[SEA_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal
+{KEYWORD}Alcance:{STAT} corto
+{AQUATIC}Plantar en agua.
+{NOCTURNAL}Duerme durante el dia.
+{SHORTLINE}
+{FLAVOR}Marseta nunca ha visto el mar. Lo lleva en su nombre y ha oido miles de historias sobre el, pero nunca ha tenido tiempo para ir a verlo. Algun dia lo hara, seguro.
+
+[PLANTERN_DESCRIPTION_HEADER]
+La Planterna ilumina un area, permitiendo ver en la niebla.
+
+[PLANTERN_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Alcance:{STAT} una linea
+{KEYWORD}Especial:{STAT} visibilidad en niebla
+{SHORTLINE}
+{FLAVOR}Planterna desafia las leyes de la naturaleza. Otras plantas se alimentan de luz y sueltan oxigeno, pero Planterna come oscuridad y arroja luz. El truco de como lo hace: "No es que sea 'magia', y tampoco lo llamaria 'fuerzas oscuras'. Bueno, creo que ya he hablado suficiente".
+
+[CACTUS_DESCRIPTION_HEADER]
+El Cactus lanza espinas sobre objetivos terrestres y aereos.
+
+[CACTUS_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal
+{KEYWORD}Alcance:{STAT} terrestre y aereo
+{SHORTLINE}
+ {FLAVOR}Puede que pinche por fuera, pero debajo de esas peligrosas espinas yace un corazon bondadoso. Es muy carinoso y le encanta dar abrazos y que lo abracen, lo que para muchos es un problema, pero a el no le importa. Su mejor amigo de toda la vida es un armadillo.
+
+[BLOVER_DESCRIPTION_HEADER]
+El Trebolador expulsa los globos y la niebla.
+
+[BLOVER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Uso:{STAT} unico e instantaneo
+{KEYWORD}Especial:{STAT} expulsa los globos y la niebla.
+{SHORTLINE}
+{FLAVOR}Para su quinto aniversario le prepararon un pastel. Trebolador pidio un deseo, se concentro y soplo. Pero solo apago la mitad de las velas. En lugar de rendirse, saco fuerzas de aquella derrota
+para superarse una y otra vez.
+
+[SPLIT_PEA_DESCRIPTION_HEADER]
+La Bipetidora dispara hacia adelante y atras.
+
+[SPLIT_PEA_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal
+{KEYWORD}Alcance:{STAT} ambos sentidos en linea
+{KEYWORD}Vel. de disparo:{STAT} adelante x 1, atras x 2
+{SHORTLINE}
+{FLAVOR}"Si, soy Geminis", afirma Bipetidora. "Uy, que noticion. Teniendo dos cabezas, salta a la vista. Tener otra cabeza en la cocorota me viene de perlas para mi trabajo".
+
+[STARFRUIT_DESCRIPTION_HEADER]
+La Frustrella dispara en 5 direcciones.
+
+[STARFRUIT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal
+{KEYWORD}Alcance:{STAT} 5 direcciones
+{SHORTLINE}
+{FLAVOR}"¡Jopeta!", masculla Frustrella. "Fui al dentista el otro dia y me dijo que tenia cuatro caries.
+¡Y solo tengo un diente! ¿Cuatro caries en un diente? ¿Pero como puede ser?".
+
+[PUMPKIN_DESCRIPTION_HEADER]
+La Calabaza protege las plantas de su interior.
+
+[PUMPKIN_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} alta
+{KEYWORD}Especial:{STAT} se planta sobre otra planta.
+{SHORTLINE}
+{FLAVOR}Calabaza nunca entendio por que dar calabazas es algo malo. Simplemente, no lo entiende.
+"Ese tipo de prejuicios son los que hacen que nuestra sociedad no avance".
+
+[MAGNET_SHROOM_DESCRIPTION_HEADER]
+La Magnetoseta desarma a los zombis de cascos y objetos metalicos.
+
+[MAGNET_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Alcance:{STAT} cerca de zombis
+{KEYWORD}Especial:{STAT} desarma de objetos metalicos.
+{NOCTURNAL}Duerme durante el dia.
+{SHORTLINE}
+{FLAVOR}El magnetismo es una fuerza poderosa. Muy poderosa. A veces la propia Magnetoseta se
+asusta un poco. Un gran poder conlleva una gran responsabilidad.
+
+[CABBAGE_PULT_DESCRIPTION_HEADER]
+La Coltapulta lanza coles al enemigo.
+
+[CABBAGE_PULT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal
+{KEYWORD}Alcance:{STAT} largo, por arriba
+{SHORTLINE}
+{FLAVOR}A Coltapulta no le disgusta lanzar coles a los zombis. Despues de todo, para eso le pagan,
+y se le da muy bien. Pero lo que no entiende es como recorcholis llegan los zombis al tejado.
+
+[FLOWER_POT_DESCRIPTION_HEADER]
+La Maceta te permite plantar en el tejado.
+
+[FLOWER_POT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Especial:{STAT} permite plantar en el tejado.
+{SHORTLINE}
+{FLAVOR}"Soy una maceta para plantas. Y tambien soy una planta. ¿NO TE EXPLOTA LA CABEZA?".
+
+[KERNEL_PULT_DESCRIPTION_HEADER]
+La Lanzamaiz catapulta maiz y mantequilla a los zombis.
+
+[KERNEL_PULT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} debil (granos), normal (mantequilla)
+{KEYWORD}Alcance:{STAT} largo, por arriba
+{KEYWORD}Especial:{STAT} la mantequilla paraliza al enemigo.
+{SHORTLINE}
+{FLAVOR}Lanzamaiz es la hermana mayor de los lanzadores. De los tres, ella es la unica
+que se acuerda de los cumpleanos de los demas. Y les da la tabarra con eso.
+
+[COFFEE_BEAN_DESCRIPTION_HEADER]
+Usa Granos de Cafe para despertar a tus setas.
+
+[COFFEE_BEAN_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Uso:{STAT} unico e instantaneo
+{KEYWORD}Especial:{STAT} se planta sobre otra planta y despierta a las setas.
+{SHORTLINE}
+{FLAVOR}"¡Eh, que pasa, pena!", dice Grano de Cafe. "¡Eh! ¿Que pasa? ¿Quien eres? ¿Has visto eso?
+¿El que? ¡Gua! ¡Leones!". Si, a Grano de Cafe le dan subidones.
+
+[GARLIC_DESCRIPTION_HEADER]
+El Ajo repele al enemigo y lo desvia a otras lineas.
+
+[GARLIC_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Uso:{STAT} al contacto
+{KEYWORD}Especial:{STAT} desvia zombis a otras lineas.
+{SHORTLINE}
+{FLAVOR}Desviar el trafico no es solo su profesion, sino su pasion. Ajo se esta sacando un doctorado
+en Redireccion por la Universidad de Bruselas. Se pasa el dia hablando de vectores lineales y angulos. 
+Incluso se lleva el trabajo a casa y cambia los pasillos de su hogar, cosa que su mujer le consiente.
+
+[UMBRELLA_LEAF_DESCRIPTION_HEADER]
+La Paraplanta protege a plantas cercanas de Zombis Colgados.
+
+[UMBRELLA_LEAF_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Especial:{STAT} protege plantas de Zombis Colgados y Zombipultas.
+{SHORTLINE}
+{FLAVOR}"¡POING!", dice Paraplanta. "¿Te ha gustado? Lo puedo repetir. ¡POING! ¡Yiii! Asi soy yo,
+que acudo para proteger cosas. Si, el tema es ese. EXACTAMENTE ese. Lo que yo te diga".
+
+[MARIGOLD_DESCRIPTION_HEADER]
+La Margarita te da monedas de oro y plata.
+
+[MARIGOLD_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Especial:{STAT} proporciona monedas.
+{SHORTLINE}
+{FLAVOR}La Margarita tarda mucho en decidir si sacar una moneda de oro o de plata. Sopesa los pros y los contras desde todos los puntos de vista. Se documenta con fuentes fidedignas y elige con cautela. Asi es como destaca una triunfadora.
+
+[MELON_PULT_DESCRIPTION_HEADER]
+La Melonpulta causa grandes danos a grupos de zombis.
+
+[MELON_PULT_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} fuerte
+{KEYWORD}Alcance:{STAT} largo, por arriba
+{KEYWORD}Especial:{STAT} dana enemigos cercanos al impacto.
+{SHORTLINE}
+{FLAVOR}Nada de falsas modestias con Melonpulta. "Yo reparto la mejor lena de todo el jardin",
+asegura. "No me estoy echando ningun farol: compruebalo tu mismo".
+
+[GATLING_PEA_DESCRIPTION_HEADER]
+Guisantralladora dispara 4 guisantes a la vez.
+
+[GATLING_PEA_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} normal (por guisante)
+{KEYWORD}Vel. de disparo:{STAT} x 4
+{KEYWORD}Plantar sobre Repetidoras.
+{SHORTLINE}
+{FLAVOR}Sus padres se preocuparon cuando les dijo que queria enrolarse en el ejercito. "¡Eso es muy peligroso, cielo!", dijeron al unisono. Guisantralladora no se amilano. "La vida es peligrosa", respondio con los ojos inyectados de conviccion.
+
+[TWIN_SUNFLOWER_DESCRIPTION_HEADER]
+El Birasol produce el doble de sol que el Girasol.
+
+[TWIN_SUNFLOWER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Producción de sol:{STAT} doble
+{KEYWORD}Plantar sobre Girasoles.
+{SHORTLINE}
+{FLAVOR}Es el resultado de una noche de demencia en un laboratorio secreto. Los truenos retumbaban, las luces centellaban, incluso el viento aullaba de enfado ante tal abominacion, pero de nada sirvio, ¡Birasol estaba vivo! ¡VIVO!.
+
+[GLOOM_SHROOM_DESCRIPTION_HEADER]
+La Gasoseta exhala gases pesados en un area a su alrededor.
+
+[GLOOM_SHROOM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Plantar sobre Humosetas.
+{SHORTLINE}
+{FLAVOR}"Siempre me ha gustado echar mis gases", dice Gasoseta. "Ya se que a muchos eso no
+les gusta, que si es de mala educacion o que si huele mal, a lo que yo siempre contesto:
+"¿Prefieres que te devoren los zombis?".
+
+[CATTAIL_DESCRIPTION_HEADER]
+La planta Rabo de Gato ataca en una linea y revienta globos.
+
+[CATTAIL_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Plantar sobre Nenufares.
+{SHORTLINE}
+{FLAVOR}"¡Guau!", ladra Rabo de Gato. "Grrr... ¡Guau, guau! ¿Que? ¿Confundido? Esperabas que hiciera 'miaaau' solo porque en mi nombre pone 'gato'... y porque parezco un gato tambien. ¡Pues no!
+Me niego a que me encasillen de esa manera".
+
+[WINTER_MELON_DESCRIPTION_HEADER]
+Melonpulta Congelada inflige grandes danos y ralentiza al enemigo.
+
+[WINTER_MELON_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Ataque:{STAT} muy fuerte
+Alcance:{STAT} largo, por arriba
+{KEYWORD}Vel. de disparo:{STAT} x 1/2
+Especial:{STAT} dana y ralentiza a zombis cercanos al impacto.
+{KEYWORD}Plantar sobre Melonpultas.
+{SHORTLINE}
+{FLAVOR}Melonpulta Congelada intenta mantener la calma. Oye a los zombis aproximarse. ¿Lo conseguira? ¿Sobrevivira alguno?
+
+[GOLD_MAGNET_DESCRIPTION_HEADER]
+La Magnetoseta Dorada recoge monedas y diamantes.
+
+[GOLD_MAGNET_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Plantar sobre Magnetosetas.
+{SHORTLINE}
+{FLAVOR}"¿Como he llegado aqui?", se pregunta Magnetoseta dorada. "Ya lo tenia todo: despacho
+propio, acciones en bolsa... Iba a ser la proxima vicepresidenta de la empresa. Y ahora estoy en este
+jardinucho a punto de ser devorada viva... ¡Oh! ¡Una moneda!"
+
+[COB_CANNON_DESCRIPTION_HEADER]
+Presiona <A> sobre el Mazorcanon para disparar mazorcas letales.
+
+[COB_CANNON_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Plantar sobre 2 Lanzamaices.
+{SHORTLINE}
+{FLAVOR}¿Pero de que va Mazorcanon? Estudio en Harvard y trabaja en un prestigioso bufete de abogados de Nueva York. Es capaz de hacer saltar por los aires a varios zombis a la vez. Pero eso lo saben todos. Entonces, ¿que es lo que le motiva realmente?
+
+[IMITATER_DESCRIPTION_HEADER]
+¡La Imitadora duplica cualquier planta en un nivel!
+
+[IMITATER_DESCRIPTION]
+{SHORTLINE}
+{FLAVOR}"Me acuerdo de la pelicula Zombie Wars del 76", dice Imitadora con su anciana voz ronca.
+"En aquella epoca no teniamos estos modernos Lanzaguisantes ni Jalapenos. Solo teniamos agallas. Agallas y una cuchara".
+
+[SPIKEROCK_DESCRIPTION_HEADER]
+La Pinchorroca saca multiples pinchos y hiere a quien ose pisarla.
+
+[SPIKEROCK_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Plantar sobre Pinchohierbas.
+{SHORTLINE}
+{FLAVOR}Pinchorroca acaba de regresar de su viaje por Europa. Se lo ha pasado fenomenal, ha conocido a gente maravillosa y ha expandido sus horizontes. No sabia que habia museos tan grandes y con tantos cuadros. Eso fue lo que mas le sorprendio.
+
+[ZOMBIE_DESCRIPTION_HEADER]
+Zombi de jardin comun
+
+[ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} baja {270}
+{SHORTLINE}
+{FLAVOR}A este zombi le chiflan los cerebros. Nunca se harta. Cerebros para desayunar, para merendar, para cenar... ¿Sesos putrefactos y malolientes? ¿Sesos que hayan caducado? El se los zampa igual.
+
+[FLAG_ZOMBIE_DESCRIPTION_HEADER]
+Porta orgulloso su bandera.
+
+[FLAG_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} baja {270}
+{SHORTLINE}
+{FLAVOR}El zombi abanderado es un poco loco
+quedo fascinado por las banderas. Quiza sea porque llevan cerebros dibujados. ¨Chi lo sa¨...
+
+[CONEHEAD_ZOMBIE_DESCRIPTION_HEADER]
+Su cono lo hace el doble de resistente que el Zombi de jardin comun.
+
+[CONEHEAD_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} media {640}
+{SHORTLINE}
+{FLAVOR}El Zombi caracono avanza sin pensar como cualquier otro zombi.
+Pero algo hizo que se detuviera en seco, cogiera un cono del suelo y se lo encasquetara en la mollera. Es que le va la marcha.
+
+[BUCKETHEAD_ZOMBIE_DESCRIPTION_HEADER]
+El cubo lo hace muy resistente.
+
+[BUCKETHEAD_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} alta {1370}
+{KEYWORD}Debilidad:{STAT} Magnetoseta
+{SHORTLINE}
+{FLAVOR}El Zombi caracubo siempre ha llevado ese cubo. En parte, para rebelarse contra una
+sociedad hostil.
+
+[POLE_VAULTING_ZOMBIE_DESCRIPTION_HEADER]
+Este zombi salta obstaculos con la pertiga.
+
+[POLE_VAULTING_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} media {500}
+{KEYWORD}Velocidad:{STAT} rapido, normal tras saltar
+{KEYWORD}Especial:{STAT} salta la primera planta que encuentra.
+{SHORTLINE}
+{FLAVOR}Algunos zombis van mas lejos y aspiran a mas; toman el camino hacia
+la grandeza. Es el caso del Saltador de Pertiga. Unico en su especie.
+
+[NEWSPAPER_ZOMBIE_DESCRIPTION_HEADER]
+Su periodico le proporciona una defensa temporal.
+
+[NEWSPAPER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} baja {270}
+{KEYWORD}Dureza del periodico:{STAT} baja {150}
+{KEYWORD}Velocidad:{STAT} normal, rapido tras perder el periodico.
+{SHORTLINE}
+{FLAVOR}El Zombi Lector estaba muy cerca de completar el sudoku del periodico: normal que se enfade.
+
+[SCREEN_DOOR_ZOMBIE_DESCRIPTION_HEADER]
+La puerta es un buen escudo.
+
+[SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} baja {270}
+{KEYWORD}Dureza de la puerta:{STAT} alta {1100}
+{KEYWORD}Debilidad:{STAT} Humoseta {METAL}y Magnetoseta
+{SHORTLINE}
+{FLAVOR}Cuando le dijeron que aun no estaba listo para jugar de portero, se preparo mejor para el siguiente dia.
+
+[FOOTBALL_ZOMBIE_DESCRIPTION_HEADER]
+Este zombi se lanza a la carrera sin dudarlo.
+
+[FOOTBALL_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} muy alta {1670}
+{KEYWORD}Velocidad:{STAT} rapido
+{KEYWORD}Debilidad:{STAT} Magnetoseta
+{SHORTLINE}
+{FLAVOR}Este fanatico deportista da el 110% cuando sale al terreno de juego.
+Es un jugador completo, por que ataca y se marca a si mismo. ¿Rugby? No sabe lo que es.
+
+[DANCING_ZOMBIE_DESCRIPTION_HEADER]
+Cualquier parecido del Zombi Bailon con personajes vivos o muertos es pura coincidencia.
+
+[DANCING_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} media {500}
+{KEYWORD}Especial:{STAT} invoca a Zombis extras.
+{SHORTLINE}
+{FLAVOR}El ultimo disco del Zombi Bailon, "ZEREEBROSS", esta arrasando en las listas de musica 'en vivo'.
+
+[BACKUP_DANCER_DESCRIPTION_HEADER]
+Estos zombis aparecen de cuatro en cuatro cuando aparece el Zombi Bailon.
+
+[BACKUP_DANCER_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} baja {270}
+{SHORTLINE}
+{FLAVOR}El Zombi Extra ha dedicado 6 anos a perfeccionar su tecnica en la academia
+Chewliard de Artes Escenicas de Nueva Zombi York.
+
+[DUCKY_TUBE_ZOMBIE_DESCRIPTION_HEADER]
+Su flotador de patito le permite flotar en el agua.
+
+[DUCKY_TUBE_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} baja {270}
+{AQUATIC}Solo aparece en la piscina.
+{SHORTLINE}
+{FLAVOR}Solo hay una casta especial de zombis que puede ser un autentico Zombi playero.
+Muchos no estan a la altura, no soportan la presion y desertan de sesos para siempre.
+
+[SNORKEL_ZOMBIE_DESCRIPTION_HEADER]
+El Zombi buzo puede bucear.
+
+[SNORKEL_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} baja {270}
+{KEYWORD}Especial:{STAT} bucea para evitar ataques.
+{AQUATIC}Solo aparece en la piscina.
+{SHORTLINE}
+{FLAVOR}Los zombis no respiran; no necesitan oxigeno. Entonces, ¿por que el Zombi buzo lleva tubo y banador?
+{STAT}
+{FLAVOR}Respuesta:{STAT} por el que diran.
+
+[ZOMBONI_DESCRIPTION_HEADER]
+El Zombictor aplica hielo, vaho y presion a tus plantas.
+
+[ZOMBONI_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} alta {1350}
+{KEYWORD}Especial:{STAT} aplasta plantas y deja un rastro de hielo.
+{SHORTLINE}
+{FLAVOR}No hay que confundirlo con una maquina alisadora de hielo de la marca Zamboni®. Zamboni® y la imagen de la maquina alisadora de hielo son marcas registradas propiedad de Frank J. Zamboni and Co., Inc., y los nombres ¨Zombictor¨ y ¨Zomboni¨ se usan bajo licencia. Para todas tus necesidades de alisamiento de hielo no relacionadas con zombis, visita www.zamboni.com
+
+[ZOMBIE_BOBSLED_TEAM_DESCRIPTION_HEADER]
+Estos zombis aparecen por equipos de cuatro.
+
+[ZOMBIE_BOBSLED_TEAM_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} baja (cada zombi) {270}
+{KEYWORD}Dureza del bobsleigh:{STAT} baja {300}
+{KEYWORD}Especial:{STAT} solo aparece si hay hielo.
+{SHORTLINE}
+{FLAVOR}El equipo de bobsleigh zombi ha trabajado duro para llegar donde esta ahora. Viven juntos,
+comen cerebros juntos y entrenan para ser un equipo perfecto.
+
+[DOLPHIN_RIDER_ZOMBIE_DESCRIPTION_HEADER]
+El Zombi con Delfin usa a su mascota para explotar tus puntos debiles.
+
+[DOLPHIN_RIDER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} media {500}
+{KEYWORD}Velocidad:{STAT} rapido, lento tras saltar.
+{KEYWORD}Especial:{STAT} salta la primera planta que encuentre.
+{AQUATIC}Solo aparece en la piscina.
+{SHORTLINE}
+{FLAVOR}El delfin es un delfin zombi.
+
+[ZOMBIE_YETI_DESCRIPTION_HEADER]
+Una criatura, cuanto menos, rara.
+
+[ZOMBIE_YETI_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} alta {1350}
+{KEYWORD}Especial:{STAT} se marcha pasado un tiempo.
+{SHORTLINE}
+{FLAVOR}Poco se sabe del Zombi Yeti aparte de su nombre, fecha de nacimiento, numero de la
+seguridad social, historial academico y laboral, y su plato favorito: tortilla de sesos.
+
+[JACK_IN_THE_BOX_ZOMBIE_DESCRIPTION_HEADER]
+Lleva una sorpresa que es la bomba.
+
+[JACK_IN_THE_BOX_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} media {500}
+{KEYWORD}Velocidad:{STAT} rapido
+{KEYWORD}Especial:{STAT} si, explota.
+{KEYWORD}Debilidad:{STAT} Magnetoseta
+{SHORTLINE}
+{FLAVOR}Este zombi tiene espasmos; no por el frio, sino porque esta loco.
+
+[BALLOON_ZOMBIE_DESCRIPTION_HEADER]
+El Zombi con globo sobrevuela el terreno, inmune a casi todo.
+
+[BALLOON_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} baja {270}
+{KEYWORD}Especial:{STAT} volar
+{KEYWORD}Debilidad:{STAT} Cactus y Trebolador
+{SHORTLINE}
+{FLAVOR}El Zombi con globo ha tenido mucha potra. Lo del globo funciona
+bien y ningun zombi sabe como ni por que.
+
+[DIGGER_ZOMBIE_DESCRIPTION_HEADER]
+Este zombi excava para sortear tus defensas.
+
+[DIGGER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} media {370}
+{KEYWORD}Velocidad:{STAT} rapido, luego lento
+{KEYWORD}Especial:{STAT} excava un tunel y aparece en la parte izquierda del jardin.
+{KEYWORD}Debilidad:{STAT} Bipetidora y{METAL} Magnetoseta{KEYWORD}
+{SHORTLINE}
+{FLAVOR}El Zombi Picado se pasa tres dias a la semana poniendo en regla sus permisos de obras.
+
+[POGO_ZOMBIE_DESCRIPTION_HEADER]
+El Zombi Pogo salta para superar tus defensas.
+
+[POGO_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} media {500}
+{KEYWORD}Especial:{STAT} salta plantas.
+{KEYWORD}Debilidad:{STAT} Magnetoseta
+{SHORTLINE}
+{FLAVOR}"¡Doing! ¡Doing! ¡Doing!", es el sonido de un zombi perfectamente equipado para asaltar tu casa.
+
+[BUNGEE_ZOMBIE_DESCRIPTION_HEADER]
+El Zombi Colgado ataca desde arriba.
+
+[BUNGEE_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} media {400}
+{KEYWORD}Especial:{STAT} baja del cielo y te roba una planta.
+{SHORTLINE}
+{FLAVOR}Al Zombi Colgado le gusta el riesgo. Despues de todo, ¿para que vale estar muerto si no vives un poco?
+
+[LADDER_ZOMBIE_DESCRIPTION_HEADER]
+El Zombi Escalador escala obstáculos.
+
+[LADDER_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} media {500}
+{KEYWORD}Dureza de escalera:{STAT} media {500}
+{KEYWORD}Velocidad:{STAT} rapido, lento tras escalar.
+{KEYWORD}Debilidad:{STAT} Humoseta {METAL}y Magnetoseta
+{SHORTLINE}
+{FLAVOR}La escalera le costo 8,99 euros.
+
+[CATAPULT_ZOMBIE_DESCRIPTION_HEADER]
+Zombipulta
+
+[CATAPULT_ZOMBIE_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} media {850}
+{KEYWORD}Especial:{STAT} lanza pelotas de basquet.
+{SHORTLINE}
+{FLAVOR}De todas las cosas que el Zombipulta podia escoger para lanzar, parece que las
+pelotas de basquet eran lo mejor.
+
+[GARGANTUAR_DESCRIPTION_HEADER]
+Zombistein es un zombi con gigantismo.
+
+[GARGANTUAR_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} extremadamente alta {3000}
+{SHORTLINE}
+{FLAVOR}Cuando Zombistein camina, tiembla la tierra; y cuando grune, todos callan.
+Todo zombi suena con poder ser como el. Y a pesar de eso Zombistein sigue soltero.
+
+[IMP_DESCRIPTION_HEADER]
+Zombistein lanzara a su Zombidito por encima de tus defensas.
+
+[IMP_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza:{STAT} baja {270}
+{SHORTLINE}
+{FLAVOR}Puede que el Zombidito sea un canijo, pero cuidadito con el: es cinturon negro de zombijudo y zombikarate. Le gusta silbar, aunque no sabe. De ahi su nombre.
+
+[BOSS_DESCRIPTION_HEADER]
+El Dr. Zombi es quien manda.
+
+[BOSS_DESCRIPTION]
+{SHORTLINE}
+{KEYWORD}Dureza (en Zombot):{STAT} extrema
+{SHORTLINE}
+{FLAVOR}Edgar George Zombi se doctoro en Tanatologia en tan solo dos anos. Con sus conocimientos de tecnologia tanatologica diseno su temido Zombot y se puso manos a la obra para dominar los barrios que le tocan.
+
+[DOG_WALKING_ZOMBIE_DESCRIPTION]
+Descripcion del Zombi paseaperros
+
+[DOG_ZOMBIE_DESCRIPTION]
+Descripcion del Perro zombi
+
+[PROPELLER_ZOMBIE_DESCRIPTION]
+Propeller Zombie description
+
+[CRAZY_DAVE_201]
+Buenas noches {PLAYER_NAME}.
+[CRAZY_DAVE_202]
+¿Que? Esos zombis 
+no se rinden, ¿eh?
+[CRAZY_DAVE_203]
+Te habras dado cuenta de que es diferente combatir zombis de dia que de noche.
+[CRAZY_DAVE_204]
+De noche, no te 
+caera sol del cielo.
+[CRAZY_DAVE_205]
+Aunque puedes producirlo 
+con Girasoles, claro.
+[CRAZY_DAVE_206]
+Y por suerte para ti, cuentas 
+con unas Setas desesporadas.
+[CRAZY_DAVE_207]
+¡Planta tantas como puedas!
+
+[CRAZY_DAVE_301]
+¡Has encontrado las llaves de mi coche!
+[CRAZY_DAVE_302]
+¿Sabes lo que significa eso?
+[CRAZY_DAVE_303]
+¡La tienda de Crazy Dave esta abierta!
+[CRAZY_DAVE_304]
+Echa un vistazo a ver si algo te gusta.
+
+[CRAZY_DAVE_401]
+¿Conoces el juego del topo y la pala?
+[CRAZY_DAVE_402]
+Es como cazar bichos de esos.
+[CRAZY_DAVE_403]
+Ya sabes, esos malditos roedores que cavan agujeros en el jardin.
+[CRAZY_DAVE_404]
+Pues eso. Pero en vez de topos, zombis.
+[CRAZY_DAVE_405]
+{SHOW_HAMMER}Y en vez darles con una pala, con un mazo.
+[CRAZY_DAVE_406]
+Y en vez de yo, ¡TU!{MOUTH_BIG_SMILE} {SCREAM}
+
+[CRAZY_DAVE_501]
+Parece que los zombis desisten 
+de atacarte por el frente.
+[CRAZY_DAVE_502]
+Se dirigen hacia el jardin trasero.
+[CRAZY_DAVE_503]
+¡Y encima no puedes usar las Setas!
+[CRAZY_DAVE_504]
+¡Porque duermen de dia!
+[CRAZY_DAVE_505]
+¿No es maravilloso?
+
+[CRAZY_DAVE_601]
+¡¡HAS ENCONTRADO MI TACO MAGICO!!{SCREAM2}
+[CRAZY_DAVE_602]
+{SHOW_MONEYBAG}¡Tengo que recuperarlo! ¡Te doy 1.000 pavos!
+[CRAZY_DAVE_603]
+¡SI! ¡POR FIN LO TENGO!{SCREAM}
+[CRAZY_DAVE_604]
+¿Por que he pagado tanto por un taco?
+[CRAZY_DAVE_605]
+{SHAKE}¡¡¡PORQUE ESTOY LOOOCO!!!{MOUTH_BIG_SMILE}
+[CRAZY_DAVE_606]
+Echale un vistazo al genero. ¡Tengo cosas nuevas! ¡No te las pierdas!
+
+[CRAZY_DAVE_701]
+Que curioso es el metabolismo de los zombis. 
+A veces salen muy, pero que muy pequenos.
+[CRAZY_DAVE_702]
+¡Pequenos y con mala leche!
+[CRAZY_DAVE_703]
+¡Vigila las espinillas!{SCREAM}
+
+[CRAZY_DAVE_801]
+¿Sabes?, antes me llamaban 
+el Hombre Niebla...
+[CRAZY_DAVE_802]
+...porque me escondia en la niebla y, ¡ASUSTABA A LA GENTE!{MOUTH_BIG_SMILE}
+[CRAZY_DAVE_803]
+Ah... Que dias aquellos.{MOUTH_SMALL_SMILE}
+
+[CRAZY_DAVE_1101]
+¿Por que ha oscurecido tan de repente?
+[CRAZY_DAVE_1102]
+Mal asunto...
+[CRAZY_DAVE_1103]
+Bueno, ¡Suerte y 
+que sobrevivas a la noche!
+
+[CRAZY_DAVE_1201]
+¡Tate! ¡Los tienes hasta en el tejado!
+[CRAZY_DAVE_1202]
+Esos zombis te la tienen jurada, amigo.
+[CRAZY_DAVE_1203]
+Aqui tendras que usar Coltapultas por el angulo del tejado.
+[CRAZY_DAVE_1204]
+Ten eso presente, ¡y te las apanaras!
+[CRAZY_DAVE_1301]
+El Jardin Zen es lo mas, ¿que no?
+[CRAZY_DAVE_1302]
+Puedes visitarlo desde el menu principal.
+[CRAZY_DAVE_1303]
+¡Pero ahora hay que ponerse a defender la casa!
+[CRAZY_DAVE_1304]
+Y tengo que advertirte...
+[CRAZY_DAVE_1305]
+...que vas a odiar este nivel.
+[CRAZY_DAVE_1306]
+¿Que por que? Pues porque es un Zombi Colgado tras otro.
+[CRAZY_DAVE_1307]
+¡Odio a esos cabezas huecas!{SCREAM2}
+[CRAZY_DAVE_1308]
+¡Los odio!
+[CRAZY_DAVE_1309]
+¡Los odio con todas mis fuerzas!
+[CRAZY_DAVE_1310]
+¡Y con sana!
+[CRAZY_DAVE_1311]
+¡Yeeepa! ¡Ya vienen esos monos!
+
+[CRAZY_DAVE_1401]
+¡Eh, ya has conseguido {MONEY} monedas!
+[CRAZY_DAVE_1402]
+Cuando tengas {UPGRADE_COST} monedas te vendere una cosa que te gustara.
+
+[CRAZY_DAVE_1501]
+¡Ey! ¿Quieres comprar un espacio extra?
+[CRAZY_DAVE_1502]
+Te lo dejo en {UPGRADE_COST} monedas, ¡y podras usar 7 semillas por nivel en lugar de 6!
+[CRAZY_DAVE_1503]
+{NO_CLICK}¿Que te parece?
+[CRAZY_DAVE_1510]
+¡Vale! Y cuando ahorres {UPGRADE_COST} monedas, ¡te vendere otro espacio extra!
+[CRAZY_DAVE_1511]
+¡Ta' luego!
+[CRAZY_DAVE_1520]
+¡Pues vaya!
+
+[CRAZY_DAVE_1551]
+¡Ey! ¿Quieres comprar un espacio extra?
+[CRAZY_DAVE_1552]
+Por ser tu, seran {UPGRADE_COST} monedas, ¡y podras llevarte 8 semillas por nivel en lugar de 7!
+[CRAZY_DAVE_1553]
+{NO_CLICK}¿Que te parece?
+[CRAZY_DAVE_1560]
+¡Ahi te quiero ver!
+[CRAZY_DAVE_1570]
+¡Pues vaya!
+
+[UPGRADE_DIALOG_BODY]
+¿Ampliar a {SLOTS} espacios?
+
+[CRAZY_DAVE_1601]
+¡Amigo, no paran de llegar zombis!
+[CRAZY_DAVE_1602]
+¡Esta vez elegire unas semillas por ti!
+[CRAZY_DAVE_1603]
+Mmm... ¡Estas tres! 
+
+[CRAZY_DAVE_1700]
+{NO_CLICK}¡Te doy {SELL_PRICE} monedas por tu {PLANT_TYPE}!
+
+[CRAZY_DAVE_2000]
+{NO_CLICK}Plantalas sobre tus Repetidoras para convertirlas en Guisantralladoras. ¡Disparan 4 guisantes a la vez!
+
+[CRAZY_DAVE_2001]
+{NO_CLICK}Plantalas sobre tus Girasoles para 
+convertirlos en Birasoles. ¡Los Biraoles producen el doble de sol!
+
+[CRAZY_DAVE_2002]
+{NO_CLICK}Plantalas sobre tus Humosetas para convertirlas en Gasosetas. ¡Las Gasosetas atacan rapido en un area pequena!
+
+[CRAZY_DAVE_2003]
+{NO_CLICK}Plantalas sobre tus Nenufares para convertirlos en 
+Rabos de gato. ¡Atacaran en una 
+linea y reventaran globos!
+
+[CRAZY_DAVE_2004]
+{NO_CLICK}Plantalas sobre tus Melonpultas para convertirlas en Melonpultas congeladas. ¡Causaran grandes danos y ralentizaran al enemigo!
+
+[CRAZY_DAVE_2005]
+{NO_CLICK}Plantalas sobre tus Magnetosetas para convertirlas en Magnetosetas doradas. ¡Recogeran las monedas y los diamantes por ti!
+
+[CRAZY_DAVE_2006]
+{NO_CLICK}Plantalas sobre tus Pinchohierbas para convertirlas en Pinchorrocas. ¡Infligiran el doble de dano y seran extremadamente duras!
+
+[CRAZY_DAVE_2007]
+{NO_CLICK}Plantalas sobre tus Lanzamaices para convertirlas en Mazorcanones.
+Presiona el boton <A> y ¡Lanza un ataque mortal!
+
+[CRAZY_DAVE_2008]
+{NO_CLICK}¡Esta Imitadora te permite tener en un nivel la misma planta en dos espacios!
+
+[CRAZY_DAVE_2009]
+{NO_CLICK}Esta Cortadora de cesped te proporcionara una linea de defensa remplazando una usada.
+
+[CRAZY_DAVE_2010]
+{NO_CLICK}¡Este brote de Margarita ira a tu Jardin Zen! ¡Si consigues que crezca del todo, te recompensara!
+
+[CRAZY_DAVE_2011]
+{NO_CLICK}¡Este espacio extra te permitira escoger 7 plantas por nivel!
+
+[CRAZY_DAVE_2012]
+{NO_CLICK}¡Este espacio extra te permitira escoger 8 plantas por nivel!
+
+[CRAZY_DAVE_2013]
+{NO_CLICK}¡Este espacio extra te permitira escoger 9 plantas por nivel!
+
+[CRAZY_DAVE_2014]
+{NO_CLICK}¡Este espacio extra te permitira escoger 10 plantas por nivel!
+
+[CRAZY_DAVE_2015]
+{NO_CLICK}¡¡Rebajas del buen fin, senores!!
+
+[CRAZY_DAVE_2016]
+{NO_CLICK}{SHAKE}¡TIRADO DE PRECIO! ¡ESTOY LOOOCO!{SCREAM}
+
+[CRAZY_DAVE_2017]
+{NO_CLICK}¡Precios increibles!
+
+[CRAZY_DAVE_2018]
+{NO_CLICK}¡Me como la comida que se me cae al suelo!
+
+[CRAZY_DAVE_2019]
+{NO_CLICK}¡Con la Regadera dorada regaras varias plantas a la vez!
+
+[CRAZY_DAVE_2020]
+{NO_CLICK}{SHOW_FERTILIZER}¡Tus plantas Zen necesitan abono para crecer!
+
+[CRAZY_DAVE_2021]
+{NO_CLICK}¡Pon musica con este Gramofono para que las plantas de tu Jardin Zen esten todo el dia contentas!
+
+[CRAZY_DAVE_2022]
+{NO_CLICK}Tus plantas Zen necesitan que las fumigues de vez en cuando. ¡Y estaran contentas todo el dia!
+
+[CRAZY_DAVE_2023]
+{NO_CLICK}Con los Guantes de jardin podras reubicar tus plantas Zen.
+
+[CRAZY_DAVE_2024]
+{NO_CLICK}¡Con esta Carretilla podras transportar plantas de un Jardin Zen a otro!
+
+[CRAZY_DAVE_2025]
+{NO_CLICK}¡Bernie la abeja te ayuda a recoger monedas en el Jardin Zen!
+
+[CRAZY_DAVE_2026]
+{NO_CLICK}¡Estos Limpiapiscinas son una linea de defensa extra para piscinas!
+
+[CRAZY_DAVE_2027]
+{NO_CLICK}¡Estos Limpiatejados son una linea de defensa extra para niveles con tejado!
+
+[CRAZY_DAVE_2028]
+{NO_CLICK}¡Este Rastrillo acaba con el primer zombi que lo pise! ¡Y dura 3 niveles!
+
+[CRAZY_DAVE_2029]
+{NO_CLICK}¡En este Acuario Zen podras plantar tus plantas acuaticas Zen!
+
+[CRAZY_DAVE_2030]
+{NO_CLICK}¡El Arbol de la sabiduria te dara valiosos 
+consejos y otros secretos si lo haces crecer!
+
+[CRAZY_DAVE_2031]
+{NO_CLICK}{SHOW_TREE_FOOD}¡Compra abono de arboles para 
+que tu Arbol de la sabiduria crezca alto y sano!
+
+[CRAZY_DAVE_2032]
+{NO_CLICK}¡En este Jardin de Setas podras plantar tus setas Zen que se duerman durante el dia!
+
+[CRAZY_DAVE_2033]
+{NO_CLICK}{SHOW_WALLNUT}El Botiquin de Nuez deja a las Nueces danadas como nuevas. ¡Y tambien a las Calabazas y Nueces cascara-rabias!
+
+[CRAZY_DAVE_2034]
+{NO_CLICK}¡Mas niveles, mas plantas y mas zombis en la version completa del juego!
+
+[CRAZY_DAVE_2035]
+{NO_CLICK}¡Te cambiare la casa en los marcadores por cuatro chavos!
+
+[CRAZY_DAVE_2036]
+{NO_CLICK}¡Los planos de la casa normal tunearan la casa urbana de tus sueños en los marcadores!
+
+[CRAZY_DAVE_2037]
+{NO_CLICK}¡Los planos de la casa del terror atemorizaran a tus vecinos en los marcadores!
+
+[CRAZY_DAVE_2038]
+{NO_CLICK}¡Los planos de la casa espacial son tu hiperespacio hacia las estrellas en los marcadores!
+
+[CRAZY_DAVE_2039]
+{NO_CLICK}Quiza estos planos de la casa caravana no impresionen a nadie en los marcadores, ¡pero es que estan tirados de precio!
+
+[CRAZY_DAVE_2040]
+{NO_CLICK}¡LA CASA DEL PAYASO!
+¡PAYASIN PAYASAN!
+PAYASITO HOUSE!
+¡ZAPATOTES!
+
+[CRAZY_DAVE_2100]
+Eh, mira, ¡has encontrado 
+una regadera!
+
+[CRAZY_DAVE_2101]
+Por esta ocasion
+me honra presentarte...
+¡Tu propio Jardin Zen!
+
+[CRAZY_DAVE_2102]
+¡Mira, incluso te ayudare a 
+empezar con un par de brotes!
+
+[CRAZY_DAVE_2103]
+Haz que crezcan del todo y veras que bien te recompensan.
+
+[CRAZY_DAVE_2104]
+¡Que te diviertas!
+
+
+[CRAZY_DAVE_2200]
+Los zombis me pidieron que les ayudara a practicar sus asaltos.
+[CRAZY_DAVE_2201]
+Les dije que aceptaba, mientras ninguna planta saliera malparada.
+[CRAZY_DAVE_2202]
+Asi que he puesto recortes de carton por tu Jardin.
+[CRAZY_DAVE_2203]
+¡Que te diviertas!
+
+[CRAZY_DAVE_2300]
+Oh-oh, ha venido...
+[CRAZY_DAVE_2301]
+Ya te puedes ir preparando.
+[CRAZY_DAVE_2302]
+¡Menuda se va a liar aqui!
+[CRAZY_DAVE_2303]
+¡Pero yo se cual 
+es su punto debil!
+[CRAZY_DAVE_2304]
+¡Tienes que atizarle en el pancreas!
+[CRAZY_DAVE_2305]
+No... eso era a otro tipo...
+[CRAZY_DAVE_2306]
+Tienes que... eh... darle en...
+[CRAZY_DAVE_2307]
+Esto...
+[CRAZY_DAVE_2308]
+Ah si! Pulsa arriba x 2 abajo x 2 izq. y der. 
+[CRAZY_DAVE_2309]
+Esto...
+[CRAZY_DAVE_2310]
+Espera, ¡ya lo recuerdo! Era...{MOUTH_SMALL_OH}
+
+[CRAZY_DAVE_2400]
+¡Buenas querido vecino!
+[CRAZY_DAVE_2401]
+Me llamo Crazy Dave.
+[CRAZY_DAVE_2402]
+Pero puedes llamarme solo Crazy Dave.
+[CRAZY_DAVE_2403]
+Bueno, venia a darte una cosita.
+[CRAZY_DAVE_2404]
+Pero primero tienes 
+que quitar las plantas de tu Jardin.
+[CRAZY_DAVE_2405]
+¡Usa la Pala para quitar esas plantas!
+[CRAZY_DAVE_2406]
+¡QUE COMIENCE EL 'APALEAMIENTO'!{MOUTH_SMALL_OH} {SCREAM}
+
+[CRAZY_DAVE_2410]
+Muy bien, y ahora la sorpresa...
+[CRAZY_DAVE_2411]
+¡Juguemos a los bolos!{MOUTH_SMALL_SMILE}
+[CRAZY_DAVE_2412]
+{SHOW_WALLNUT}¡¡TOMA UNA NUEZ!!
+
+[CRAZY_DAVE_2413]
+¿Y por que te pongo una nuez en la mano?{MOUTH_SMALL_OH}
+[CRAZY_DAVE_2414]
+{SHAKE}¡¡¡Porque estoy LOOOCO!!!{MOUTH_BIG_SMILE}
+[CRAZY_DAVE_2415]
+¡VENGA! ¡HAZ UN BUEN LANZAMIENTO!{MOUTH_BIG_SMILE} {SCREAM}
+
+[CRAZY_DAVE_2500]
+Mi amigo Harvey 
+y yo rompiamos jarrones 
+cuando nos aburriamos.
+[CRAZY_DAVE_2501]
+Ahora esta fuera, asi que tu te vienes conmigo; ¡serás Harvey 2!
+[CRAZY_DAVE_2502]
+¡ROMPELO CON GANAS HARVEY!
+
+[CRAZY_DAVE_2600]
+¡Hola! Bienvenido a la seccion Zen de mi tienda.
+[CRAZY_DAVE_2601]
+{SHOW_FERTILIZER}Te dare algo de abono solo por pasarte por aqui!
+[CRAZY_DAVE_2602]
+Echa una ojeada a ver si hay algo mas que te pueda interesar.
+
+[CRAZY_DAVE_2700]
+¡Tio, los has roto que da gusto!
+
+[CRAZY_DAVE_2701]
+¡Rompelos como cuando me rompi la 
+espalda escarbando en los cubos de basura!
+[CRAZY_DAVE_2702]
+Toma, te he traido mas jarrones.
+[CRAZY_DAVE_2703]
+Pero cuidado, no vayas a romperlos demasiado deprisa.
+[CRAZY_DAVE_2704]
+No querras que haya mas zombis de los que puedas eliminar, ¿no?
+
+[CRAZY_DAVE_2800]
+¡Ahi te quiero ver!
+[CRAZY_DAVE_2801]
+Estos deberian de ser los ultimos.
+[CRAZY_DAVE_2802]
+¡Rompelos y habras terminado!
+
+[CRAZY_DAVE_3000]
+Esto es un Rompejarrones.
+[CRAZY_DAVE_3001]
+Algunos de estos niveles son muy dificiles.
+[CRAZY_DAVE_3002]
+¡Buena suerte!
+
+[CRAZY_DAVE_3100]
+¡Hola, vecino! 
+¡Tengo productos nuevos!
+
+[CRAZY_DAVE_3200]
+{SHOW_TREE_FOOD}¡Este es tu Arbol de la sabiduria! 
+Te he traido abono de arboles para ayudarte.
+
+[CRAZY_DAVE_3300]
+{TIME_275}¡Fin del trayecto, amigo!{DELAY_50}
+[CRAZY_DAVE_3301]
+{TIME_275}Sip. Tu ya te veias venir esto.{DELAY_50}
+[CRAZY_DAVE_3302]
+{TIME_325}¿Quieres continuar? Hazte con el JUEGO COMPLETO.{DELAY_50}
+[CRAZY_DAVE_3303]
+{TIME_275}Vale, sere mas amable, sasafras...{DELAY_50}
+[CRAZY_DAVE_3304]
+{TIME_325}Si te bajas el JUEGO COMPLETO, ¡te dare mas PLANTAS!{DELAY_25}
+[CRAZY_DAVE_3305]
+{TIME_175}{SCREAM}{HANDING}¡COMO ESTA!{DELAY_50}
+[CRAZY_DAVE_3306]
+{TIME_175}{SCREAM}{HANDING}¡Y ESTA!{DELAY_50}
+[CRAZY_DAVE_3307]
+{TIME_275}{HANDING}Y mas adelante, ¡incluso ESTAAA!{DELAY_50}
+[CRAZY_DAVE_3308]
+{TIME_125}{SHORT_SOUND}{HANDING}¿Que por que?{DELAY_50}
+[CRAZY_DAVE_3309]
+{TIME_225}{SHAKE}¡¡¡Porque estoy LOOOCO!!!{MOUTH_BIG_SMILE}{DELAY_150}
+[CRAZY_DAVE_3310]
+{TIME_150}Y, ¡oye!{DELAY_50}
+[CRAZY_DAVE_3311]
+{TIME_175}¿Quieres accion?{DELAY_50}
+[CRAZY_DAVE_3312]
+{TIME_200}{SCREAM}¡YO TE DARE ACCION!{DELAY_300}
+[CRAZY_DAVE_3313]
+{TIME_300}{SCREAM2}¡44 NIVELAZOS DE ACCION!{DELAY_300}
+[CRAZY_DAVE_3314]
+{TIME_300}{SCREAM}¡40 MINIJUEGOS Y PUZZLES!{DELAY_50}
+[CRAZY_DAVE_3315]
+{TIME_200}¡¡TERRACOTA!!{DELAY_100}
+[CRAZY_DAVE_3316]
+{TIME_300}{SCREAM2}¡¡CON ESTO YA TE ESTALLARIA LA CABEZA HASTA LA LUNA!!{DELAY_300}
+[CRAZY_DAVE_3317]
+{TIME_150}Y bien, ¿a que esperas?
+
+[CRAZY_DAVE_3400]
+{NO_CLICK}Para usar el Botiquin de Nuez tan solo planta una Nuez nueva sobre una danada.
+
+[CRAZY_DAVE_4001]
+Necesitamos plantas mas poderosas para destruir a estos zombis.
+[CRAZY_DAVE_4002]
+Selecciona los accesorios de "Cherry Wind Thunder" y elije usarlos automaticamente.
+[CRAZY_DAVE_4101]
+¡Buen trabajo! estos poderosos accesorios pueden ayudarte mas adelante.
+
+[CRAZY_DAVE_10000]
+¡Hola, vecino!
+
+[CRAZY_DAVE_10001]
+¿Quieres elegir un tema para tu sala de estar?
+
+[CRAZY_DAVE_10002]
+¡Esto cambiara el aspecto de tu casa en la tabla de clasificacion!
+
+[CRAZY_DAVE_10003]
+¡Consiguelo antes de que no pueda encontrar mis pantalones otra vez!
+
+[CRAZY_DAVE_10010]
+No puedo esperar a echarle un vistazo!
+
+[MENU_BUTTON]
+Menu
+
+[ADVICE_WHACK_A_ZOMBIE]
+Toca sobre un zombi para usar el mazo!
+
+[ADVICE_MORE_ZOMBIES]
+¡Se acercan mas zombis!
+
+[ADVICE_MORE_SCARY_POTS]
+¡Mas jarrones!
+Asalto actual: {STREAK}
+
+[ADVICE_SCARY_POTTER_TUTORIAL]
+¡Dave ha puesto mas jarrones!
+{STREAK} de 5 asaltos superados
+
+[ADVICE_3_IN_A_ROW]
+¡Mas jarrones!
+{STREAK} de 3 asaltos superados
+
+[LONGEST_STREAK]
+Record de
+asaltos: {STREAK}
+
+[ADVICE_MORE_IZOMBIE]
+¡Muy buena!
+Asalto actual: {STREAK}
+
+[ADVICE_CLICK_ON_SUN]
+¡Toca los soles para recogerlos!
+
+[ADVICE_GRAVEBUSTERS_ON_GRAVES]
+El Comepiedras solo funciona sobre lapidas.
+
+[ADVICE_LILYPAD_ON_WATER]
+El Nenufar solo se planta sobre agua.
+
+[ADVICE_TANGLEKELP_ON_WATER]
+La Zampalga solo se planta sobre agua.
+
+[ADVICE_SEASHROOM_ON_WATER]
+La Marseta solo se planta sobre agua.
+
+[ADVICE_POTATO_MINE_ON_LILY]
+No puedes plantar Patatapums sobre Nenufares.
+
+[ADVICE_NOT_PASSED_LINE]
+Lanza desde la izquierda de la linea.
+
+[ADVICE_I_ZOMBIE_NOT_PASSED_LINE]
+Situa al zombi a la derecha de la linea.
+
+[ADVICE_I_ZOMBIE_LEFT_OF_LINE]
+Situa al Zombi colgao a la izquierda de la linea.
+
+[ADVICE_ONLY_ON_REPEATERS]
+Solo se planta sobre Repetidoras.
+
+[ADVICE_ONLY_ON_MELONPULT]
+Solo se planta sobre Melonpultas.
+
+[ADVICE_ONLY_ON_SUNFLOWER]
+Solo se planta sobre Girasoles.
+
+[ADVICE_ONLY_ON_SPIKEWEED]
+Solo se planta sobre Pinchohierbas.
+
+[ADVICE_ONLY_ON_KERNELPULT]
+Solo se planta sobre 2 Lanzamaíces.
+
+[ADVICE_ONLY_ON_MAGNETSHROOM]
+Solo se planta sobre Magnetosetas.
+
+[ADVICE_ONLY_ON_FUMESHROOM]
+Solo se planta sobre Humosetas.
+
+[ADVICE_ONLY_ON_LILYPAD]
+Solo se planta sobre Nenufares.
+
+[ADVICE_WRONG_ART_TYPE]
+Solo puedes plantar semillas de {SEED} ahi.
+
+[ADVICE_PLANT_NEED_POT1]
+Solo puedes plantar en Macetas.
+
+[ADVICE_PLANT_NEED_POT2]
+Coloca una Maceta antes.
+
+[ADVICE_PLANT_NOT_ON_GRAVE]
+No puedes plantar sobre lapidas.
+
+[ADVICE_PLANT_NOT_ON_CRATER]
+No puedes plantar en crateres.
+
+[ADVICE_CANT_PLANT_THERE]
+No puedes plantar ahi.
+
+[ADVICE_PLANT_NOT_ON_WATER]
+Coloca un Nenufar antes.
+
+[ADVICE_PLANTING_NEED_SLEEPING]
+Los Granos de cafe solo se plantan sobre setas durmientes.
+
+[ADVICE_PLANTING_NEEDS_GROUND]
+La Pinchohierba solo se planta en la tierra.
+
+[ADVICE_MORE_SUNFLOWERS]
+Cuantos mas Girasoles tengas,
+¡mas rapido podras plantar!
+
+[ADVICE_SHOVEL_REFRESH]
+Tiene que pasar un rato antes de volver a usar la Pala.
+
+[ADVICE_HUGE_WAVE]
+¡SE APROXIMA UNA GRAN HORDA DE ZOMBIS!
+
+[ADVICE_CLICK_PEASHOOTER]
+¡Planta otro Lanzaguisantes cuando tengas suficiente sol!
+
+[ADVICE_PLANT_SUNFLOWER1]
+¡Los Girasoles son plantas importantisimas!
+
+[ADVICE_PLANT_SUNFLOWER2]
+¡Prueba a plantar al menos 3!
+
+[ADVICE_PLANT_SUNFLOWER3]
+¡Plantar 3 Girasoles incrementa tus posibilidades
+de sobrevivir a un ataque de zombis!
+
+[ADVICE_PLANT_SUNFLOWER4]
+¡Intenta plantar al menos 3 Girasoles!
+
+[ADVICE_PLANT_SUNFLOWER5]
+¡Plantar 3 Girasoles incrementa tus posibilidades
+de sobrevivir a un ataque de zombis!
+
+[ADVICE_SELECT_SEED_PACKET]
+¡Usa los botones <L> y <R> para seleccionar una bolsa de semillas!
+
+[ADVICE_CLICK_SEED_PACKET]
+¡Usa <L> y <R> para seleccionar un sobre de semillas!
+
+[ADVICE_ENOUGH_SUN]
+¡Perfecto! ¡Has conseguido
+suficiente para otra planta!
+
+[ADVICE_CLICK_ON_GRASS]
+¡Pulsa <A> en la hierba para plantar una semilla!
+
+[ADVICE_PLANT_ON_GRASS]
+¡Pulsa <A> en la hierba para plantar una semilla!
+
+[ADVICE_PLANTED_PEASHOOTER]
+¡Bien hecho!
+Tambien puedes tocar y arrastrar los sobres de semillas.
+
+[ADVICE_ZOMBIE_ONSLAUGHT]
+¡Que los zombies no lleguen a tu casa!
+
+[ADVICE_CLICK_SHOVEL]
+Coloca el cursor sobre la planta que quieras quitar.
+¡Luego mantenga presionado el botón <B> y deja que se mueva!
+
+[ADVICE_CLICK_SHOVEL_MENU]
+Coloca el cursor sobre la planta que quieras erradicar.
+Luego presiona el boton <B> para moverlo con una pala!
+
+[ADVICE_KEEP_DIGGING]
+¡Sigue asi hasta que no quede ninguna!
+
+[ADVICE_SURVIVE_FLAGS]
+¿Puedes sobrevivir a {FLAGS} banderas?
+
+[ADVICE_LASTSTAND_TIME]
+Presiona el boton <A> para iniciar.
+
+[ADVICE_SURVIVE_ENDLESS]
+¿A cuántas banderas podras sobrevivir?
+
+[ADVICE_FILL_IN_WALLNUTS]
+¡Llena los espacios marcados con Nueces!
+
+[ADVICE_FILL_IN_SPACES]
+¡Llena los espacios marcados!
+
+[ADVICE_FILL_IN_STARFRUIT]
+¡Llena los espacios marcados con Frustrellas!
+
+[ADVICE_BEGHOULED_DRAG_TO_MATCH_3]
+Mantenga presionado el boton <X> y mueva las plantas para combinar 3.
+
+[ADVICE_BEGHOULED_TWIST_TO_MATCH_3]
+Presiona el boton <X> para intercambiar las posiciones de 2 plantas para girar plantas y combinar 3.
+
+[ADVICE_BEGHOULED_MATCH_3]
+Haz {SCORE} combinaciones para pasar de nivel.
+
+[ADVICE_BEGHOULED_NO_MOVES]
+¡No puedes mover!
+
+[ADVICE_BEGHOULED_USE_CRATER_1]
+¡Los zombis se han comido una planta!
+
+[ADVICE_BEGHOULED_USE_CRATER_2]
+¡Gasta sol para rellenar el crater!
+
+[ADVICE_BEGHOULED_SAVE_SUN]
+¡Ahorra sol para mejorar tus plantas!
+
+[ADVICE_SLOT_MACHINE_PULL]
+¡Presiona el boton <X> para tirar la palanca!
+
+[ADVICE_SLOT_MACHINE_SPIN_AGAIN]
+¡Presiona el boton <X> nuevamente!
+
+[ADVICE_SLOT_MACHINE_COLLECT_SUN]
+Consigue {SCORE} soles.
+
+[SLOT_MACHINE_PULL_TOOLTIP]
+Cada tirada son 25 soles.
+
+[ADVICE_SLOT_MACHINE_3_OF_A_KIND]
+¡Trio! ¡Tres plantas gratis!
+
+[ADVICE_SLOT_MACHINE_2_OF_A_KIND]
+¡Pareja! ¡Planta gratis!
+
+[ADVICE_SLOT_MACHINE_2_SUNS]
+¡Pareja! ¡Bonif. de sol!
+
+[ADVICE_SLOT_MACHINE_2_DIAMONDS]
+¡Pareja! ¡Diamantes!
+
+[ADVICE_SLOT_MACHINE_SUN_JACKPOT]
+¡Bote de sol!
+
+[ADVICE_SLOT_MACHINE_DIAMOND_JACKPOT]
+¡Bote de diamante!
+
+[SLOT_MACHINE_SUN_TOOLTIP]
+Sol
+
+[SLOT_MACHINE_DIAMOND_TOOLTIP]
+Diamante
+
+[ADVICE_BUNGEES_INCOMING]
+¡Colgaos cayendo!
+
+[ADVICE_CLICKED_ON_SUN]
+¡Sigue acumulando sol!
+¡Lo necesitaras para plantar mas!
+
+[ADVICE_CLICKED_ON_COIN]
+¡Ahorra dinero para comprarte lo que te mole!
+
+[ADVICE_SEED_REFRESH]
+Las semillas necesitan tiempo para replantarse.
+
+[ADVICE_CANT_AFFORD_PLANT]
+¡Necesitas mas sol para eso! 
+
+[ADVICE_PLANT_NEEDS_REPEATER]
+¡Planta antes una Repetidora!
+
+[ADVICE_PLANT_NEEDS_MELONPULT]
+¡Planta antes una Melonpulta!
+
+[ADVICE_PLANT_NEEDS_SUNFLOWER]
+¡Planta antes un Girasol!
+
+[ADVICE_PLANT_NEEDS_SPIKEWEED]
+¡Planta antes una Pinchohierba! 
+
+[ADVICE_PLANT_NEEDS_KERNELPULT]
+¡Planta antes 2 Lanzamaices!
+
+[ADVICE_PLANT_NEEDS_MAGNETSHROOM]
+¡Planta antes una Magnetoseta!
+
+[ADVICE_PLANT_NEEDS_FUMESHROOM]
+¡Planta antes una Humoseta!
+
+[ADVICE_PLANT_NEEDS_LILYPAD]
+¡Planta antes un Nenufar!
+
+[PLAYERS_HOUSE]
+Casa de {PLAYER}
+
+[PLAYERS_BACKYARD]
+Patio de {PLAYER}
+
+[PLAYERS_ROOF]
+¡Tejado de {PLAYER}!
+
+[ADVICE_PORTAL_RELOCATING]
+Portales trasladandose...
+
+[ZEN_SELL_HEADER]
+¿Seguro?
+
+[ZEN_SELL_LINES]
+¿Vender la planta a Crazy Dave?
+
+[DIALOG_WARNING]
+Atencion
+
+[DIALOG_ZEN_GARDEN_FULL]
+¡Oh, no! ¡Tu jardin esta lleno!
+
+[DIALOG_BUTTON_OK]
+Aceptar
+
+[DIALOG_BUTTON_CANCEL]
+Cancelar
+
+[DIALOG_BUTTON_YES]
+Si
+
+[DIALOG_BUTTON_NO]
+No
+
+[BUTTON_OK]
+Aceptar
+
+[BUTTON_CANCEL]
+Cancelar
+
+[BUTTON_YES]
+Si
+
+[BUTTON_NO]
+No
+
+[NEW_PLANT]
+¡TIENES UNA NUEVA PLANTA!
+
+[NEXT_LEVEL_BUTTON]
+¡SIGUIENTE NIVEL!
+
+[CONTINUE_BUTTON]
+Continuar
+
+[HELP AND OPTIONS]
+Ayuda y opciones
+
+[LEADERBOARDS]
+Marcadores
+
+[ACHIEVEMENTS]
+Logros
+
+[VIEW_ALMANAC_BUTTON]
+Ver almanaque
+
+[MAIN_MENU_BUTTON]
+Salir del juego
+
+[AWARD_MAIN_MENU_BUTTON]
+MENU PRINC.
+
+[REPICK_BUTTON]
+Reelegir
+
+[SHOVEL]
+Pala
+
+[GOT_SHOVEL]
+¡Tienes una Pala!
+
+[SHOVEL_DESCRIPTION]
+Quita una planta
+para poder plantar
+otra.
+
+[FOUND_NOTE]
+Hallas una nota:
+
+[SUBURBAN_ALMANAC]
+Almanaque suburbano
+
+[FOUND_SUBURBAN_ALMANAC]
+¡Has encontrado un almanaque!
+
+[SUBURBAN_ALMANAC_DESCRIPTION]
+Registra todas las plantas y zombis que hayas visto.
+
+[KEYS]
+Llaves del coche de Dave
+
+[FOUND_KEYS]
+¡Son las llaves del coche de Dave!
+
+[KEYS_DESCRIPTION]
+¡Ya puedes ir a
+la tienda de Crazy Dave!
+
+[VASE]
+Jarron misterioso
+
+[FOUND_VASE]
+¡Has encontrado un jarron misterioso!
+
+[VASE_DESCRIPTION]
+¡Ya puedes jugar al
+modo Rompejarrones!
+
+[WATERING_CAN]
+Regadera
+
+[FOUND_WATERING_CAN]
+¡Has encontrado una Regadera!
+
+[WATERING_CAN_DESCRIPTION]
+¡Ya puedes jugar al
+modo Jardin Zen!
+
+[TACO]
+Taco
+
+[FOUND_TACO]
+¡Has encontrado un taco!
+
+[TACO_DESCRIPTION]
+¿Que vas a hacer con un taco?
+
+[WATERING_CAN_TOOLTIP]
+regar una planta
+
+[FERTILIZER_TOOLTIP]
+abonar una planta
+
+[TREE_FERTILIZER_TOOLTIP]
+abonar arbol
+
+[BUG_SPRAY_TOOLTIP]
+fumigar
+
+[PHONOGRAPH_TOOLTIP]
+poner musica para plantas
+
+[CHOCOLATE_TOOLTIP]
+chocolate
+
+[GLOVE_TOOLTIP]
+reubicar planta
+
+[MONEY_SIGN_TOOLTIP]
+vender planta
+
+[WHEELBARROW_TOOLTIP]
+lleva plantas para trasladar
+
+[NEXT_GARDEN_TOOLTIP]
+visitar otro jardin
+
+[SHOVEL_TOOLTIP]
+quitar planta
+
+[BEGHOULED_REPEATER_UPGRADE_TOOLTIP]
+Mejorar tus Lanzaguisantes a Repetidoras
+
+[BEGHOULED_FUMESHROOM_UPGRADE_TOOLTIP]
+Mejorar tus Setas desesporadas a Humosetas
+
+[BEGHOULED_TALLNUT_UPGRADE_TOOLTIP]
+Mejorar tus Nueces a Nueces Cascara-Rabias
+
+[BEGHOULED_SHUFFLE_TOOLTIP]
+Mezclar plantas
+
+[BEGHOULED_CRATER_TOOLTIP]
+Rellenar crater
+
+[BEGHOULED_SEED_ALREADY_PURCHASED]
+Adquirido
+
+[BEGHOULED_NO_CRATERS]
+No hay crateres
+
+[FREE_PLANTING_CHEAT]
+Truco: plantar Gratis
+
+[WAITING_FOR_SEED]
+recargando...
+
+[NOT_ENOUGH_SUN]
+sol insuficiente
+
+[REQUIRES_REPEATER]
+Requiere Repetidora 
+
+[REQUIRES_MELONPULT]
+Requiere Melonpulta
+
+[REQUIRES_SUNFLOWER]
+Requiere Girasol
+
+[REQUIRES_SPIKEWEED]
+Requiere Pinchohierba
+
+[REQUIRES_KERNELPULTS]
+Requiere 2 Lanzamaices
+
+[REQUIRES_MAGNETSHROOM]
+Requiere Magnetoseta
+
+[REQUIRES_FUMESHROOM]
+Requiere Humoseta
+
+[REQUIRES_LILY_PAD]
+Requiere Nenufar
+
+[WAITING_TO_REFRESH]
+esperando para refrescar
+
+[LETS_ROCK_BUTTON]
+¡A por ellos!
+
+[VIEW_LAWN]
+Ver jardin
+
+[ALMANAC_BUTTON]
+Almanaque
+
+[SHOP_BUTTON]
+Tienda
+
+[CLOSE_BUTTON]
+Cerrar
+
+[ALMANAC_INDEX]
+ALMANAQUE (INDICE)
+
+[VIEW_PLANTS]
+Ver plantas
+
+[VIEW_ZOMBIES]
+Ver zombis
+
+[BACK_TO_MENU]
+Menu
+
+[ROLL_CREDITS]
+¡Esos creditos!
+
+[PAGE_X]
+PAG. {PAGE} 
+
+[RESTART_BUTTON]
+Reiniciar
+
+[RESTART_LABEL]
+Reiniciar
+
+[NEW_GAME_BUTTON]
+Nueva partida
+
+[LEAVE_BUTTON]
+Abandonar
+
+[QUIT_BUTTON]
+Abandonar
+
+[REGISTER_BUTTON]
+Registrar
+
+[QUIT_MESSAGE]
+¿Seguro que quieres
+salir del juego?
+
+[QUIT_HEADER]
+Abandonar
+
+[AWW_YEAH_BUTTON]
+¡Vaya que si quiero!
+
+[NAH_BUTTON]
+¡Pues va a ser que no!
+
+[MORE_SEEDS_HEADER]
+¿Mas semillas?
+
+[MORE_SEEDS_BODY]
+¿Te gustaria poder plantar mas tipos de semillas?
+
+[STORE_NEXT_LEVEL_BUTTON]
+SIGUIENTE NIVEL
+
+[STORE_MAIN_MENU_BUTTON]
+MENU
+
+[STORE_BACK_TO_GAME]
+ATRAS
+
+[STORE_BACK_TO_ZEN]
+ATRAS
+
+[SEED_CHOOSER_UPGRADE_WARNING]
+¿Seguro que quieres usar {UPGRADE_TO} sin {UPGRADE_FROM}?
+
+[SEED_CHOOSER_SEEING_STARS_WARNING]
+¿Seguro que quieres comenzar el nivel sin Frustrellas?
+
+[SEED_CHOOSER_LILY_WARNING]
+¿Seguro que quieres comenzar el nivel sin Nenufares?
+
+[SEED_CHOOSER_ART_WALLNUT_WARNING]
+¿Seguro que quieres comenzar el nivel sin Nueces?
+
+[SEED_CHOOSER_ART_2_WARNING]
+¿Seguro que quieres comenzar el nivel sin Frustrellas, Paraplantas ni Nueces?
+
+[SEED_CHOOSER_FLYER_WARNING]
+No has seleccionado ninguna planta que ataque a los globos. ¿Seguro que quieres continuar?
+
+[SEED_CHOOSER_SUN_WARNING]
+No has seleccionado ninguna planta productora de sol. ¿Seguro que quieres continuar?
+
+[SEED_CHOOSER_NIGHT_SUN_WARNING]
+Es de noche y ahora las plantas productoras de 
+sol son imprescindibles. ¿Seguro que quieres continuar?
+
+[SEED_CHOOSER_PUFFSHROOM_WARNING]
+Este nivel sera muy dificil sin Setas desesporadas. 
+¿Seguro que quieres continuar sin ellas?
+
+[SEED_CHOOSER_POOL_WARNING]
+¿Seguro que quieres empezar el nivel sin plantas acuaticas?
+
+[SEED_CHOOSER_ROOF_WARNING]
+¿Seguro que quieres empezar el nivel sin Macetas?
+
+[ADVICE_ALMOST_THERE]
+¡Ya casi!
+
+[ADVICE_BEGHOULED_ALMOST_THERE]
+¡5 combinaciones mas!
+
+[ZOMBIQUARIUM_SNORKEL_TOOLTIP]
+Compra Zombi buzo
+
+[ZOMBIQUARIUM_TROPHY_TOOLTIP]
+Compra Trofeo
+
+[ADVICE_ZOMBIQUARIUM_CLICK_TO_FEED]
+Pulsa en el acuario para alimentar a los zombis.
+
+[ADVICE_ZOMBIQUARIUM_COLLECT_SUN]
+Consigue {SCORE} soles.
+
+[ZOMBIQUARIUM_DEATH_MESSAGE]
+¡Todas tus mascotas zombis han fallecido!
+
+[I_ZOMBIE_DEATH_MESSAGE]
+¡Perdiste todos tus zombis!
+
+[ADVICE_ZOMBIQUARIUM_CLICK_TROPHY]
+¡Toca el trofeo para completar el nivel!
+
+[ADVICE_ZOMBIQUARIUM_BUY_SNORKEL]
+Pulsa sobre el sobre para comprar mas zombies
+
+[TRY_AGAIN]
+Volver a intentar
+
+[ONE_FLAG]
+1
+
+[COUNT_FLAGS]
+{COUNT}
+
+[SURVIVAL_DEATH_MESSAGE]
+Has sobrevivido a {FLAGS} Banderas
+pero aun asi
+¡¡TE HAN DEVORADO LOS SESOS!!
+
+[ENDLESS_PUZZLE_DEATH_MESSAGE]
+Has aguantado {STREAK} asaltos.
+
+[ENDLESS_STREAK]
+Asalto: {STREAK}
+
+[LEVEL]
+Nivel
+
+[GAME_OVER]
+FIN DE LA PARTIDA
+
+[REVIVAL_GAME_TITLE]
+Atencion
+
+[REVIVAL_GAME_MSG]
+Los zombis estan a punto de entrar a tu casa y reiniciar tu nivel (Debes ir a la tienda para comprar monedas primero).
+Requiere %d Monedas.
+
+[UNLOCK_MODE_MSG]
+Completa mas juegos de desbloqueo de nivel en el modo Aventura.
+O usa %d Vcoins para abrir el juego.
+
+[REVIVAL_GAME_YES_BUTTON]
+De acuerdo
+
+[REVIVAL_GAME_NO_BUTTON]
+Olvidalo
+
+[UNLOCK_MODE_YES_BUTTON]
+Usa las monedasVpara abrir
+
+[UNLOCK_MODE_NO_BUTTON]
+Volver
+
+[PICK_AREA]
+Supervivencia
+
+[PICK_CHALLENGE]
+Minijuegos
+
+[ONE_MORE_CHALLENGE_TOOLTIP]
+Completa 1 minijuego mas para desbloquear.
+
+[ONE_MORE_SCARY_POTTER_TOOLTIP]
+Gana 1 trofeo Rompejarrones para desbloquear.
+
+[ONE_MORE_IZOMBIE_TOOLTIP]
+Gana 1 trofeo Yo, Zombi para desbloquear.
+
+[ONE_MORE_SURVIVAL_TOOLTIP]
+1 trofeo de Supervivencia mas para desbloquear
+
+[10_SURVIVAL_TOOLTIP]
+10 trofeos de Supervivencia para desbloquear
+
+[FINISH_ADVENTURE_TOOLTIP]
+Termina el modo Aventura para desbloquear.
+
+[SURVIVAL_DAY_NORMAL]
+Supervivencia: Dia
+
+[SURVIVAL_NIGHT_NORMAL]
+Supervivencia: Noche
+
+[SURVIVAL_POOL_NORMAL]
+Supervivencia: Piscina
+
+[SURVIVAL_FOG_NORMAL]
+Supervivencia: Niebla
+
+[SURVIVAL_ROOF_NORMAL]
+Supervivencia: Tejado
+
+[SURVIVAL_DAY_HARD]
+Supervivencia: Dia (dificil)
+
+[SURVIVAL_NIGHT_HARD]
+Supervivencia: Noche (dificil)
+
+[SURVIVAL_POOL_HARD]
+Supervivencia: Piscina (dificil)
+
+[SURVIVAL_FOG_HARD]
+Supervivencia: Niebla (dificil)
+
+[SURVIVAL_ROOF_HARD]
+Supervivencia: Tejado (dificil)
+
+[SURVIVAL_DAY_ENDLESS]
+Supervivencia: Dia (Infinito)
+
+[SURVIVAL_NIGHT_ENDLESS]
+Supervivencia: Noche (Infinito)
+
+[SURVIVAL_POOL_ENDLESS]
+Supervivencia: Piscina [COFFEE_BEAN_TOOLTIP]
+Plántalo en una seta para despertarla.
+
+[EXPLODE_O_NUT]
+Cascanueces
+
+[EXPLODE_O_NUT_TOOLTIP]
+Explota al contacto.Infinito)
+
+[SURVIVAL_FOG_ENDLESS]
+Supervivencia: Niebla (Infinito)
+
+[SURVIVAL_ROOF_ENDLESS]
+Supervivencia: Tejado (Infinito)
+
+[WAR_AND_PEAS]
+Vegezombis
+
+[SEEING_STARS]
+Viendo las estrellas
+
+[CAN_YOU_DIG_IT]
+Estas 'acavado'
+
+[SCARY_POTTER_1]
+Rompejarrones
+
+[SCARY_POTTER_2]
+A tu izquierda
+
+[SCARY_POTTER_3]
+Tercer jarron
+
+[SCARY_POTTER_4]
+Reaccion en cadena
+
+[SCARY_POTTER_5]
+M' de Metal
+
+[SCARY_POTTER_6]
+Scary Potter
+
+[SCARY_POTTER_7]
+El baile de San Vito
+
+[SCARY_POTTER_8]
+Otra reaccion en cadena
+
+[SCARY_POTTER_9]
+El 'jarrozon partio'
+
+[SCARY_POTTER_10]
+Rompejarrones caradura
+
+[SCARY_POTTER_ENDLESS]
+Rompejarrones infinito
+
+[SCARY_POTTER]
+Puzzle
+
+[PORTAL_COMBAT]
+Portal Combat
+
+[BEGHOULED]
+Bezombied
+
+[BEGHOULED_TWIST]
+Bezombied Twist
+
+[WALL_NUT_BOWLING]
+La bolera
+
+[GRAVE_DANGER]
+Lapidas rapidas
+
+[I_ZOMBIE]
+Yo, Zombi
+
+[WHACK_A_ZOMBIE]
+Mola 'Mazo'
+
+[SLOT_MACHINE]
+Tragaperras
+
+[ZOMBIQUARIUM]
+Zombiquarium
+
+[LITTLE_TROUBLE]
+Pequenos pero Matones
+
+[BOBSLED_BONANZA]
+Carreras de Bobsleigh
+
+[ITS_RAINING_SEEDS]
+Semillas Caidas
+
+[INVISIGHOUL]
+Invisibles
+
+[DARK_STORMY_NIGHT]
+Noche de Tormenta
+
+[AIR_RAID]
+Bombardeo
+
+[COLUMN_AS_YOU_SEE_EM]
+¡Formen! ¡Arr!
+
+[BUNGEE_BLITZ]
+Colgaos' de remate
+
+[POGO_PARTY]
+Saltimbanquis
+
+[FINAL_BOSS]
+La venganza del Dr. Zombi
+
+[LAST_STAND]
+El Ultimo Batallon
+
+[ART_CHALLENGE_WALL_NUT]
+Arte de nueces
+
+[SUNNY_DAY]
+Dia soleado
+
+[UNSODDED]
+Desenterrado
+
+[BIG_TIME]
+Momentazo
+
+[ART_CHALLENGE_SUNFLOWER]
+Reto artistico del Girasol
+
+[ZOMBIES_ON_SPEED]
+Zombis 'zumbaos'
+
+[ICE_LEVEL]
+Nivel de hielo
+
+[ZEN_GARDEN]
+Jardin Zen
+
+[HIGH_GRAVITY]
+Alta gravedad
+
+[WAR_AND_PEAS_2]
+Vegezombis 2
+
+[I_ZOMBIE_TOO]
+Yo, Zombi 2
+
+[WALL_NUT_BOWLING_EXTREME]
+La bolera 2
+
+[BEAT_GAME_MESSAGE1]
+¡Has ganado un Girasol de oro!
+
+[BEAT_GAME_MESSAGE2]
+Wow ¡Has ganado todos los trofeos! Es hora de desafiar mas en el
+Modo infinito! Y no te olvides de tu Jardin Zen! 
+
+[GOLD_SUNFLOWER_TROPHY]
+Trofeo de girasol dorado
+
+[SILVER_SUNFLOWER_TROPHY]
+Trofeo de girasol plateado
+
+[WIN_MESSAGE1]
+¡Has derrotado al ultimo zombi!
+
+[WIN_MESSAGE2]
+¡Felicidades! ¡Has repelido todos los ataques de los zombis! Tu jardin esta a salvo... ¡de momento!
+
+[GOT_TROPHY]
+¡Has ganado un trofeo!
+
+[TROPHY]
+Trofeo
+
+[NOW_YOU_CAN_PLAY]
+¡Ya puedes jugar a
+{MODE}! 
+
+[CHALLENGE_UNLOCKED]
+¡Has desbloqueado un minijuego!
+
+[GET_MORE_TROPHIES]
+¡Sigue recogiendo trofeos!
+
+[SUN]
+Sol
+
+[MATCHES]
+Partido
+
+[MODE_LOCKED]
+¡No desbloqueado!
+
+[MODE_UNOPEN]
+¡No abierto!
+
+[MODE_UNLOCK]
+Desbloqueado
+
+[SURVIVAL_LOCKED_MESSAGE]
+Avanza en el modo Aventura para desbloquear el modo Supervivencia
+
+[MINIGAME_LOCKED_MESSAGE]
+Avanza en el modo Aventura para desbloquear el modo Minijuegos
+
+[MODEGAME_UNLOCK_MESSAGE]
+¡Puedes comenzar el juego ahora!
+
+[PUZZLE_LOCKED_MESSAGE]
+Avanza en el modo Aventura para desbloquear el modo Puzzles
+
+[MULTIPLAYER_VS_OPENED]
+¡El modo multijugador aun no esta disponible en esta version del juego! 
+
+[MULTIPLAYER_COOP_OPENED]
+¡El modo Cooperativo aun no esta abierto!
+
+[CLICK_TO_START]
+
+
+[LOADING]
+
+
+[CREDITS]
+Creditos
+
+[BACK_TO_GAME]
+Reanudar juego
+
+[RESTART_LEVEL_BUTTON]
+Reiniciar nivel
+
+[ADVICE_ZEN_GARDEN_PICK_UP_WATER]
+Coge la Regadera tocandola.
+
+[ADVICE_ZEN_GARDEN_WATER_PLANT]
+Pulsa en una planta para regarla.
+
+[ADVICE_ZEN_GARDEN_KEEP_WATERING]
+¡Riega a tus plantas siempre que te pidan agua!
+
+[ADVICE_ZEN_GARDEN_VISIT_STORE]
+¡Las plantas requieren abonos para crecer!
+Ve a la tienda y compra algo de abono.
+
+[ADVICE_ZEN_GARDEN_VISIT_STORE_KEYBOARD_MODE]
+¡Las plantas requieren abono para crecer!
+Presione el boton para acceder a la tienda.
+¡Ve a buscar un poco de fertilizante!
+
+[ADVICE_ZEN_GARDEN_FERTILIZE]
+¡Abonalas y observa como crecen!
+
+[ADVICE_ZEN_GARDEN_NEED_MORE_FERTILIZER]
+¡Tienes que abonarlas a las dos!
+¡Toma, un poco mas de abono!
+
+[ADVICE_ZEN_GARDEN_CONTINUE_ADVENTURE]
+De momento tendras que esperar.
+Vuelve cuando tus plantas necesiten mas abono.
+
+[CHOOSE_SEED_TO_COPY]
+Escoge una Semilla
+
+[NOT_ALLOWED_ON_THIS_LEVEL]
+No disponible en este nivel
+
+[FULL_VERSION_ONLY]
+Solo juego completo
+
+[GET_FULL_VERSION_BODY]
+¡Obten el juego completo
+para usar esta superplanta!
+
+[GET_FULL_VERSION_TITLE]
+Solo juego completo
+
+[BUY_PVZ_TITLE]
+Obten juego completo
+
+[BUY_PVZ_BODY]
+quieres mas bueno pues muy pronto tendras mucho mas
+
+[GET_FULL_VERSION_YES_BUTTON]
+Nos vemos pronto
+
+[GET_FULL_VERSION_NO_BUTTON]
+Tal vez luego
+
+[FULL_VERSION_TO_BUY]
+¡Este objeto solo esta disponible
+en el juego completo!
+
+[CRAZY_DAVE_WANTS]
+Crazy Dave eligio esto
+
+[NOCTURNAL_WARNING]
+Nocturna: duerme durante el dia.
+
+[NOT_RECOMMENDED_FOR_LEVEL]
+¡No recomendada para el nivel!
+
+[CHOOSE_YOUR_PLANTS]
+¡ELIGE TUS PLANTAS!
+
+[ADVICE_USE_SHOVEL_ON_POTS]
+¡Toca sobre un jarron para ver que hay dentro!
+
+[ADVICE_DESTROY_POTS_TO_FINISH_LEVEL]
+¡Elimina a todos los zombis y jarrones del nivel!
+
+[SUBURBAN_ALMANAC_INDEX]
+Almanaque suburbano (Indice)
+
+[SUBURBAN_ALMANAC_PLANTS]
+Almanaque suburbano (Plantas)
+
+[SUBURBAN_ALMANAC_ZOMBIES]
+Almanaque suburbano (Zombis)
+
+[STORE_PAGE]
+{PAGE}/{NUM_PAGES}
+
+[STORE_UPGRADE_SLOTS]
+{SLOTS}
+espac.
+
+[ADVICE_I_ZOMBIE_EAT_ALL_BRAINS]
+¡Comete todos los cerebros para pasar de nivel!
+
+[ADVICE_I_ZOMBIE_PLANTS_NOT_REAL]
+No te alarmes, que
+las plantas son falsas.
+
+[SQUIRRELS]
+Ardillas
+
+[ADVICE_SQUIRRELS_ONE_LEFT]
+¡{COUNT} ardilla mas y ya!
+
+[ADVICE_SQUIRRELS_LEFT]
+¡{COUNT} ardillas para acabar!
+
+[ADVICE_SQUIRREL_ZOMBIE]
+¡Oh, no! ¡Encuentra las ardillas antes
+de que los zombis lleguen a tu casa!
+
+[BRAINS]
+Cerebros
+
+[COST]
+Precio
+
+[WAIT_TIME]
+Recarga
+
+[WAIT_TIME_SHORT]
+rapida
+
+[WAIT_TIME_LONG]
+lenta
+
+[WAIT_TIME_VERY_LONG]
+muy lenta
+
+[ADVICE_PEASHOOTER_DIED]
+¡Uno de tus Lanzaguisantes perecio!
+¡Prueba a plantarlos mas a la izquierda!
+
+[ADVICE_FOUND_PLANT]
+¡Has encontrado una planta Zen!
+
+[ADVICE_FOUND_CHOCOLATE]
+¡Chocolate!
+¡Daselo a Bernie para que vuele mas rapido por un tiempo!
+
+[ADVICE_STINKY_SLEEPING]
+¡Bernie esta dormido! ¡Toca para despertarlo!
+
+[START_ONSLAUGHT]
+Comenzar
+
+[CONTINUE_ONSLAUGHT]
+Continuar masacre
+
+[LAST_STAND_DEATH_MESSAGE]
+¡¡Has sobrevivido a {FLAGS}!!
+
+[SUCCESSFULLY_DEFENDED]
+{FLAGS} bien defendidas
+
+[FLAGS_COMPLETED_PLURAL]
+{FLAGS} completadas
+
+[FLAGS_COMPLETED]
+{FLAGS} completada
+
+[I_ZOMBIE_1]
+Yo, Zombi
+
+[I_ZOMBIE_2]
+Yo tambien, Zombi
+
+[I_ZOMBIE_3]
+Estas 'acavado'
+
+[I_ZOMBIE_4]
+Poco ruido y muchas nueces
+
+[I_ZOMBIE_5]
+99 red balloons
+
+[I_ZOMBIE_6]
+Arrasando
+
+[I_ZOMBIE_7]
+Zombi Dance
+
+[I_ZOMBIE_8]
+6 tontos muy tontos
+
+[I_ZOMBIE_9]
+Cerebros, para que os quiero
+
+[I_ZOMBIE_ENDLESS]
+Yo, Zombi Infinito
+
+[UNLOCKED_I_ZOMBIE_LEVEL]
+¡Has desbloqueado un nuevo
+nivel de Yo, Zombi!
+
+[UNLOCKED_VASEBREAKER_LEVEL]
+¡Has desbloqueado un nuevo
+nivel de Rompejarrones!
+
+[EARN_MORE_TROPHIES_FOR_ENDLESS_SURVIVAL]
+Gana mas trofeos de Supervivencia y desbloquea el Modo Supervivencia Definitiva.
+
+[YOU_UNLOCKED_A_SURVIVAL]
+¡Has desbloqueado una nueva Supervivencia!
+
+[YOU_UNLOCKED_ENDLESS_SURVIVAL]
+¡Has desbloqueado Supervivencia Infinita!
+
+[NOT_ENCOUNTERED_YET]
+???
+
+[CHALLENGE_DISABLED_BUTTON]
+?
+
+[NOT_ENCOUNTERED_YET_DESCRIPTION]
+(No encontrado aun)
+
+[CLICK_TO_CONTINUE]
+Pulsa <A> para continuar.
+
+[SOLD_OUT]
+Agot.
+
+[COMING_SOON]
+Bloq.
+
+[ZEN_ONLY_AQUATIC_PLANTS]
+Solo puedes tener plantas acuaticas aqui. ¡Bajo el agua!
+
+[RESTART_LEVEL_HEADER]
+¿Reiniciar nivel?
+
+[RESTART_PUZZLE_HEADER]
+¿Reiniciar Puzzle?
+
+[RESTART_CHALLENGE_HEADER]
+¿Reiniciar Reto?
+
+[RESTART_SURVIVAL_HEADER]
+¿Reiniciar Supervivencia?
+
+[RESTART_LEVEL_BODY]
+¿Quieres reiniciar el nivel
+desde el principio?
+
+[RESTART_PUZZLE_BODY]
+¿Quieres reiniciar el Puzzle
+desde el principio?
+
+[RESTART_CHALLENGE_BODY]
+¿Quieres reiniciar el Reto
+desde el principio?
+
+[RESTART_SURVIVAL_BODY]
+¿Quieres reiniciar la Supervivencia
+desde el principio?
+
+[SILVER_SUNFLOWER_TOOLTIP]
+¡Consigue todos los trofeos de Minijuegos, Puzzles y Supervivencia para alzarte con el trofeo Girasol de oro!
+
+[GOLD_SUNFLOWER_TOOLTIP]
+¡Aventura completada
+1 vez!
+
+[GOLD_SUNFLOWER_TOOLTIP_PLURAL]
+¡Aventura completada
+ {COUNT} veces!
+
+[TREE_OF_WISDOM_1]
+¡Gracias por cuidarme! Sigue dandome abono y te podre dar informacion muy util.
+
+[TREE_OF_WISDOM_2]
+La Planta Carnivora y la Nuez forman un gran equipo juntas. Normal: compartian piso en la universidad.
+
+[TREE_OF_WISDOM_3]
+Si de verdad escuchas todo lo que digo, presta atencion: te interesa tener dos columnas de Girasoles. En serio.
+
+[TREE_OF_WISDOM_4]
+Zombis buzos... Los odio. Lo mejor para pararlos: Nueces sobre Nenufares.
+
+[TREE_OF_WISDOM_5]
+Si introduces la combinacion de botones LB RB LT RT durante una partida, podras hacer cosas fantasticas.
+
+[TREE_OF_WISDOM_6]
+¿Cuantas Petacerezas son necesarias para acabar con un Zombistein? Te dare una pista: mas de una, pero menos de tres... Otra pista mejor: dos.
+
+[TREE_OF_WISDOM_7]
+Si buscas Setas para tu Jardin Zen, tendras mas suerte en niveles de noche.
+
+[TREE_OF_WISDOM_8]
+Yo no me preocuparia por danar el terreno con Petasetas: el jardin se recupera el solito.
+
+[TREE_OF_WISDOM_9]
+¡Pssst! Escribe 'future' mientras juegas para ver a los zombis... ¡del FUTURO!
+
+[TREE_OF_WISDOM_10]
+Cuenta la leyenda que los zombis congelados comen mas despacio. Y yo ratifico que es un hecho cientifico.
+
+[TREE_OF_WISDOM_11]
+¿Has oido hablar del escurridizo Zombi Yeti? Dice que le gusta esconderse en lugares oscuros.
+
+[TREE_OF_WISDOM_12]
+¿Que hay mas barato que gratis? ¡Nada! ¡Por eso las Setas desesporadas son esenciales de noche!
+
+[TREE_OF_WISDOM_13]
+¿Esperas encontrar plantas acuaticas para tu Jardin Zen? Me juego mis floemas a que tendras mas suerte buscando en piscinas.
+
+[TREE_OF_WISDOM_14]
+¿Has visto que Zombistein a veces usa OTROS ZOMBIS para aplastar tus plantas? Lo que sea con tal de asaltar.
+
+[TREE_OF_WISDOM_15]
+A Bernie la abeja le chifla el chocolate. Igual le pierde demasiado, ¿sabes? Lo que pasa es que se pone como una moto... Luego no para.
+
+[TREE_OF_WISDOM_16]
+Si pensabas que en Supervivencia Infinita solo aparecian plantas de piscina para tu Jardin Zen, te equivocas: ¡aparecen de todos los tipos!
+
+[TREE_OF_WISDOM_17]
+La pregunta no deberia ser '¿dónde encuentro Chocolate?', sino mas bien '¿dónde NO encuentro Chocolate?': ¡Puede aparecer en cualquier nivel!
+
+[TREE_OF_WISDOM_18]
+¿Comepiedras, eh? Eligelos unicamente cuando veas que hay lapidas en la parte derecha donde estan los zombis. Es lo que yo hago.
+
+[TREE_OF_WISDOM_19]
+He oido por ahi que el Zombi caracubo es 5 veces mas resistente que el Zombi comun.
+
+[TREE_OF_WISDOM_20]
+Dicen por ahi que si escribes 'mustache', ¡haras que los no-muertos sufran una terrible transformacion!
+
+[TREE_OF_WISDOM_21]
+¿Si disparas con varios Hielaguisantes, se frenaran mas los zombis? La respuesta a este dilema es... 'no'.
+
+[TREE_OF_WISDOM_22]
+Ya sabes que los zombis salen de las lapidas, ¿no? Entonces, ¿por que no las quitas usando Comepiedras en la Supervivencia de noche? ¿Por orgullo?
+
+[TREE_OF_WISDOM_23]
+Si quieres saber lo largo que es un nivel, cuenta las banderas de la barra inferior. Es un indicador infalible.
+
+[TREE_OF_WISDOM_24]
+Limpiatejados. Un clasico. Todo lo que yo te diga, es poco. ¿Lo mejor de ellos? Que te seran muy utiles contra Zombis saltarines.
+
+[TREE_OF_WISDOM_25]
+¿Si le das una Hipnoseta a un Zombi bailon, sus Zombis extra tambien lucharan por ti? Piensa... La respuesta correcta es 'si'.
+
+[TREE_OF_WISDOM_26]
+¡Gana dinero rapido jugando a Supervivencia Infinita! Y luego me pasas tus datos bancarios...
+
+[TREE_OF_WISDOM_27]
+Si crees que la Plantorcha descongela los disparos del Hielaguisantes; amigo, deja que te diga que eres un cerebrito.
+
+[TREE_OF_WISDOM_28]
+¡Esos pesados Vegezombis! ¿Que se habran creído? ¿Disparando a tus plantas? Ya les vendria bien una Nuez que les parara los pies.
+
+[TREE_OF_WISDOM_29]
+Los minijuegos Carrera de bobsleigh y Saltimbanquis son muy, muy, muy, pero que muy dificiles. ¿Quieres quitar un 'muy'? Pues usa Apisonaflores.
+
+[TREE_OF_WISDOM_30]
+Justo cuando pensabas que los Jalapenosno tenian mas usos, ¡va el Arbol de la sabiduria y te sopla que tambien deshacen los rastros de hielo!
+
+[TREE_OF_WISDOM_31]
+Cuando hayas adquirido la Imitadora, selecciona la silueta situada arriba a la izquierda en el Almanaque para ver la descripcion.
+
+[TREE_OF_WISDOM_32]
+La cantidad de monedas que recibes en La bolera es directamente proporcional a tu habilidad en funcion del numero de rebotes que consigas por Nuez.
+
+[TREE_OF_WISDOM_33]
+¡No golpees el cristal! Bueno, ¿y por que no? Adelante, pulsa <Y> en tu Acuario Zen o Zombiquarium para dejar sordos a los zombis.
+
+[TREE_OF_WISDOM_34]
+Cuando yo aun era un bellota, mi padre me dijo: 'Hijo mio, los puzzles Rompejarrones son mas faciles si empiezas a romper por la derecha'.
+
+[TREE_OF_WISDOM_35]
+Los Zombis bailones en Yo, Zombi pueden parecer caros, pero si los situas bien, te saldran rentables.
+
+[TREE_OF_WISDOM_36]
+He tenido un sueño muy raro: los Rabos de gato reventaban globos y los zombis caian al suelo. No se que significara
+
+[TREE_OF_WISDOM_37]
+Poner plantas acuaticas en tu Jardin Zen es mision imposible sin un Acuario Zen. Avisado quedas.
+
+[TREE_OF_WISDOM_38]
+Los zombis Paletos van contra su propia naturaleza de ir por la superficie, asi que usa Magnetosetas para quitarles sus picos.
+
+[TREE_OF_WISDOM_39]
+Cada dia hay nuevos retos y nuevas oportunidades. Ah, ¡y nuevas Margaritas en la Tienda de Dave!
+
+[TREE_OF_WISDOM_40]
+¡El Jardin de Setas! ¿Para que sirve eso? ¡Para nada!... Bueno, excepto para criar setas, claro.
+
+[TREE_OF_WISDOM_41]
+¿Fatiga? ¿Depresion? ¿Superan a tus Nueces Cascara-Rabias con escaleras? Una buena Magnetoseta y listo.
+
+[TREE_OF_WISDOM_42]
+La altura de la Nuez Cascara-Rabias es conocida por su efectividad contra Zombis saltarines y Zombis con delfin.
+
+[TREE_OF_WISDOM_43]
+La explosion de una Petacereza o un Jalapeno es mas que suficiente para derribar una escalera apoyada en una Nuez.
+
+[TREE_OF_WISDOM_44]
+Es una tentacion darle todo el chocolate a Bernie la abeja. Se pone tan contento... Pero recuerda: ¡a las plantas Zen tambien les gusta!
+
+[TREE_OF_WISDOM_45]
+La Plantorcha quema mas que la rabia, pero Zombictores, puertas, escaleras y Zombipultas resisten el calor.
+
+[TREE_OF_WISDOM_46]
+Si confias en las plantas mejoradas para Supervivencia Infinita, ten en cuenta que seran mas caras cuantas mas haya en el jardin.
+
+[TREE_OF_WISDOM_47]
+Los Zombiditos de Yo, Zombi parecen poca cosa. Pero consiguen el ultimo cerebro con rapidez y destreza cuando has terminado con todos los demas.
+
+[TREE_OF_WISDOM_48]
+Si escribes 'trickedout'luego no te sorprendas de lo que les pueda pasar a tus cortadoras de cesped. No te olvides de pulsar LB RB LT RT antes. Ya ni te acordabas, ¿verdad?
+
+[TREE_OF_WISDOM_49]
+¡Gracias por cuidarme! No se nada nuevo, ¡pero puede que aprenda mas cosas si me haces crecer lo suficiente!
+
+[TREE_OF_WISDOM_101]
+Mmm, como me apetece abono... ¡Que rico!
+
+[TREE_OF_WISDOM_102]
+Creo que ya he visto esa nube antes.
+
+[TREE_OF_WISDOM_103]
+Como si no estuviera. Yo aqui me quedo, creciendo.
+
+[TREE_OF_WISDOM_104]
+¡Estoy metabolizando como un loco!
+
+[TREE_OF_WISDOM_105]
+Nunca entendere por que los animales os moveis todo el dia.
+
+[TREE_OF_WISDOM_106]
+¡Para mi el tiempo pasa mucho mas despacio que para ti!
+
+[TREE_OF_WISDOM_107]
+¡Creo que soy un perenne!
+
+[TREE_OF_WISDOM_108]
+¡Me pican los xilemas!
+
+[TREE_OF_WISDOM_109]
+Puedes adquirir mucha sabiduria simplemente por estar aqui.
+
+[TREE_OF_WISDOM_110]
+Me han dicho que viene un tal 'Invierno'. No es que me apetezca mucho, la verdad.
+
+[TREE_OF_WISDOM_201]
+Mmm... Luz solar, ¡que delicia!
+
+[TREE_OF_WISDOM_202]
+Uy, perdon... se me ha escapado un poco de oxigeno.
+
+[TREE_OF_WISDOM_203]
+¡Dios! ¡No me salen hojas!
+
+[TREE_OF_WISDOM_204]
+¡Creo que estoy dando un estiron!
+
+[TREE_OF_WISDOM_205]
+¡De momento carezco de saber mundano!
+
+[TREE_OF_WISDOM_301]
+¡Te agradezco mucho todo lo que te has dejado en abonos!
+
+[TREE_OF_WISDOM_302]
+¡Esa nube es clavadita a un enorme conglomerado de gotitas!
+
+[TREE_OF_WISDOM_303]
+¿Conoces a mi primo Yggdrasil? Todo un idolo de masas en Suecia.
+
+[TREE_OF_WISDOM_304]
+Me saco la carrera de sociologia por Internet. La de cosas que aprendo.
+
+[TREE_OF_WISDOM_305]
+Tras mucha observacion puedo afirmar que es la Tierra la que gira alrededor del Sol y no al contrario, pese a las apariencias.
+
+[TREE_OF_WISDOM_401]
+Cuando llevas tanto tiempo en este mundo como yo, duermes menos, pero alucinas mas.
+
+[TREE_OF_WISDOM_402]
+¿Por qué 'separado' se escribe todo junto y 'todo junto' se escribe separado?
+
+[TREE_OF_WISDOM_403]
+La historia siempre se repite, pero sus datos son erroneos.
+
+[TREE_OF_WISDOM_404]
+Si el pasado, presente y futuro coexisten a la vez como unida temporal, seguro que el 'ahora' no es mas que una mera ilusion.
+
+[TREE_OF_WISDOM_405]
+Tener arrojo es fácil; constancia, no tanto.
+
+[TREE_OF_WISDOM_500]
+He aqui el saber popular de los osos...
+
+[TREE_OF_WISDOM_600]
+¡Comida de arbol!
+
+[TREE_OF_WISDOM_800]
+¡Vaya! ¡Mido 100 metros de altura! Celebralo conmigo escribiendo 'daisies' para que de los zombis vencidos broten margaritas.
+
+[TREE_OF_WISDOM_900]
+¡Mira tu! ¡Ya mido 500 metros! ¡Eso se merece un baile! Escribe 'dance' y los zombis se marcaran un bailoteo.
+
+[TREE_OF_WISDOM_1000]
+¡YEEEPA! ¡Ya mido 1000 metros! 
+¡Celebremoslo juntos escribiendo 
+'pinata' para que los zombis 
+dejen dulces al caer!
+
+[TREE_OF_WISDOM_1100]
+¡Gracias por cuidar de mi! Ya te he ensenado todo lo que se, ¡pero aun puedo crecer mas!
+
+[TREE_OF_WISDOM_HIEGHT]
+{HEIGHT} metros
+
+[UNLOCKED_MINIGAMES]
+¡Minijuegos disponibles!
+¡Juega desde el menu principal!
+
+[UNLOCKED_PUZZLE_MODE]
+¡Modo Puzzle disponible!
+¡Juega desde el menu principal!
+
+[UNLOCKED_SURVIVAL_MODE]
+¡Supervivencia disponible!
+¡Juega desde el menu principal!
+
+[CREDITS_GAMENAME]
+PLANTAS CONTRA ZOMBIS 2 PAK
+
+[CREDITS_NAMES1]
+{CREDITS1}LUMINORD 08
+GEORGE FAN
+TOD SEMPLE
+RICH WERNER
+LAURA SHIGIHARA
+ENRIQUE CORTS
+MATT HOLMBERG
+STEPHEN NOTLEY
+
+[CREDITS_ROLES1]
+{CREDITS1}CREADOR DEL MOD
+DISENO DEL JUEGO
+PROGRAMACION
+GRAFICOS
+MUSICA Y SONIDO
+DECORADOS
+INTERFAZ
+DIALOGOS
+
+
+[CREDITS_NAMES2]
+{CREDITS2}
+
+SUKHBIR SIDHU
+MIKE RACIOPPI
+SHAWN CONARD, ED MILLER, ADAM MACDONNELL
+BRIAN FIETE, CHRIS HARGROVE, DAVID PARTON
+DAVID P. WYCLIFF
+JASON KAPALKA, JOHN VECHEY, DAVE HAAS, DAVE ROBERTS, ED BROWN, LINDSEY KURZ,
+JEFF GATES, MYSTICSAGE, DAVE ROHRL, TESTERS BETA DE POPCAP
+
+[CREDITS_ROLES2]
+{CREDITS2}
+
+DIRECTOR DEL ESTUDIO
+COORDINADOR DEL CONTROL DE CALIDAD
+CONTROL DE CALIDAD
+EQUIPO DE POPCAP
+REPRESENTANTE DE MARMOT
+AGRADECIMIENTOS ESPECIALES
+
+[CREDITS_XBLA]
+CREDITOS DE XBLA
+
+[CREDITS_ROLES_XBLA1]
+PROGRAMADORES
+
+[CREDITS_NAMES_XBLA1]
+DON WURSTER, MATTHEW SMITH, KURT PFEIFER
+
+[CREDITS_ROLES_XBLA2]
+PRODUCTOR SENIOR
+
+[CREDITS_NAMES_XBLA2]
+MATTHEW LEE JOHNSTON
+
+[CREDITS_ROLES_XBLA3]
+PRODUCTOR ASOCIADO
+
+[CREDITS_NAMES_XBLA3]
+TY ROBERTS
+
+[CREDITS_ROLES_XBLA4]
+DIRECTOR ARTISTICO
+
+[CREDITS_NAMES_XBLA4]
+RICK SCHMITZ
+
+[CREDITS_ROLES_XBLA5]
+ARTISTAS
+
+[CREDITS_NAMES_XBLA5]
+MISAEL ARMENDARIZ, DAVID PAUL, MARK BARRETT,
+RICH WERNER, JIM ABRAHAM, MONTE MICHAELIS
+
+[CREDITS_ROLES_XBLA6]
+CONTROL DE CALIDAD
+
+[CREDITS_NAMES_XBLA6]
+MIKE RACIOPPI, BOB CHURCH, SHAWN CONARD, DAVID CHAN
+
+[CREDITS_ROLES_XBLA7]
+PLANIFICACION COMERCIAL
+
+[CREDITS_NAMES_XBLA7]
+REX SIKORA
+
+[CREDITS_ROLES_XBLA8]
+MARKETING
+
+[CREDITS_NAMES_XBLA8]
+JOHN DONGELMANS, JESSIE ZHOU, XUYEN NGUYEN
+
+[CREDITS_ROLES_XBLA9]
+LOCALIZACION
+
+[CREDITS_NAMES_XBLA9]
+POPCAP DUBLIN, POPCAP TOKYO, KEYWORDS INTL, U-TRAX M.M.L.
+
+[CREDITS_ROLES_XBLA10]
+ATENCION AL CLIENTE
+
+[CREDITS_NAMES_XBLA10]
+AOIFE BRENNAN, ROGER HENTY, DANA SWEENEY
+
+[CREDITS_ROLES_XBLA11]
+DISENO DE SONIDO ADICIONAL
+
+[CREDITS_NAMES_XBLA11]
+RONNIE VAN ZANT
+
+[CREDITS_ROLES_XBLA12]
+GESTION GLOBAL DEL PRODUCTO
+
+[CREDITS_NAMES_XBLA12]
+NICK TOMLINSON, DAN LANDECK
+
+[CREDITS_ROLES_XBLA13]
+LABORATORIO DE CREATIVIDAD
+
+[CREDITS_NAMES_XBLA13]
+YVETTE CAMACHO, DAN NEIDECKER, GLENN MITSUI
+
+[CREDITS_ROLES_XBLA14]
+ASESORAMIENTO LEGAL
+
+[CREDITS_NAMES_XBLA14]
+NICOLE LEMASTER
+
+[CREDITS_ROLES_XBLA15]
+AGRADECIMIENTOS ESPECIALES
+
+[CREDITS_NAMES_XBLA15]
+DAVE HAAS, SUKHBIR SIDHU, DAN BANAY, JACOB VANWINGEN,
+T. CARL KWOH, NOAH MAAS, DAVE ROBERTS, JASON KAPALKA,
+JOHN VECHEY, BRIAN FIETE, KIRK SCOTT, HEATHER HAZEN,
+BEN AHRONI, MICHAEL SANTORA, JOE MOBLEY, BEN LYON,
+TYSEN HENDERSON, CHENELLE BREMONT, SANDRA CONGDON
+GEORGE FAN, TOD SEMPLE, STEPHEN NOTLEY, DAVE ROBERTS,
+GINGER ROBERTS, LAURIE THORNTON, KIRK SCOTT,
+HEATHER HAZEN, BEN AHRONI, MICHAEL SANTORA,
+DAVID SHAW, PATRICK MENDENALL, JOHN SMITH, PHIL SPENCER
+
+[CREDITS_ROLES_XBLA16]
+JEFE GENERAL DEL ESTUDIO
+
+[CREDITS_NAMES_XBLA16]
+ED ALLARD
+
+[CREDITS_LEGAL1]
+©2009, 2025 Electronic Arts Inc. PopCap Games, Inc. Reservados todos los derechos. El logotipo de PopCap y el resto de las marcas comerciales usadas aqui que aparecen en www.popcap.com/trademarks son propiedad de PopCap Games, Inc. o de sus licenciantes y pueden estar registradas en algunos paises. Otros nombres de empresas y productos usados aqui pueden ser marcas comerciales de sus respectivos propietarios y son usadas en su beneficio.
+
+[CREDITS_LEGAL2]
+FMOD Sound System, copyright © Firelight Technologies Pty, Ltd., 1994-2010.
+Equipo de audio: FMOD Sound System de Firelight Technologies.
+
+[CREDITS_THANKS]
+¡GRACIAS POR JUGAR!
+
+[CREDITS_DISCLAIMER]
+Durante la elaboracion de este producto no se perjudicaron
+las relaciones personales, las horas de sueno de los creadores,
+los registros de errores de los programadores ni las ganas de
+vivir de los disenadores graficos.
+
+[CREDITS_REPLAY_BUTTON]
+REPETIR
+
+[CREDITS_MAIN_MENU_BUTTON]
+Menu princ.
+
+[VISIT_TREE_HEADER]
+¿Visitar Arbol?
+
+[VISIT_TREE_BODY]
+¿Quieres ir a ver al Arbol de la sabiduria?
+
+[CREDITS_PAUSE_HEADER]
+PAUSA EN CREDITOS
+
+[CREDITS_PAUSE_BODY]
+Pulsa un boton para salir de los creditos.
+
+Tambien puedes verlos cuando quieras
+desde las opciones del menu principal.
+
+[CREDITS_RESUME_BUTTON]
+Reanudar 
+
+[GET_FULL_VERSION_BUTTON]
+Obten juego completo
+
+[UPSELL_PAUSE_HEADER]
+EN PAUSA
+
+[UPSELL_PAUSE_BODY]
+Pulsa un boton para continuar
+
+[UPSELL_RESUME_BUTTON]
+Reanudar
+
+[INTRO_PRESENTS]
+PopCap Games presenta
+
+[CANT_USE_CODE]
+¡No tienes un Arbol de la sabiduria lo bastante alto!
+
+[ADVENTURE_COMPLETE_HEADER]
+Modo Aventura completado
+
+[ADVENTURE_COMPLETE_BODY]
+¡Nuevos modos de Minijuegos, Puzzles y Supervivencia desbloqueados! ¡Y mira lo ultimo en la tienda de Crazy Dave!
+
+[ADVICE_NEED_WHEELBARROW]
+Para trasplantar tus plantas de jardin,
+comprate una carretilla en la tienda.
+
+[AVAILABLE_IN_FULL_VERSION]
+¡Planta solo disponible en el juego completo!
+
+[REPLAY_LEVEL_HEADER]
+¿Volver a jugar?
+
+[REPLAY_LEVEL_BODY]
+¿Quieres volver a jugar el nivel 3-4?
+
+[RENAME_BUTTON]
+Renombrar
+
+[DELETE_BUTTON]
+Borrar
+
+[CREATE_NEW_USER]
+(Crear un perfil nuevo)
+
+[WHO_ARE_YOU]
+¿QUIEN ERES?
+
+[GAME_PAUSED]
+PAUSA
+
+[CLICK_TO_RESUME]
+Pulsa para volver al juego
+
+[RESUME_GAME]
+Reanudar juego
+
+[INVALID_CODE]
+Codigo invalido
+
+[INVALID_CODE_MESSAGE]
+El codigo de la licencia introducido no se corresponde con el nombre.
+
+Asegurate de introducir el nombre y el codigo correctamente.
+
+[USER_ERROR_MESSAGE]
+Escribe tu nombre para crear un nuevo perfil de jugador y guardar datos de puntuacion y avances.
+
+[ENTER_YOUR_NAME]
+Introduce tu nombre
+
+[NAME_CONFLICT]
+Nombre existente
+
+[ENTER_UNIQUE_PLAYER_NAME]
+El nombre introducido ya existe. Por favor, escribe un nuevo nombre.
+
+[ARE_YOU_SURE]
+¿Seguro?
+
+[DELETE_USER_WARNING]
+¡Eliminaras a '%s' de la lista de jugadores!
+
+[RENAME_USER]
+Renombrar
+
+[NEW_USER]
+Nuevo jugador
+
+[PLEASE_ENTER_NAME]
+Introduce tu nombre:
+
+[STORE]
+Tienda
+
+[NO_WINDOWED_MODE]
+Modo ventana: No
+
+[INVALID_WINDOWS_MODE]
+El modo ventana solo esta disponible si tu escritorio funcionaba con
+16 32 bits de color cuando empezaste el juego.
+
+
+Si quieres jugar en modo ventana, sal del juego y configura tu escritorio en modo 16 o 32 bits de color.
+
+[NOT_SUPPORTED]
+Soporte invalido
+
+[HARDWARE_ACCELERATION_NOT_SUPPORTED]
+No es posible activar la aceleracion por hardware en este PC.
+
+La tarjeta de video no tiene
+las caracteriscticas minimas
+para este juego.
+
+[SLOW_PERFORMANCE]
+Puede que la tarjeta de video no soporte las caracteriscticas.
+
+Si el PC se ralentiza, desactiva la aceleracion por hardware.
+
+[OPEN_URL]
+Abre la siguiente URL con el navegador.
+
+%s
+
+Para facilitartelo, se ha copiado la URL en el portapapeles.
+
+[OPEN_BROWSER]
+Abrir navegador
+
+[OPENING_BROWSER]
+Abriendo navegador
+
+[NOT_ENOUGH_MONEY]
+Dinero insuficiente
+
+[CANNOT_AFFORD_ITEM]
+Aun no te puedes permitir esto
+¡Mata mas zombis para forrarte!
+
+[BUY_ITEM_HEADER]
+¿Comprar?
+
+[BUY_ITEM]
+Comprar objeto
+
+[NOW_YOU_CAN_CHOOSE_X_SEEDS]
+¡Ahora puedes llevarte %d semillas por nivel!
+
+[MORE_SLOTS]
+¡Mas espacios!
+
+[RESTART_LEVEL]
+¿Seguro que quieres reiniciar el nivel?
+
+[NEW_GAME_HEADER]
+¿Nuevo juego?
+
+[NEW_GAME]
+¿Seguro que quieres iniciar un nuevo juego?
+
+[LEAVE_GAME_HEADER]
+¿Salir del juego?
+
+[LEAVE_GAME]
+¿Quieres volver al
+ menu principal?
+
+Se guardara tu juego.
+
+[REGISTER_HEADER]
+¡INSCRIBETE!
+
+[REGISTER]
+¡Tu version de prueba ZomBotany ha caducado!
+
+Registra tu copia para
+continuar jugando.
+
+[OPTIONS_MUSIC_LABEL]
+Musica
+
+[OPTIONS_SOUNDFX]
+Efectos de sonido
+
+[OPTIONS_3D_ACCELERATION]
+Aceleracion 3D
+
+[OPTIONS_FULL_SCREEN]
+Pantalla compl.
+
+[LIMBO_PAGE_BUTTON]
+Pagina del Limbo
+
+[ALMANAC_HEADER]
+Almanaque
+
+[CONTINUE_GAME_HEADER]
+¿Continuar juego?
+
+[CONTINUE_GAME_OR_RESTART]
+¿Deseas continuar tu juego actual o reiniciar el nivel?
+
+[CONTINUE_GAME]
+¿Deseas continuar tu juego actual o iniciar uno nuevo?
+
+[PROGRESS_METER_TEXT]
+%d/%d %s
+
+[NUMBER_OF_TROPHIES]
+%d/%d
+
+[LEVELS_COMPLETED]
+%s - %s
+
+[WELCOME_USER_NAME]
+%s!
+
+[MULTIPLIED_X]
+x%d
+
+[SQUIRREL]
+Ardilla
+
+[TREE_OF_WISDOM]
+Arbol de sabiduria 
+
+[UPSELL]
+Extra
+
+[INTRO]
+Intro
+
+[IMITATED_PLANT]
+Imitadora {PLANT}
+
+[CREDIT_GAME_DESIGN]
+Diseno del juego
+
+[CREDITS_PROGRAMMING]
+Programacion
+
+[CREDITS_ART]
+Graficos
+
+[CREDITS_MUSIC_SOUND]
+Musica y sonido
+
+[MAILBOX_EMPTY]
+¡No tienes mensajes nuevos!
+
+[SAVING_DIALOG]
+Guardando...
+
+[LOADING_DIALOG]
+Cargando...
+
+[CORRUPTED_SAVEGAME_HEADER]
+Archivo del juego danado
+
+[CORRUPTED_SAVEGAME_TEXT]
+El archivo del juego guardado esta danado. ¿Quieres borrarlo?
+
+[NO_DEVICE_SELECTED_HEADER]
+Dispositivo no seleccionado
+
+[NO_DEVICE_SELECTED]
+No eligió un dispositivo de almacenamiento, los progresos realizados desde el inicio de este nivel se perderan. ¿Continuar sin guardar?
+
+[SELECT]
+Seleccionar
+
+[QUIT]
+Salir del juego
+
+[BACK]
+Atras
+
+[DONE]
+Aceptar
+
+[SELECT]
+Seleccionar
+
+[Back]
+Atras
+
+[BUY_ITEM]
+Comprar accesorios
+
+[PROFILE_CHANGE]
+Perfil cambiado
+
+[PROFILE_CHANGE_MSG]
+Se ha iniciado sesion con otro perfil. Volveras a la pantalla de inicio.
+
+[SELECT_DEVICE]
+Dispositivo
+
+[MUSIC]
+Musica
+
+[SOUND_FX]
+Efectos de sonido
+
+[INVALID_LEVEL_HEADER]
+Datos de juego antiguos
+
+[INVALID_LEVEL]
+Los datos de juego de este dispositivo son de un nivel anterior. Se actualizara al nivel actual de tu perfil.
+
+[CROW_SELECTION_0]
+Protege tu legitima propiedad de los zombis.
+
+[CROW_SELECTION_1]
+Protege tu legitima propiedad de los zombis.
+
+[CROW_SELECTION_2]
+Juegos adicionales esperan poderte maravillar.
+
+[CROW_SELECTION_3]
+Ahi reside el esplendor de tu hogar.
+
+[CROW_SELECTION_4]
+Trofeos.
+
+[CROW_SELECTION_5]
+Ayuda y opciones.
+
+[CROW_SELECTION_6]
+Descargar contenido.
+
+[CROW_SELECTION_7]
+Salir del juego.
+
+[CROW_SELECTION_8]
+A veces no todo cabe en una pantalla.
+
+[CROW_SELECTION_9]
+Vuelve a lo que estabas mirando antes.
+
+[CROW_SELECTION_10]
+Ataca a otros en este divertido enfrentamiento.
+
+[CROW_SELECTION_11]
+Vence a la muerte con la ayuda de un amigo.
+
+[CROW_SELECTION_12]
+Nunca terminas de conocer del todo a un zombi.
+
+[CROW_SELECTION_13]
+La voracidad de los no-muertos es insaciable.
+
+[CROW_SELECTION_14]
+Basicamente, estamos hablando de puzzles.
+
+[CROW_SELECTION_15]
+Tambien hay otras pantallas con contenido muy digno.
+
+[CROW_SELECTION_16]
+Gasta dinero virtual en objetos ficticios.
+
+[CROW_SELECTION_17]
+Relajate en la inconmensurable paz de Plantapolis.
+
+[CROW_SELECTION_18]
+Aprende mas sobre tus defensores y atacantes.
+
+[CROW_SELECTION_19]
+Recibe correo y demas de tus zombis conocidos.
+
+[CROW_SELECTION_22]
+Crea tu propio zombi exclusivo.
+
+[CROW_SELECTION_DLC]
+Elige o crea un perfil de jugador.
+
+[USE_DPAD]
+Seleccionar
+
+[HEAVY_WEAPON]
+Arma pesada
+
+[XBox Coop Survival]
+Supervivencia: Cooperativo
+
+[CUSTOMIZE]
+Personalizar
+
+[FUN_HOUSE_PLZ]
+Casa del payaso
+
+[SCARY_HOUSE_PLZ]
+Casa del terror 
+
+[SPACE_HOUSE_PLZ]
+Casa espacial
+
+[TRUCK_HOUSE_PLZ]
+Casa caravana
+
+[REGULAR_HOUSE_PLZ]
+Casa normal
+
+[PROFILE_LOAD_ERROR_TITLE]
+Error en el perfil de jugador
+
+[PROFILE_LOAD_ERROR]
+No se puede cargar tu perfil porque el dispositivo en el que esta guardado no esta disponible o no tiene suficiente espacio libre.
+¿Quieres volver a intentarlo?
+
+[OLD_SAVEGAME_HEADER]
+Datos de juego actualizados
+
+[OLD_SAVEGAME_TEXT]
+Tu archivo de datos de juego estaba desactualizado y ha sido actualizado con la ultima version.
+
+[2P_JOIN]
+Seleccionar jugador 2
+
+[2P_JOIN_TEXT]
+Jugador 2
+Enciende un mando y pulsa <A>
+
+Pulsa <B> para cancelar.
+
+[2P_JOINED]
+¡El jugador 2 se ha unido!
+
+Pulsa <A> para continuar.
+
+Pulsa <B> para cancelar.
+
+[MP_VS_DAY]
+Duelo: batalla (dia)
+
+[MP_VS_NIGHT]
+Duelo: batalla (noche)
+
+[MP_VS_POOL_DAY]
+Duelo: batalla (piscina, dia)
+
+[MP_VS_POOL_NIGHT]
+Duelo: batalla (piscina, noche)
+
+[MP_VS_ROOF]
+Duelo: batalla (tejado)
+
+[CHOOSE_VS_MODE]
+Modo Duelo
+
+[STORE_ITEM_PURCHASE_COUNT]
+x{COUNT}
+
+[VS_MODE]
+Modo Duelo
+
+[COOP_1]
+Coop: Dia
+
+[COOP_2]
+Coop: Noche 
+
+[COOP_3]
+Coop: Piscina
+
+[COOP_4]
+Coop: Tejado 
+
+[COOP_BOWLING]
+Coop: Bolos
+
+[COOP_HARD_1]
+Coop: Dia (dificil)
+
+[COOP_HARD_2]
+Coop: Noche (dificil)
+
+[COOP_HARD_3]
+Coop: Piscina (dificil)
+
+[COOP_HARD_4]
+Coop: Tejado (dificil)
+
+[COOP_FINAL_BOSS]
+Coop: Dr. Zombi
+
+[COOP_ENDLESS]
+Coop: Infinito
+
+[ADVICE_DOUBLE_SUN]
+¡Pasa el cursor sobre un sol doble para cogerlo!
+
+[CHOOSE_YOUR_ZOMBIES]
+¡Ezcoge tuz Zombiz!
+
+[MP Prototype 3]
+Prototipo multijugador 3
+
+[LB_VIEW_GAMERCARD]
+Ver perfil
+
+[LB_CHANGE_FILTER]
+Cambiar filtro
+
+[LEADERBOARD_NO_ENTRIES]
+Este marcador esta vacio.
+
+[LEADERBOARD_YOU_NOT_RANKED]
+No te has clasificado en este marcador.
+
+[LEADERBOARD_STILL_LOADING]
+Cargando...
+
+[LEADERBOARD_ERROR]
+Ha ocurrido un error en el marcador.
+
+[RANK]
+Posicion
+
+[GAMERTAG]
+ID online
+
+[FLAGS]
+Banderas
+
+[FRIENDS]
+Amigos
+
+[MY_SCORE]
+Mi puntuacion
+
+[OVERALL]
+General
+
+[OK]
+Aceptar
+
+[NOT_LOGGED_IN]
+Desconectado
+
+[NOT_LOGGED_IN_HOUSES]
+?Para ver las casas de tus amigos tienes que estar conectado a  PlayStation®Network!
+
+[NOT_LOGGED_IN_MESSAGE]
+¡Para ver el marcador infinito tienes que estar conectado a  PlayStation®Network!
+
+[MP_ZOMBIES_WIN_MESSAGE]
+¡Los zombis ganan!
+
+[SCROLL]
+Bajar
+
+[PROFILE_SAVE_ERROR_TITLE]
+Error en el perfil del jugador
+
+[PROFILE_SAVE_ERROR]
+No se ha guardado correctamente tu perfil de jugador.
+¿Quieres volverlo a intentar?
+
+[NOT_ENOUGH_SPACE]
+El dispositivo seleccionado no dispone de suficiente memoria libre. Selecciona otro dispositivo para continuar.
+
+[CHANGE_PAGES]
+Paso de página
+
+[CHEAT]
+Trucos
+
+[ENTER_CHEAT_CODE]
+Escribir truco
+
+[VS_PICK_SIDES]
+Elegir bando
+
+[QUICK_PLAY]
+Partida
+rapida
+
+[CUSTOM_BATTLE]
+Batalla perzonaliz.
+
+[RANDOM_BATTLE]
+Batalla aleatoria
+
+[SUDDEN_DEATH]
+¡Muerte subita!
+
+[PLAY_AGAIN]
+Volver
+a jugar
+
+[QUIT_VS]
+Menu
+principal
+
+[XBOX_COOP]
+Coop
+
+[P2_JOIN]
+Jugador 2
+Pulsa <S> para unirte!
+
+[P2_JOINED]
+¡El jugador 2 se ha unido!
+
+[WIN_STREAK_FMT]
+%d en racha
+
+[PLAYER_FMT]
+Jugador %d
+
+[UPSELL_BUY_GAME]
+<X> Desbloquear juego completo
+
+[UPSELL_MAIN_MENU]
+<B> Menu 
+
+[UPSELL_QUIT_GAME]
+<B> Volver a la Biblioteca de juegos
+
+[UPSELL_MARKETPLACE]
+
+
+[TRIAL_VERSION]
+DEMO
+
+[FEED_TREE]
+Alimentar arbol
+
+[ZOMBIES_KILLED]
+{ZOMBIES} Zombies enterrados
+
+[PLANTS_KILLED]
+{PLANTS} Plantas recicladas
+
+[GOTO_ZEN]
+Ir al Jardin Zen
+
+[GOTO_MUSHROOM]
+Ir al Jardin de las Setas
+
+[GOTO_AQUARIUM]
+Ir al Acuario Zen
+
+[WATER_PLANT]
+Regar planta
+
+[FERTILIZE_PLANT]
+Abonar planta
+
+[SPRAY_PLANT]
+Fumigar planta
+
+[PLAY_PHONOGRAPH]
+Poner musica
+
+[MOVE_PLANT]
+Mover planta
+
+[TRANSPORT_PLANT]
+Trasladar planta
+
+[SELL_PLANT]
+Vender planta
+
+[DROP_PLANT]
+Soltar planta
+
+[FEED_STINKY]
+Alimentar a Bernie
+
+[GOTO_TREE]
+Ve al Arbol de la sabiduria.
+
+[TAP_GLASS]
+Golpear cristal
+
+[HELP_AND_OPTIONS]
+Ayuda y opciones
+
+[HOW_TO_PLAY]
+Como se juega
+
+[CONTROLS]
+Controles
+
+[CREDITS]
+Creditos
+
+[SETTINGS]
+Configuracion
+
+[FEED_CHOCOLATE]
+Dar chocolate
+
+[COOP_LOCKED_MESSAGE]
+Juega mas en Aventura para
+desbloquear Retos de Coop.
+
+[MENU_LEVEL_FMT]
+NIVEL %d-%d
+
+[HELP_TEXT_1_TITLE]
+Como se juega
+
+[HELP_TEXT_PAGE_1_1]
+Pasa el cursor sobre los soles para cogerlos.
+
+[HELP_TEXT_PAGE_1_2]
+¡Pon plantas en tu jardin para defenderlo!
+
+[HELP_TEXT_PAGE_1_3]
+¡Que los zombis no lleguen a tu casa!
+
+[HELP_TEXT_2_TITLE]
+Controles
+
+[HELP_TEXT_2_LSTICK]
+<l> Mover el cursor
+
+[HELP_TEXT_2_BUMPERS]
+<L><R> Elegir sobre de semillas
+
+[HELP_TEXT_2_START]
+<S> Iniciar juego
+
+[HELP_TEXT_2_B]
+<B> Cavar
+
+[HELP_TEXT_2_A]
+<A> Plantar
+
+[HELP_TEXT_2_X]
+<X> Mantequilla, mazo
+
+[PAGE_3_TITLE]
+Modo Duelo
+
+[HELP_TEXT_3_1]
+Los jugadores deben escoger los sobres de semillas por turnos. Pulsa <S> para ir al juego.
+
+[HELP_TEXT_3_2]
+Plantas:
+Defiende el jardin a la izquierda de la linea roja.
+Resiste el ataque de los zombis con plantas potenciadas con soles.
+Derriba 3 objetivos para que los zombis se retiren.
+
+[HELP_TEXT_3_3]
+Zombis:
+Coloca lapidas para generar cerebros.
+Elige tus zombis de ataque y defensa.
+Si un zombi entra en la casa, comera sesos y ganaras.
+
+[PAGE_4_TITLE]
+Modo Coop
+
+[HELP_TEXT_4_1]
+¡Juega con un amigo! ¡Juega un reto para elegir tus semillas, o juega en modo Aventura con tus amigos!
+
+[HELP_TEXT_4_2]
+Cuando veas un sol doble, tu companero y tu debereis pasar el cursor sobre el sol a la vez para que contabilice.
+
+[HELP_TEXT_4_3]
+¡Engrasalos! Pulsa y manten pulsado <X> cuando tengas a un zombi seleccionado para untarlo de mantequilla.
+
+[CLOSE]
+Cerrar
+
+[HELP_TEXT_PAGE_1_OF_X]
+Pag. 1/5
+
+[HELP_TEXT_PAGE_2_OF_X]
+Pag. 2/5
+
+[HELP_TEXT_PAGE_3_OF_X]
+Pag. 3/5
+
+[HELP_TEXT_PAGE_4_OF_X]
+Pag. 4/5
+
+[COOP]
+Coop
+
+[RETRY_ACHIEVEMENTS_HEADER]
+Error
+
+[RETRY_ACHIEVEMENTS_TEXT]
+Ha habido un error al mostrar los trofeos. ¿Quieres intentarlo de nuevo?
+
+[WAIT_NET_WORKING]
+Guardando...
+
+[WAIT_WRITING_LB]
+Escribiendo en los marcadores...
+
+[WAIT_WRITING_REMOTE]
+Escribiendo archivos remotos...
+
+[RETRY_LEADERBOARD_HEADER]
+Error
+
+[RETRY_LEADERBOARD_BODY]
+Se ha producido un error al escribir en los marcadores. ¿Quieres reintentarlo? 
+
+[MAILBOX]
+Correo
+
+[INBOX]
+Buzon
+
+[READ_MESSAGES]
+Leer mensajes
+
+[STORE_BLUEPRINT_SWITCH]
+Cambiar casa
+
+[STORE_BLUEPRINT_LEVEL]
+Nivel {LEVEL}
+
+[CHOOSE_HOUSE]
+Eligir casa
+
+[CHOOSE_HOUSE_CONFIRM]
+Confirmar
+
+[CHOOSE_HOUSE_CANCEL]
+Cancelar
+
+[LAST_STAND_BEGIN_ONSLAUGHT]
+¡Pulsa <Y> para iniciar la masacre!
+
+[VS_RESULTS]
+Resultado de Duelo
+
+[DROP_P2]
+Abandono de J2
+
+[RECONNECT_SECOND_CONTROLLER_FMT]
+Reconecte el manipulador %d
+
+[PAGE_5_TITLE]
+Tu casa
+
+[HELP_TEXT_5_1]
+¡Bienvenido a tu casa! ¡Crazy Dave la renovara de vez en cuando segun mejores defendiendola! Puedes ver la casa de tus amigos en PlayStation®Network con <l>.
+
+
+[HELP_TEXT_5_2]
+¡Los zombis que has derrotado y las plantas que han sacrificado sus vidas valerosamente se acumulan en estos cubos de aqui!
+
+[HELP_TEXT_5_3]
+Cada vez que consigues un trofeo, Crazy Dave se emociona. ¡Se emociona tanto que pone ornamentos raros en tu cesped!
+
+[HELP_TEXT_PAGE_5_OF_X]
+Pag. 5/5
+
+[ADVICE_HEAVY_WEAPON]
+¡Mueve la cortadora de cesped con <L>! ¡Dispara en automatico!
+
+[TRASHCAN_ZOMBIE]
+Zombi basurero
+
+[TRASHCAN_ZOMBIE_DESCRIPTION_HEADER]
+Un cubo de basura lo hara mas lento, pero mas fuerte.
+
+[UNLOCK_FULL_GAME]
+Desbloquear juego completo.
+
+[CONCEDE_VS_BUTTON]
+Conceder partida
+
+[CONCEDE_VS_HEADER]
+¿Seguro?
+
+[CONCEDE_VS_BODY]
+Conceder la partida le dara la victoria a tu rival ¿Estas seguro de querer concedersela?
+
+[CONCEDE_VS_LABEL]
+Conceder
+
+[CONFIRM_VS_CHOOSE_SEED_BACK_HEADER]
+¿Seguro?
+
+[CONFIRM_VS_CHOOSE_SEED_BACK_BODY]
+Si sales de la seleccion de semillas se revertiran tus cambios. ¿Estas seguro de querer salir de la seleccion de semillas?
+
+[ZOMBIE_GRAVESTONE]
+Lapida zombi
+
+[ZOMBIE_GRAVESTONE_DESCRIPTION]
+Produce cerebros, protege a los zombis. Mmm... Poder adquisitivo.
+
+[ZEN_GARDEN_TUTORIAL_COMPLETE]
+¡Toca el boton para regresar al modo aventura!
+
+[ZEN_GARDEN_TUTORIAL_COMPLETE_KEYBOARD_MODE]
+¡Pulsa <B> Para regresar al modo aventura!
+
+[ADVICE_NOT_PASSED_LINE_MP]
+Situa la unidad en tu lado de la pantalla
+
+[SAVEGAME_ERROR_TITLE]
+Error al guardar el juego
+
+[SAVEGAME_ERROR]
+Tu juego no se ha guardado correctamente.
+¿Deseas elegir otro dispositivo de almacenamiento?
+
+[VS_LOCKED_MESSAGE]
+Avanza en el modo Aventura para desbloquear
+el modo Duelo.
+
+[UNLOCKED_COOP_CHALLENGES]
+¡Has desbloqueado los Modos Coop y Duelo!
+¡Puedes jugarlos desde el menu principal!
+
+[HOUSE_ERROR_HEADER]
+Error
+
+[HOUSE_ERROR_BODY]
+Se ha producido un error al guardar los datos de tu casa. ¿Quieres reintentarlo?
+
+[SAVEGAME_ERROR_DISKFULL]
+Tu dispositivo de almacenamiento esta lleno.
+¿Deseas elegir otro dispositivo de almacenamiento?
+
+[NOT_SIGNED_IN]
+No has iniciado sesion
+
+[NOT_SIGNED_IN_ACHIEVEMENTS]
+¡Para ver tus trofeos tienes que estar conectado a PlayStation®Network!
+
+[SAVING_LONG]
+Guardando contenido. No apagues la consola.
+
+[LOADING_P2_PROFILE]
+Cargando el perfil del Jugador 2
+
+[PLAYER_2_PROFILE_ERROR_HEADER]
+Error en el perfil del Jugador 2
+
+[PLAYER_2_PROFILE_ERROR_BODY]
+Se ha producido un error al cargar el perfil del Jugador 2.
+¿Quieres reintentarlo? 
+
+[CHANGE_VIEW]
+Cambiar vista
+
+[VIEW_GAMERCARD]
+Ver perfil
+
+[SAVING_PROFILE]
+Guardando perfil...
+
+[SWITCH_MESSAGE]
+Seleccionar correo
+
+[MARK_MESSAGE_READ]
+Marcar como leido
+
+[GO_TO_READ_MAIL]
+Ver correo leido
+
+[GO_TO_INBOX]
+Ver buzon
+
+[SAVING_LIVE_DIALOG]
+Guardando datos de marcadores
+
+[LEADERBOARDS_DIALOG]
+Escribiendo en los marcadores...
+
+[GO_TO_MARKETPLACE]
+PlayStation®Store
+
+[LOADGAME_ERROR_TITLE]
+Error al cargar el juego.
+
+[LOADGAME_ERROR]
+Tu juego no se ha cargado correctamente.
+El juego se reiniciara desde el principio del nivel actual.
+
+[PLAY_MORE_ADVENTURE_TOOLTIP]
+Avanza en el modo Aventura para desbloquearlo.
+
+[LEAVE_GAME_DEMO_MODE]
+¿Quieres volver al
+menu principal?
+
+Se guardara tu juego.
+
+[ACHIEVEMENT_EARNED_UPSELL]
+¡Trofeo desbloqueado!
+
+[ACHIEVEMENT_EARNED_UPSELL_BODY]
+¡Si tuvieras el juego completo, ya hubieras desbloqueado un trofeo! ¿Quieres ir a la PlayStation®Store?
+
+
+[NO_READ_MESSAGES]
+¡No tienes mensajes leidos!
+
+[UNLOCK_FULL_VERSION]
+Desbloquear juego completo
+
+[NOT_SIGNED_IN_MARKETPLACE]
+Tienes que haber iniciado sesion con un perfil de jugador para ver el PlayStation®Store. .
+
+[TRIAL_LOCKED_MESSAGE]
+Compra el juego completo en el PlayStation®Store para obtener todo el maravilloso contenido de Plantas contra Zombis.
+
+[NO_GAMEPAD]
+No se ha encontrado un gamepad
+
+[NO_GAMEPAD_MESSAGE]
+Por favor inserte un gamepad para jugar este modo.
+
+[OK_BUTTON]
+A
+
+[BACK_BUTTON]
+B
+
+[GAMEPAD_SHOPTIP_1]
+Presiona <LT> o <RT> para entrar en la tienda.
+
+[GAMEPAD_SHOPTIP_2]
+Presiona <L> o <R> para volver al modo semilla.
+
+[GAMEPAD_CONTROLLER_TIP_1]
+Presiona <A> Para seleccionar una planta.
+
+
+[SHOP_0_TITLE]
+Gran Bomba de Cereza
+[SHOP_0_LABEL]
+Destruye a todos los zombis.
+
+[SHOP_1_TITLE]
+Sol 500
+[SHOP_1_LABEL]
+Conseguir 500 rayos de sol.
+
+[SHOP_2_TITLE]
+Sol 1000
+[SHOP_2_LABEL]
+Obtener 1000 rayos de sol.
+
+[SHOP_3_TITLE]
+Retroceso en el Tiempo
+[SHOP_3_LABEL]
+Restablece el tiempo de enfriamiento de las plantas.
+
+[SHOP_4_TITLE]
+Tirador de Ametralladora
+[SHOP_4_LABEL]
+Dispara cuatro guisantes a la vez.
+
+[SHOP_5_TITLE]
+Chile Picante
+[SHOP_5_LABEL]
+Quema toda una linea de zombis.
+
+[RECHARGE_CONFIRM_TITLE]
+¿Confirmar recarga?
+
+[SHOP_BUYSUNMONEY_LABEL]
+Compra mas soles
+
+[SHOP_BUYSUNMONEY_MSG]
+Obten %d puntos de sol antes de que comience cada juego
+(costo %d Monedas, compra repetible)
+Actualmente tienes puntos de sol adicionales:%d
+
+[SHOP_BUYSUNMONEY_SUCCEED]
+¡Compra exitosa!
+
+[SHOP_BUYSUNMONEY_SUCCEEDMSG]
+¡Ahora hay sol adicional antes de que comience cada juego!
+
+[LOGIN_FAILED_CANNOT_RECHARGE_MSG]
+Error
+
+[TOOLS_BUTTON]
+Tienda
+
+[LOCAL_RECORDS]
+Marcadores
+
+[LOCAL_RECORDS_BODY]
+Nada que ver aqui!
+Vuelve mas tarde
+
+[ZOMBATAR_DELETE_HEADER]
+¿Borrar este Zombatar?
+
+[ZOMBATAR_DELETE_BODY]
+¿Seguro que quieres borrar este Zombatar?
+
+[ZOMBATAR_DELETE_BUTTON]
+BORRAR
+
+[ZOMBATAR_DELETE_BUTTON2]
+¿Borrar?
+
+[ZOMBATAR_SAVE_BODY]
+Tu Zombatar se ha guardado en tu escritorio en formato .jpg!
+
+[ZOMBATAR_SAVE_BUTTON]
+Aceptar
+
+[ZOMBATAR_COLOR_NOT_APPLICABLE]
+No se puede aplicar color a este item.
+
+[ZOMBATAR_COLOR_ITEM_NOT_CHOSEN]
+Selecciona un objeto Zombatar de arriba.
+
+[ZOMBATAR_FINISHED_WARNING_HEADER]
+¡ATENCION!
+
+[ZOMBATAR_FINISHED_WARNING_TEXT]
+¿Estas seguro de haber terminado de crear a tu Zombatar?
+Si deseas hacer cambios despues de pulsar sobre "TERMINADO",
+tendras que empezar de nuevo
+
+[ZOMBATAR_FINISHED_BUTTON_TEXT]
+¡Si! Todito finiquitao.
+
+[ZOMBATAR_BACK_BUTTON_TEXT]
+Pues ahora que lo dices...
+
+[ZOMBATAR_START_TEXT]
+Para empezar, selecciona un color
+de piel para tu zombi.
+
+Cuando quieras modificar otras partes,
+haz clic sobre las categorias de la izquierda.
+
+[ZOMBATAR_FEATURE_DESCRIPTION]
+¡Crea y personaliza tu propio zombi con el Zombatar!
+
+[ZOMBATAR_ACCEPT_ULA_BUTTON]
+Acepto
+
+[ZOMBATAR_PAGE]
+Pagina %d / %d
+
+[ZOMBATAR_MOVE]
+Mover
+
+[ZOMBATAR_LIMIT_BODY]
+¡Has alcanzado el limite maximo de Zombatars guardados! Elimina uno existente antes de crear otro nuevo.
+
+[ZOMBATAR_TOS_HEADER]
+Acuerdo de Licencia de Zombatar
+
+[ZOMBATAR_PAGE_SKIN]
+Piel
+
+[ZOMBATAR_PAGE_HAIR]
+Pelo
+
+[ZOMBATAR_PAGE_FACIAL_HAIR]
+Vello facial
+
+[ZOMBATAR_PAGE_TIDBITS]
+Detalles
+
+[ZOMBATAR_PAGE_EYEWEAR]
+Lentes
+
+[ZOMBATAR_PAGE_CLOTHES]
+Ropa
+
+[ZOMBATAR_PAGE_ACCESSORY]
+Accesorios
+
+[ZOMBATAR_PAGE_HATS]
+Sombreros
+
+[ZOMBATAR_PAGE_BACKDROPS]
+Fondos
