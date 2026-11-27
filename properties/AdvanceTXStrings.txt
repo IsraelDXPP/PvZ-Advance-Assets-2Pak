@@ -48,6 +48,12 @@ Música "secreta" del menú principal
 [OPT_LAWN_TITLE_FOG_MASK_INFO]
 Toca la música del menú principal con la mezcla de canales del nivel de niebla, como en Xbox 360. Se aplica al reiniciar.
 
+[OPT_ADVANCETX_XBOX_GLYPHS_LABEL]
+Botones de Xbox en los textos
+
+[OPT_ADVANCETX_XBOX_GLYPHS_INFO]
+Muestra los botones del control (A, B, X, Y...) en los textos aunque no haya un mando conectado.
+
 [OPT_LAWN_GAMEPAD_MODE_LABEL]
 Modo gamepad
 
