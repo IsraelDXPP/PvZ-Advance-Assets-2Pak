@@ -42,6 +42,12 @@ Música ogg por pistas
 [OPT_LAWN_MUSIC2_INFO]
 Usa la música en ogg en lugar de la de XM. Se aplica al reiniciar.
 
+[OPT_LAWN_TITLE_FOG_MASK_LABEL]
+Música "secreta" del menú principal
+
+[OPT_LAWN_TITLE_FOG_MASK_INFO]
+Toca la música del menú principal con la mezcla de canales del nivel de niebla, como en Xbox 360. Se aplica al reiniciar.
+
 [OPT_LAWN_GAMEPAD_MODE_LABEL]
 Modo gamepad
 
