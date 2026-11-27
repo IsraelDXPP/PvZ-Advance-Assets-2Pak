@@ -1,0 +1,913 @@
+// AdvanceTXStrings.txt -- every piece of text of the AdvanceTX screens and of the cheat menu.
+//
+// Same layout as properties/LawnStrings.txt: a [KEY] line, then the text on the next line, then a blank line.
+// Lines that start with // are comments. It belongs in assets/files/properties/ next to LawnStrings.txt.
+// An AdvanceTXStrings.txt in the app data folder overrides any key here.
+
+// Switches of the AdvanceTX Options screen: label and one-line explanation.
+
+[OPT_LAWN_AUTO_COLLECT_LABEL]
+Recolección automática
+
+[OPT_LAWN_AUTO_COLLECT_INFO]
+Recoge solo el sol y las monedas, sin tener que tocarlos.
+
+[OPT_LAWN_HIDE_COVER_LAYER_LABEL]
+Ocultar pasto y poste
+
+[OPT_LAWN_HIDE_COVER_LAYER_INFO]
+Oculta los arbustos del frente y el poste del techo. No cambia el juego.
+
+[OPT_LAWN_LOW_VIEW_LABEL]
+Cámara baja (estilo PC)
+
+[OPT_LAWN_LOW_VIEW_INFO]
+Usa la cámara del juego de PC. Se aplica al empezar el siguiente nivel.
+
+[OPT_ADVANCETX_SHOW_COOLDOWN_LABEL]
+Recarga de semillas
+
+[OPT_ADVANCETX_SHOW_COOLDOWN_INFO]
+Muestra los segundos que faltan para recargar cada paquete de semillas.
+
+[OPT_LAWN_NO_INTRO_VIDEO_LABEL]
+Saltar video inicial
+
+[OPT_LAWN_NO_INTRO_VIDEO_INFO]
+No reproduce el video al abrir el juego. Se aplica al reiniciar.
+
+[OPT_LAWN_MUSIC2_LABEL]
+Música ogg por pistas
+
+[OPT_LAWN_MUSIC2_INFO]
+Usa la música en ogg en lugar de la de XM. Se aplica al reiniciar.
+
+[OPT_LAWN_GAMEPAD_MODE_LABEL]
+Modo gamepad
+
+[OPT_LAWN_GAMEPAD_MODE_INFO]
+Muestra los botones del control en los menús. Se aplica al reiniciar.
+
+[OPT_ADVANCETX_NO_TRASHCAN_LABEL]
+Sin zombi de bote
+
+[OPT_ADVANCETX_NO_TRASHCAN_INFO]
+Quita al zombi de bote de basura de los niveles de supervivencia.
+
+[OPT_ADVANCETX_PLANT_PREVIEW_LABEL]
+Vista previa al plantar
+
+[OPT_ADVANCETX_PLANT_PREVIEW_INFO]
+Muestra la planta transparente en la casilla donde la vas a plantar.
+
+[OPT_ADVANCETX_SKIP_LOGO_LABEL]
+Saltar logo de PopCap
+
+[OPT_ADVANCETX_SKIP_LOGO_INFO]
+No muestra la animación del logo al abrir el juego. Se aplica al reiniciar.
+
+[OPT_ADVANCETX_CLASSIC_PAUSE_LABEL]
+Pausa clásica
+
+[OPT_ADVANCETX_CLASSIC_PAUSE_INFO]
+Usa el menú de pausa sencillo en lugar del menú de pausa de Xbox.
+
+[OPT_ADVANCETX_PC_LEVELS_LABEL]
+Dificultad clásica (PC)
+
+[OPT_ADVANCETX_PC_LEVELS_INFO]
+Usa properties/levels.pc.xml si existe. Se aplica al empezar cada nivel.
+
+[OPT_ADVANCETX_SEEDBANK_TOP_LABEL]
+Semillas al frente
+
+[OPT_ADVANCETX_SEEDBANK_TOP_INFO]
+Dibuja la barra de semillas por encima de plantas y zombis.
+
+[OPT_ADVANCETX_GRAY_IMITATER_LABEL]
+Imitater en gris
+
+[OPT_ADVANCETX_GRAY_IMITATER_INFO]
+Pinta de gris las semillas del Imitater. Apagado, se ven a color.
+
+[OPT_ADVANCETX_NO_SHOP_LABEL]
+Sin barra de objetos
+
+[OPT_ADVANCETX_NO_SHOP_INFO]
+Quita la barra de objetos especiales (regadera, abono...) de los niveles.
+
+[OPT_ADVANCETX_MOBILE_COB_TARGET_LABEL]
+Mira de cañón móvil
+
+[OPT_ADVANCETX_MOBILE_COB_TARGET_INFO]
+Usa la mira del cañón de Plants vs. Zombies móvil.
+
+[OPT_ADVANCETX_AUTO_CENTER_LABEL]
+Autocentrar cursor
+
+[OPT_ADVANCETX_AUTO_CENTER_INFO]
+Sin tocar la pantalla, el cursor vuelve al centro de la casilla.
+
+[OPT_ADVANCETX_HEAVY_TILT_LABEL]
+Heavy Weapon: sensor
+
+[OPT_ADVANCETX_HEAVY_TILT_INFO]
+En Heavy Weapon, la torreta apunta inclinando el dispositivo.
+
+[OPT_ADVANCETX_AUTO_BACKUP_LABEL]
+Copia de partidas
+
+[OPT_ADVANCETX_AUTO_BACKUP_INFO]
+Guarda las últimas 20 copias de tus partidas al abrir el juego. Se aplica al reiniciar.
+
+[OPT_ADVANCETX_FULLSCREEN_LABEL]
+Pantalla completa
+
+[OPT_ADVANCETX_FULLSCREEN_INFO]
+Estira la imagen sobre toda la pantalla. Ignora la proporción y la ampliación.
+
+// Numbers of the AdvanceTX Options screen.
+
+[INT_ADVANCETX_ASPECT_W_LABEL]
+Proporción: ancho
+
+[INT_ADVANCETX_ASPECT_W_INFO]
+Ancho de la proporción de pantalla (16:9 por defecto).
+
+[INT_ADVANCETX_ASPECT_H_LABEL]
+Proporción: alto
+
+[INT_ADVANCETX_ASPECT_H_INFO]
+Alto de la proporción de pantalla (16:9 por defecto).
+
+[INT_ADVANCETX_SCALE_LABEL]
+Ampliar pantalla
+
+[INT_ADVANCETX_SCALE_INFO]
+Agranda la imagen del juego para ajustarla a tu dispositivo.
+
+// Touch overlay controls.
+
+[OVERLAY_EYE]
+Botón de visibilidad
+
+[OVERLAY_DPAD]
+Cruceta
+
+[OVERLAY_A]
+Botón A (plantar)
+
+[OVERLAY_B]
+Botón B (atrás)
+
+[OVERLAY_X]
+Botón X (pala)
+
+[OVERLAY_Y]
+Botón Y (martillo)
+
+[OVERLAY_PAUSE]
+Pausa
+
+// Two-player keyboard: the actions that can be rebound.
+
+[KEYLABEL_TOGGLE]
+Activar modo 2 jugadores
+
+[KEYLABEL_PAUSE]
+Pausa
+
+[KEYLABEL_P1_A]
+J1 plantar (A)
+
+[KEYLABEL_P1_B]
+J1 pala (B)
+
+[KEYLABEL_P1_X]
+J1 mantequilla (X)
+
+[KEYLABEL_P1_Y]
+J1 iniciar (Y)
+
+[KEYLABEL_P1_L1]
+J1 semilla izq. (L1)
+
+[KEYLABEL_P1_R1]
+J1 semilla der. (R1)
+
+[KEYLABEL_P1_L2]
+J1 gatillo izq. (L2)
+
+[KEYLABEL_P1_R2]
+J1 gatillo der. (R2)
+
+[KEYLABEL_P1_TL]
+J1 palanca izq. (TL)
+
+[KEYLABEL_P1_TR]
+J1 palanca der. (TR)
+
+[KEYLABEL_P1_UP]
+J1 arriba
+
+[KEYLABEL_P1_DOWN]
+J1 abajo
+
+[KEYLABEL_P1_LEFT]
+J1 izquierda
+
+[KEYLABEL_P1_RIGHT]
+J1 derecha
+
+[KEYLABEL_P2_A]
+J2 plantar (A)
+
+[KEYLABEL_P2_B]
+J2 pala (B)
+
+[KEYLABEL_P2_X]
+J2 mantequilla (X)
+
+[KEYLABEL_P2_Y]
+J2 iniciar (Y)
+
+[KEYLABEL_P2_L1]
+J2 semilla izq. (L1)
+
+[KEYLABEL_P2_R1]
+J2 semilla der. (R1)
+
+[KEYLABEL_P2_L2]
+J2 gatillo izq. (L2)
+
+[KEYLABEL_P2_R2]
+J2 gatillo der. (R2)
+
+[KEYLABEL_P2_TL]
+J2 palanca izq. (TL)
+
+[KEYLABEL_P2_TR]
+J2 palanca der. (TR)
+
+[KEYLABEL_P2_UP]
+J2 arriba
+
+[KEYLABEL_P2_DOWN]
+J2 abajo
+
+[KEYLABEL_P2_LEFT]
+J2 izquierda
+
+[KEYLABEL_P2_RIGHT]
+J2 derecha
+
+// AdvanceTX Options dialog: rows, buttons and screens.
+
+[DLG_BACK]
+Volver
+
+[DLG_PAGE]
+Página %d de %d
+
+[DLG_CHEAT_MENU_LABEL]
+Menú de trucos
+
+[DLG_CHEAT_MENU_INFO]
+Muestra el menú flotante del mod: arrastra el icono, tócalo y abre sus secciones.
+
+[DLG_TWO_PLAYER_LABEL]
+Modo 2 jugadores
+
+[DLG_TWO_PLAYER_INFO]
+Un solo teclado controla a los dos jugadores. También se activa con la tecla M.
+
+[DLG_KEYS_DOOR_LABEL]
+Teclas de 2 jugadores >
+
+[DLG_KEYS_DOOR_INFO]
+Elige las teclas del jugador 1 y del jugador 2.
+
+[DLG_OVERLAY_DOOR_LABEL]
+Overlay táctil >
+
+[DLG_OVERLAY_DOOR_INFO]
+Botones en pantalla: posición, tamaño y opacidad.
+
+[DLG_PAKS_DOOR_LABEL]
+Paks de texturas >
+
+[DLG_PAKS_DOOR_INFO]
+Activa paquetes de texturas de la carpeta paks.
+
+[DLG_PAK_INFO]
+Activa este pak de texturas. Se aplica al reiniciar el juego.
+
+[DLG_NO_PAKS_LABEL]
+No hay paks todavía
+
+[DLG_NO_PAKS_INFO]
+Copia archivos .zip o .pak a la carpeta paks del juego (en Android, usa Importar pak en AdvanceTX Options).
+
+[DLG_KEYS_TITLE]
+Teclas 2 jugadores
+
+[DLG_KEY_INFO]
+Return para cambiar la tecla; Supr al elegirla la restablece.
+
+[DLG_OVERLAY_TITLE]
+Overlay táctil
+
+[DLG_PAKS_TITLE]
+Paks de texturas
+
+[DLG_OVERLAY_ENABLE_LABEL]
+Overlay táctil
+
+[DLG_OVERLAY_ENABLE_INFO]
+Activa los botones en pantalla (ojo, cruceta, A, B, X, Y y pausa).
+
+[DLG_OVERLAY_SHOWN_LABEL]
+Mostrar botones ahora
+
+[DLG_OVERLAY_SHOWN_INFO]
+Es lo mismo que tocar el botón del ojo.
+
+[DLG_EYE_LOCK_LABEL]
+Bloquear el ojo
+
+[DLG_EYE_LOCK_INFO]
+Impide arrastrar el botón del ojo.
+
+[DLG_REPEAT_LABEL]
+Repetición de cruceta
+
+[DLG_REPEAT_INFO]
+Pulsaciones por segundo al mantener una dirección.
+
+[DLG_OV_X_INFO]
+Posición horizontal del centro, de 0 a 1280.
+
+[DLG_OV_Y_INFO]
+Posición vertical del centro, de 0 a 720.
+
+[DLG_OV_SIZE_LABEL]
+tamaño
+
+[DLG_OV_SIZE_INFO]
+Tamaño del botón en pantalla.
+
+[DLG_OV_ALPHA_LABEL]
+opacidad
+
+[DLG_OV_ALPHA_INFO]
+Qué tan opaco se ve el botón.
+
+[DLG_OV_KEEP_LABEL]
+fijo
+
+[DLG_OV_KEEP_INFO]
+Sigue visible aunque ocultes el resto con el ojo.
+
+[DLG_OV_RESET_LABEL]
+Restablecer overlay
+
+[DLG_OV_RESET_INFO]
+Devuelve todos los botones a su lugar, tamaño y opacidad.
+
+[DLG_OV_SHORT_EYE]
+Ojo
+
+[DLG_OV_SHORT_DPAD]
+Cruceta
+
+[DLG_OV_SHORT_A]
+A
+
+[DLG_OV_SHORT_B]
+B
+
+[DLG_OV_SHORT_X]
+X
+
+[DLG_OV_SHORT_Y]
+Y
+
+[DLG_OV_SHORT_PAUSE]
+Pausa
+
+[DLG_MENU_DOOR_LABEL]
+Menú de trucos >
+
+[DLG_MENU_DOOR_INFO]
+Mostrar el menú de trucos y ajustar su botón y su panel.
+
+[DLG_MENU_TITLE]
+Menú de trucos
+
+[DLG_MENU_LOCK_LABEL]
+Bloquear posición
+
+[DLG_MENU_LOCK_INFO]
+Impide arrastrar el botón y el panel del menú de trucos.
+
+[DLG_MENU_SIZE_LABEL]
+Tamaño del botón
+
+[DLG_MENU_SIZE_INFO]
+Tamaño del botón del menú de trucos en pantalla.
+
+[DLG_MENU_ICON_ALPHA_LABEL]
+Opacidad del botón
+
+[DLG_MENU_ICON_ALPHA_INFO]
+Qué tan opaco se ve el botón del menú cerrado.
+
+[DLG_MENU_PANEL_ALPHA_LABEL]
+Opacidad del panel
+
+[DLG_MENU_PANEL_ALPHA_INFO]
+Qué tan opaco se ve el panel del menú abierto.
+
+[DLG_MENU_RESET_LABEL]
+Restablecer botón del menú
+
+[DLG_MENU_RESET_INFO]
+Devuelve el tamaño, la opacidad y la posición (se mueve arrastrando) a su valor original.
+
+[DLG_SCREEN_DOOR_LABEL]
+Pantalla >
+
+[DLG_SCREEN_DOOR_INFO]
+Proporción de la imagen, ampliación y llenar toda la pantalla.
+
+[DLG_SCREEN_TITLE]
+Pantalla
+
+// Cheat menu: interface text.
+
+[MODUI_SETTINGS]
+Ajustes del menú
+
+[MODUI_MORE]
+Más opciones
+
+[MODUI_SAVE]
+Guardar ajustes al salir
+
+[MODUI_BACK]
+Volver al menú de trucos
+
+[MODUI_CLOSE]
+CERRAR
+
+[MODUI_MINIMIZE]
+MINIMIZAR
+
+[MODUI_COPIED]
+Código de formación copiado
+
+[MODUI_PASTED]
+Código pegado
+
+[MODUI_CLIPBOARD_EMPTY]
+El portapapeles está vacío
+
+[MODUI_CLOSE_HINT]
+Mantén pulsado CERRAR para quitar el menú
+
+[MODUI_CLOSED]
+Menú cerrado hasta reiniciar el juego
+
+[MODUI_NUMBER_TITLE]
+Introduce un número
+
+[MODUI_OK]
+ACEPTAR
+
+[MODUI_CANCEL]
+CANCELAR
+
+[MODUI_SUBTITLE_A]
+PvZ
+
+[MODUI_SUBTITLE_B]
+ - AdvanceTX Mod
+
+// Cheat menu: sections, labels and drop-down lists (entries separated by commas). The numbers are the mod's feature numbers.
+
+[MOD_ITEM0_LABEL]
+Común
+
+[MOD_1_LABEL]
+Sol ilimitado
+
+[MOD_42_LABEL]
+Plantar donde sea
+
+[MOD_2_LABEL]
+Semillas sin recarga
+
+[MOD_3_LABEL]
+Recarga instantánea de habilidades
+
+[MOD_4_LABEL]
+Hongos siempre despiertos
+
+[MOD_5_LABEL]
+Pausa avanzada
+
+[MOD_8_LABEL]
+Velocidad del juego
+
+[MOD_8_LIST]
+Apagado,1.2x,1.5x,2x,2.5x,3x,5x,10x
+
+[MOD_82_LABEL]
+Completar nivel
+
+[MOD_ITEM9_LABEL]
+Depuración
+
+[MOD_ITEM10_LABEL]
+Mostrar vida de plantas:
+
+[MOD_21_LABEL]
+Todas las plantas
+
+[MOD_22_LABEL]
+Cañón de maíz y plantas resistentes
+
+[MOD_ITEM13_LABEL]
+Mostrar vida de zombis:
+
+[MOD_23_LABEL]
+Vida del cuerpo
+
+[MOD_24_LABEL]
+Vida de casco y escudo
+
+[MOD_25_LABEL]
+Gargantuar
+
+[MOD_ITEM17_LABEL]
+Mostrar información del juego:
+
+[MOD_26_LABEL]
+Aparición de zombis
+
+[MOD_27_LABEL]
+Cajas de colisión
+
+[MOD_ITEM20_LABEL]
+Diversión
+
+[MOD_6_LABEL]
+Quitar la niebla
+
+[MOD_43_LABEL]
+Jarrones transparentes
+
+[MOD_45_LABEL]
+Los zombis no entran a la casa
+
+[MOD_44_LABEL]
+La nuez siempre hincha al zombi
+
+[MOD_7_LABEL]
+No sueltan sol ni monedas
+
+[MOD_48_LABEL]
+Controlar zombis bailarines
+
+[MOD_48_LIST]
+Apagado,Avanzar siempre,Bailar sin moverse,Invocar siempre
+
+[MOD_46_LABEL]
+Retrasar la línea de la casa
+
+[MOD_46_LIST]
+Apagado,10,20,30,40,50,60,70,80
+
+[MOD_47_LABEL]
+Tamaño de zombis
+
+[MOD_47_LIST]
+Apagado,0.2x,0.4x,0.6x,0.8x,1x,1.2x,1.4x,1.6x,1.8x,2x
+
+[MOD_ITEM29_LABEL]
+# ¡La vida es proporcional al cuadrado del tamaño!
+
+[MOD_41_LABEL]
+Cuadro de códigos
+
+[MOD_ITEM31_LABEL]
+Ajustes del nivel
+
+[MOD_87_LABEL]
+Pausar la aparición de zombis
+
+[MOD_88_LABEL]
+Sin cortacéspedes
+
+[MOD_83_LABEL]
+Sin semillas obligatorias de Dave
+
+[MOD_84_LABEL]
+Último bastión infinito
+
+[MOD_89_LABEL]
+No permitir borrar partidas
+
+[MOD_90_LABEL]
+No guardar la partida
+
+[MOD_81_LABEL]
+Cuadro de trucos
+
+[MOD_102_LABEL]
+Cambiar el escenario
+
+[MOD_102_LIST]
+Apagado,Día,Noche,Piscina,Niebla,Tejado,Tejado nocturno,Jardín zen,Jardín de setas,Acuario
+
+[MOD_ITEM40_LABEL]
+Rondas de supervivencia infinita:
+
+[MOD_85_LABEL]
+Número de rondas
+
+[MOD_86_LABEL]
+Saltar a esa ronda
+
+[MOD_ITEM43_LABEL]
+# ¡Salta de ronda solo después de elegir semillas!
+
+[MOD_ITEM44_LABEL]
+Ajustes de ranuras de semillas
+
+[MOD_141_LABEL]
+Lado de las ranuras
+
+[MOD_141_LIST]
+Ranuras izquierdas,Ranuras derechas
+
+[MOD_142_LABEL]
+Ranura de destino
+
+[MOD_142_LIST]
+1.º,2.º,3.º,4.º,5.º,6.º,7.º,8.º,9.º,10.º
+
+[MOD_143_LABEL]
+Tipo de semilla
+
+[MOD_143_LIST]
+Ninguno,Lanzaguisantes,Girasol,Petacereza,Nuez,Papa mina,Guisante de hielo,Planta carnívora,Repetidora,Seta puff,Seta solar,Seta fumigadora,Destructora de lápidas,Seta hipnótica,Seta miedosa,Seta de hielo,Seta fatal,Nenúfar,Calabaza aplastante,Triple lanzaguisantes,Alga enredadera,Jalapeño,Pinchos,Tronco antorcha,Nuez alta,Seta marina,Planterna,Cactus,Trébol,Guisante doble,Carambola,Calabaza,Seta imán,Col catapulta,Maceta,Maíz catapulta,Grano de café,Ajo,Hoja paraguas,Caléndula,Melón catapulta,Guisante ametralladora,Girasol doble,Seta sombría,Espadaña,Melón helado,Imán de oro,Roca de pinchos,Cañón de maíz,Nuez explosiva,Nuez gigante,Brote,Repetidora izquierda,Lápida,Zombi,Zombi bote de basura,Zombi cono,Zombi pértiga,Zombi cubo,Zombi bandera,Zombi periódico,Zombi puerta,Zombi fútbol,Zombi bailarín,Zomboni,Zombi caja sorpresa,Zombi minero,Zombi pogo,Zombi bungee,Zombi escalera,Zombi catapulta,Gargantuar,Yeti zombi,Equipo zombi de trineo,Zombi buceador,Zombi delfín,Diablillo,Zombi globo
+
+[MOD_144_LABEL]
+Semilla de planta imitada
+
+[MOD_145_LABEL]
+Reemplazar semilla
+
+[MOD_ITEM50_LABEL]
+Ajustes de proyectiles
+
+[MOD_62_LABEL]
+Daño en cada fotograma
+
+[MOD_61_LABEL]
+El hielo ignora el tronco
+
+[MOD_63_LABEL]
+Cambiar tipo de proyectil
+
+[MOD_63_LIST]
+Apagado,Guisante,Guisante de hielo,Col,Melón,Seta puff,Melón helado,Bola de fuego,Estrella,Pincho,Balón,Maíz,Cañón gigante,Mantequilla,Guisante zombi
+
+[MOD_64_LABEL]
+Proyectil aleatorio
+
+[MOD_65_LABEL]
+Solo cambiar guisantes
+
+[MOD_66_LABEL]
+Cambiar solo tras el tronco
+
+[MOD_67_LABEL]
+Aleatorio sin cañón gigante
+
+[MOD_68_LABEL]
+Aleatorio sin estrellas
+
+[MOD_ITEM59_LABEL]
+Ajustes de aparición
+
+[MOD_ITEM60_LABEL]
+Marca los tipos de zombi:
+
+[MOD_200_LABEL]
+Zombi (siempre aparece en modo natural)
+
+[MOD_202_LABEL]
+Zombi cono
+
+[MOD_203_LABEL]
+Zombi pértiga
+
+[MOD_204_LABEL]
+Zombi cubo
+
+[MOD_205_LABEL]
+Zombi periódico
+
+[MOD_206_LABEL]
+Zombi puerta
+
+[MOD_207_LABEL]
+Zombi fútbol
+
+[MOD_208_LABEL]
+Zombi bailarín
+
+[MOD_211_LABEL]
+Zombi buceador
+
+[MOD_212_LABEL]
+Zomboni
+
+[MOD_214_LABEL]
+Zombi delfín
+
+[MOD_215_LABEL]
+Zombi caja sorpresa
+
+[MOD_216_LABEL]
+Zombi globo
+
+[MOD_217_LABEL]
+Zombi minero
+
+[MOD_218_LABEL]
+Zombi pogo
+
+[MOD_219_LABEL]
+Yeti zombi
+
+[MOD_220_LABEL]
+Zombi bungee
+
+[MOD_221_LABEL]
+Zombi escalera
+
+[MOD_222_LABEL]
+Zombi catapulta
+
+[MOD_223_LABEL]
+Gargantuar
+
+[MOD_233_LABEL]
+Gargantuar ojos rojos
+
+[MOD_226_LABEL]
+Zombi bote de basura
+
+[MOD_227_LABEL]
+Zombi lanzaguisantes
+
+[MOD_228_LABEL]
+Zombi nuez
+
+[MOD_229_LABEL]
+Zombi jalapeño
+
+[MOD_230_LABEL]
+Zombi ametralladora
+
+[MOD_231_LABEL]
+Zombi calabaza
+
+[MOD_232_LABEL]
+Zombi nuez alta
+
+[MOD_234_LABEL]
+Zombi estrella
+
+[MOD_235_LABEL]
+Diablillo fan
+
+[MOD_241_LABEL]
+Modo de aparición
+
+[MOD_241_LIST]
+Apagado,Natural (el juego elige los zombis de cada oleada),Extremo (reparte los zombis por igual en cada oleada)
+
+[MOD_242_LABEL]
+Aplicar aparición
+
+[MOD_ITEM93_LABEL]
+Disposición del campo
+
+[MOD_101_LABEL]
+Escalera al plantar calabaza
+
+[MOD_105_LABEL]
+Columna de destino
+
+[MOD_105_LIST]
+Columna 1,Columna 2,Columna 3,Columna 4,Columna 5,Columna 6,Columna 7,Columna 8,Columna 9,Todas las columnas,Línea de aparición de zombis
+
+[MOD_106_LABEL]
+Fila de destino
+
+[MOD_106_LIST]
+Fila 1,Fila 2,Fila 3,Fila 4,Fila 5,Fila 6,Todas las filas
+
+[MOD_103_LABEL]
+Tipo de planta
+
+[MOD_103_LIST]
+Ninguno,Lanzaguisantes,Girasol,Petacereza,Nuez,Papa mina,Guisante de hielo,Planta carnívora,Repetidora,Seta puff,Seta solar,Seta fumigadora,Destructora de lápidas,Seta hipnótica,Seta miedosa,Seta de hielo,Seta fatal,Nenúfar,Calabaza aplastante,Triple lanzaguisantes,Alga enredadera,Jalapeño,Pinchos,Tronco antorcha,Nuez alta,Seta marina,Planterna,Cactus,Trébol,Guisante doble,Carambola,Calabaza,Seta imán,Col catapulta,Maceta,Maíz catapulta,Grano de café,Ajo,Hoja paraguas,Caléndula,Melón catapulta,Guisante ametralladora,Girasol doble,Seta sombría,Espadaña,Melón helado,Imán de oro,Roca de pinchos,Cañón de maíz,Nuez explosiva,Nuez gigante,Brote,Repetidora izquierda
+
+[MOD_107_LABEL]
+Planta imitada
+
+[MOD_108_LABEL]
+Plantar
+
+[MOD_104_LABEL]
+Tipo de zombi
+
+[MOD_104_LIST]
+Ninguno,Zombi,Zombi bandera,Zombi cono,Zombi pértiga,Zombi cubo,Zombi periódico,Zombi puerta,Zombi fútbol,Zombi bailarín,Bailarín de respaldo,Zombi flotador,Zombi buceador,Zomboni,Equipo zombi de trineo,Zombi delfín,Zombi caja sorpresa,Zombi globo,Zombi minero,Zombi pogo,Yeti zombi,Zombi bungee,Zombi escalera,Zombi catapulta,Gargantuar,Diablillo,Dr. Zombi,Zombi bote de basura,Zombi lanzaguisantes,Zombi nuez,Zombi jalapeño,Zombi ametralladora,Zombi calabaza,Zombi nuez alta,Gargantuar ojos rojos,Zombi estrella,Diablillo fan
+
+[MOD_109_LABEL]
+Añadir zombi
+
+[MOD_ITEM102_LABEL]
+Otros objetos:
+
+[MOD_114_LABEL]
+Añadir lápida
+
+[MOD_110_LABEL]
+Añadir escalera
+
+[MOD_111_LABEL]
+Restaurar cortacéspedes
+
+[MOD_ITEM106_LABEL]
+Quitar:
+
+[MOD_112_LABEL]
+Quitar todas las plantas
+
+[MOD_115_LABEL]
+Quitar todos los zombis
+
+[MOD_116_LABEL]
+Quitar todas las lápidas
+
+[MOD_117_LABEL]
+Quitar todas las escaleras
+
+[MOD_113_LABEL]
+Quitar todos los cortacéspedes
+
+[MOD_ITEM112_LABEL]
+Cambiar estado:
+
+[MOD_9_LABEL]
+Hipnotizar a todos los zombis
+
+[MOD_10_LABEL]
+Congelar a todos los zombis
+
+[MOD_11_LABEL]
+Activar todos los cortacéspedes
+
+[MOD_ITEM116_LABEL]
+Formaciones rápidas
+
+[MOD_121_LABEL]
+Formación para piscina
+
+[MOD_121_LIST]
+Ninguna,[0]Radio Clock Cobless,[1]Minimalist Cobless,[2]Pseudo-Unharmed Cobless,[3]Automatically Subdue Jack-in-the-box Cobless,[4]Fiery Cobless,[5]Split Fiery Cobless,[6]Rear Cobless,[7]Super Forward Cobless,[8]Prince Cobless,[9]Mechanical Clock Cobless,[10]Sideless Cobless,[11]Quartz Clock Cobless,[12]Sunflowerless Cobless,[13]Square Gloomless Cobless,[14]56 Row Accelerated Gloomless Cobless,[15]1 Cob Suppression,[16]Little ② Cob,[17]Fiery 2 Cob,[18]Nuclear 2 Cob,[19]Split 2 Cob,[20]Square 2 Cob,[21]Classic 2 Cob,[22]Speedrun 3 Cob,[23]Tai Chi 4 Cob,[24]Metallic 4 Cob,[25]Square 4 Cob,[26]Verdant 4 Cob,[27]Waterless 4 Cob,[28]Diamond 4 Cob,[29]Sideless 4 Cob,[30]Nuclear Back 4 Cob,[31]Classic 4 Cob,[32]Fiery 4 Cob,[33]Back 4 Cob,[34]Traditional 4 Cob,[35]Half 5 Cob,[36]Scattershot 5 Cob,[37]Heart 5 Cob,[38]Landless 6 Cob,[39]Waterless 6 Cob,[40]Verdant 6 Cob,[41]Zen Room Deep in Flowers and Plants,[42]Sideless 6 Cob,[43]Kernel 6 Cob,[44]Air Bomb 6 Cob,[45]Super Rear 6 Cob,[46]Square 6 Cob,[47]Butterfly Rhyme,[48]A Spoonful of Sweet Soup Balls,[49]Separated 7 Cob,[50]Jade Rabbit,[51]Pumpkinless 8 Cob,[52]Christmas Tree 8 Cob,[53]Centered Christmas Tree 8 Cob,[54]Rectangular 8 Cob,[55]Sideless 8 Cob,[56]Yin and Yang 8 Cob,[57]Duckweed 8 Cob,[58]Rear 8 Cob,[59]To Feed a Dolphin,[60]Kernel 8 Cob,[61]Classic 8 Cob,[62]Sea of Flowers 8 Cob,[63]C2 8 Cob,[64]Separation 8 Cob,[65]Full-Symmetrical 8 Cob,[66]3C 8 Cob,[67]Lampstand 8 Cob,[68]⑨ Cob,[69]Square 9 Cob,[70]C6i 9 Cob,[71]Heart 9 Cob,[72]Alternate 9 Cob,[73]② Cob,[74]Hexagram 10 Cob,[75]Hexagon 10 Cob,[76]Square 10 Cob,[77]Diamond 10 Cob,[78]Simplified 10 Cob,[79]Rear 10 Cob,[80]Classic 10 Cob,[81]To Imprison 6 Zombies,[82]Diagonal 10 Cob,[83]Rubik's Cube 10 Cob,[84]Dave's Hamburger,[85]Cocktail,[86]A Spoonful of Sweet Soup Balls 12 Cob,[87]Porcelain Vase 12 Cob,[88]Half 12 Cob,[89]Simplified 12 Cob,[90]Classic 12 Cob,[91]Fiery 12 Cob,[92]Ice Rain 12 Cob (remodelled),[93]Ice Rain 12 Cob (remodelled x2),[94]Single Purple Card 12 Cob,[95]Sideless Column 12 Cob,[96]Sideless 12 Cob,[97]Waterless 12 Cob,[98]Pure White Card Impending 12 Cob,[99]Backyard 12 Cob,[100]Kernel 8 Cob,[101]Two Row Accelerated 12 Cob,[102]Front 12 Cob,[103]Ladder & Gloom-shroom 12 Cob,[104]Jun Hai 12 Cob,[105]A Poem for The Harp,[106]Plum Blossom 13 Cob,[107]Last Order,[108]Ice Lantern 14 Cob,[109]Tai Chi 14 Cob,[110]Real ④ Cob,[111]God Stick 14 Cob,[112]Sideless 14 Cob,[113]Timeslip 14 Cob,[114]Diamond 15 Cob,[115]Sideless 15 Cob,[116]Real ② Cob,[117]Icebox 16 Cob,[118]Cob Ring 12 Sunflower,[119]Single Ice 16 Cob,[120]Symmetrical 16 Cob,[121]Sideless 16 Cob,[122]Streaking 16 Cob,[123]Double Ice 16 Cob,[124]Super Forward 16 Cob,[125]Fiery 16 Cob,[126]Classic 16 Cob,[127]Zigzag Line 16 Cob,[128]Lung 18 Cob (extreme),[129]Pure 18 Cob,[130]Real 18 Cob,[131]Ice Soul 18 Cob,[132]Tail Bomb 18 Cob,[133]Classic 18 Cob,[134]Pure 20 Cob,[135]Air Bomb 20 Cob,[136]Rake 20 Cob,[137]New 20 Cob,[138]Winter-melonless 20 Cob,[139]The Road of Despair,[140]21 Cob,[141]New 22 Cob,[142]22 Cob,[143]Winter-melonless 22 Cob,[144]Front 22 Cob,[145]24 Cob,[146]Cannon Fodder 24 Cob,[147]Scaredy-shroom Protecter (extreme)
+
+[MOD_122_LABEL]
+Colocar formación
+
+[MOD_ITEM119_LABEL]
+Exportar / importar formación:
+
+[MOD_123_LABEL]
+Copiar código de formación
+
+[MOD_124_LABEL]
+Pegar código de formación
+
+[MOD_125_LABEL]
+Colocar formación
+
+[MOD_ITEM123_LABEL]
+# Puedes colocar formaciones con el juego en pausa
